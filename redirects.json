@@ -1,0 +1,6 @@
+[
+  {
+    "from": "/posts/this-is-the-old-url/",
+    "to": "/posts/the-new-destination-url/"
+  }
+]

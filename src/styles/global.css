@@ -1,0 +1,71 @@
+.stretched-link__blog_post {
+    color: #fff;
+}
+.breadcrumb__list {
+    font-size: 1.2rem;
+}
+body {
+    font-family: 'source sans pro', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    background: white;
+}
+
+.navbar-brand a, .navbar-brand a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+.navbar-brand a:hover {
+    color: lightslategray;
+}
+
+html {
+    scroll-behavior: auto !important;
+}
+
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    color: #120d1a;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+.bg-pastel {
+    background: #9cc2cb24;
+    padding: 1rem;
+}
+
+.bg-purple {
+    background: #2c1f6d;
+}
+.bg-pink {
+    background: #ffd4cb;
+}
+
+.post-body li {
+    list-style: square;
+}
+nav.pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}

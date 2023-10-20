@@ -1,0 +1,67 @@
+[
+  {
+    "name": "The British Museum",
+    "logo": "../images/logos/british-museum-logo-vector.png",
+    "url": "https://www.britishmuseum.org/"
+  },
+  {
+    "name": "The National Trust",
+    "logo": "../images/logos/National-Trust.png",
+    "url": "https://www.nationaltrust.org.uk/"
+  },
+  {
+    "name": "The Council for British Archaeology",
+    "logo": "../images/logos/CBA.jpg",
+    "url": "https://new.archaeologyuk.org/"
+  },
+  {
+    "name": "Historic Environment Scotland",
+    "logo": "../images/logos/HES.png",
+    "url": "https://www.historicenvironment.scot/"
+  },
+  {
+    "name": "Historic England",
+    "logo": "../images/logos/historic-england.jpg",
+    "url": "https://historicengland.org.uk/"
+  },
+  {
+    "name": "Association of Local Government Archaeological Officers",
+    "logo": "../images/logos/ALGAO.jpg",
+    "url": "https://www.algao.org.uk/"
+  },
+  {
+    "name": "CADW",
+    "logo": "../images/logos/CADW.png",
+    "url": "https://cadw.gov.wales/"
+  },
+  {
+    "name": "Dyfed Archaeological Trust",
+    "logo": "../images/logos/dyfedarchlogo.jpg",
+    "url": "https://www.dyfedarchaeology.org.uk/"
+  },
+  {
+    "name": "Gwynedd Archaeological Trust",
+    "logo": "../images/logos/GGAT.jpg",
+    "url": "https://www.heneb.co.uk/"
+  },
+  {
+    "name": "Royal Commission on the Ancient and Historical Monuments of Wales",
+    "logo": "../images/logos/RCAHMW.png",
+    "url": "https://rcahmw.gov.uk/"
+  },
+  {
+    "name": "Clwyd-Powys Archaeological Trust",
+    "logo": "../images/logos/cpat.png",
+    "url": "https://cpat.org.uk/"
+  },
+  {
+    "name": "Archaeology Data Service",
+    "logo": "../images/logos/ADS.png",
+    "url": "https://archaeologydataservice.ac.uk/"
+  },
+  {
+    "name": "National Museum and Gallery of Wales",
+    "logo": "../images/logos/Amgueddfa_Cymru_logo.svg.png",
+    "url": "https://museum.wales/"
+  }
+]

@@ -1,0 +1,34 @@
+CLASSI_UID,TERM,CLA_GR_UID,STATUS,DESCRIPTION
+552,ABANDONED,78,P,Refers to the abandonment of a vessel at sea due to its becoming unseaworthy.  Do not use for vessels abandoned having run aground. For aircraft use DITCHED.
+555,BILGED,78,P,Stoving in or fracturing of lowest part of vessel's hull.
+557,BURNT,78,P,Loss of a vessel or aircraft primarily due to fire.
+561,EXPLOSION,78,P,A vessel or aircraft lost due to an accidental explosion.  Do not use for losses caused by deliberate action.
+567,LOST,78,P,"A vessel or aircraft lost at sea, cause unknown."
+572,STRANDED,78,P,A vessel which runs aground and does not get off.
+556,BROKEN UP,78,P,A vessel which has been dismantled for the purpose of removal from the shore after stranding.
+558,CAPSIZED,78,P,A vessel lost having overturned due to severe weather or shifting cargo.
+559,COLLISION,78,P,Loss of a vessel or aircraft through accidental contact with another or a structure. Do not use when contact is with natural feature or rocky shore.
+560,DEPTH CHARGED,78,P,Loss of vessel due to deployment of explosive charges set to detonate at a predetermined depth.
+562,FOUNDERED,78,P," A vessel that has sunk at sea: Double-index with background cause were known, e.g. LEAKED, COLLISION."
+563,GROUNDED,78,P,Loss of a vessel due to running aground and subsequently refloating before final loss.
+564,GUN ACTION,78,P,"Loss of a vessel due to bombardment from ship, shore or submarine. For Aircraft use SHOT DOWN."
+565,LAID UP,78,P,A vessel withdrawn from active use and awaiting disposal or reuse.  Vessel subsequently becomes derelict.
+566,LEAKED,78,P,"Ingress of water through damage or defects in the hull. Double-index with any cause, were known, e.g. COLLISION, and consequence, were known, e.g. BEACHED, FOUNDERED."
+553,BEACHED,78,P,A vessel that is deliberately run or dragged up the beach to save cargo and or crew. Do not use if the vessel is refloated.
+554,BOMBED,78,P,A vessel lost due to aerial bombardment.
+568,MINED,78,P,Loss due to action of free floating or tethered explosive device set to explode on contact with or in proximity to a vessel.
+569,RAMMING,78,P,Deliberate collision with another vessel in order to inflict damage.
+571,SCUTTLED,78,P,"Deliberate sinking of a vessel, e.g. to prevent capture or to act as a blockship."
+573,TORPEDOED,78,P,Loss due to action of self propelled submerged missile.
+574,WRECKED,78,P,A vessel which comes ashore and breaks up immediately due to severe weather.
+837,DISTRESSED,78,P,"Damaged, usually by weather or warfare, to such an extent that the vessel is in severe or imminent danger of being lost; i.e. a pre-existing condition of the vessel which contributes to the final wrecking event."
+1422,DITCHED,78,P,An aircraft which has been forced to land on the sea in an emergency.
+1423,CRASHED,78,P,An aircraft which has been damaged beyond repair due to a collision with the ground or sea.
+1424,MECHANICAL FAILURE,78,P,"The loss of a craft due to structural or engine failure. In the case of loss resulting from the malfunction of navigational or operational apparatus, use INSTRUMENT FAILURE."
+1425,SHOT DOWN,78,P,An aircraft lost due to offensive action. Includes air-to-air and ground-to-air combat. For Vessels use GUN ACTION.
+5065,RECOVERED,78,P,"Where a wrecked or incapacitated craft has been recovered or salvaged, possibly leaving debris or other evidence of its presence at the wreck or crash site."
+5129,DISPERSED,78,P,"For use when a vessel, already lost through other causes, is dismantled or dispersed by means of explosives to render it harmless to other shipping."
+5196,SPONTANEOUS COMBUSTION,78,P,"Ignition from within rather than through external forces; frequently associated with cargoes of organic material such as manure, owing to an internal rise in temperature of the cargo itself."
+5195,INSTRUMENT FAILURE,78,P,"Loss of a craft, especially aircraft, resulting from the malfunction of registering or measuring apparatus vital to its navigation or operation. In the case of structural or engine failure use MECHANICAL FAILURE."
+5197,ENEMY ACTION,78,P,"Loss due to cumulative damage sustained during acts of warfare, capture, piracy, privateering etc. Use in instances where a more specific manner of loss (e.g. SCUTTLED, GUN ACTION) cannot be assigned."
+5198,CONDEMNED,78,P,Judged as irreparable or no longer seaworthy following a wrecking incident (from which the vessel may have been recovered) or a difficult voyage: a term with legal force indicating that the vessel is unfit for service.
