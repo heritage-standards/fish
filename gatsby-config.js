@@ -3,7 +3,7 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
-const siteUrl = `https://heritage-standards.org.uk`
+const siteUrl = `https://heritage-standards.github.io/fish`
 
 /**
  * @type {import('gatsby').GatsbyConfig}
@@ -59,7 +59,7 @@ module.exports = {
                 id: 4
             }
         ],
-        siteUrl: `https://heritage-standards.org.uk`,
+        siteUrl: `https://heritage-standards.github.io/fish`,
     },
 
     plugins: [
