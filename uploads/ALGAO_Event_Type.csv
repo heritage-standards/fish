@@ -1,0 +1,57 @@
+Parent Term,Term,Scope Note
+,archaeological intervention,Intervention in the archaeological or built heritage resource to gather information. Event Types in this group are defined by inevitable damage to the site recorded.
+,environmental intervention,Intervention in the archaeological resource intended to gather information about past environments.
+,field survey,"Examination and recording of the archaeological resource in the field, generally requiring access to the site recorded."
+,non archaeological intervention,"Intervention in the archaeological or built heritage which was not undertaken for archaeological purposes, but has produced usable archaeological information."
+,remote sensing survey,Examination and recording of the archaeological or built heritage resource using techniques which do not require access to the site.
+aerial photography,conventional aerial photography,Recording of monument features or character using still or motion visible light photography from an aircraft or other airborne vehicle or apparatus.
+aerial photography,infra red aerial photography,Use of infra red sensitive film for aerial photography that reveals different soil characteristics to normal visible light film.
+aerial photography,infra red line scan aerial photography,Use of video stills taken from RAF aircraft recording differential heat spectrum of features both extant and buried.
+aerial photography,multi spectral aerial photography,Use of specialist film to capture details only visible at wavelengths beyond the visible spectrum.
+archaeological intervention,augering survey,Use of hand held soil boring equipment that reveals the depth and character of below ground stratigraphy.
+archaeological intervention,excavation,Removal and recording of archaeological stratigraphy. Use a specific term where known.
+archaeological intervention,watching brief,Monitoring by an archaeologist of ground disturbance  undertaken for non archaeological purposes.
+building survey,building elevation survey,Systematic measurement and recording of the elevations of a building.
+building survey,building plan survey,Systematic recording of the ground plans of a building.
+environmental intervention,environmental sampling,Removal of samples to gather information about past environments.
+environmental sample,core sampling,Use of boring or auguring equipment to retrieve samples from buried features for laboratory analysis.
+environmental sample,soil monolith sampling,Removal of a vertical sample of soil generally using a U sectioned tin to extract an intact column including distinct layers.
+environmental sample,soil sampling,Removal of a measured quantity of soil for analysis to measure or assess its content or characteristics.
+environmental sample,timber sampling,"Removal of a measured quantity of timber or preserved wood in order to ascertain its species, age, date or other characteristics."
+excavation,area excavation,"Removal of archaeological stratigraphy to reveal and record below ground structures, establish relationships between structures, and recover artefacts and other evidence for past activity."
+excavation,strip and record,"Stripping of large area of topsoil under archaeological supervision, recording, and subsequent whole or part excavation of subsurface features revealed."
+excavation,test pit,Removal and recording of topsoil and archaeological stratigraphy over a measured sample percentage of a monument or area of interest.
+excavation,trial trench,"Removal and recording of topsoil and arcaheological stratigraphy in selected places to confirm the nature, exact location and depth or extent of an archaeological site."
+field survey,building recording,"Observation and recording of buildings and built structures to clarify date, phasing etc. Where a survey has been undertaken, use an appropriate term."
+field survey,casual observation,"Unplanned observation of features or artefacts of interest, for example encountered during other activities."
+field survey,field observation,"Unstructured (but planned) observation and recording of field monuments. Where measurements are made or several photographs taken use 'measured survey', 'photographic survey' etc."
+field survey,fieldwalking survey,Collection or observation of artefacts on the surface as an aid to locating pasr activity.
+field survey,geochemical survey,Location or identification of areas of past land use by means of the chemical composition of the soil.
+field survey,geophysical survey,"Use of ground based instruments that measure and display physical characteristics of the soil, subsoil orlocal geology. Use a specific term where known."
+field survey,measured survey,"Survey involving the systematic recording of dimensions of a monument, such that detailed drawings and reconstructions can be made."
+field survey,photographic survey,Use of photographic equipment to record the visual or other radiant characteristics of a monument.
+fieldwalking survey,systematic fieldwalking survey,Systematic collection of artefacts from a surface as an aid to location of areas of past activity.
+fieldwalking survey,unsystematic fieldwalking survey,Unsystematic collection of artefacts from a surface as an aid to location of areas of past activity.
+geophysical survey,bosing survey,Location of concealed structures by differences in the sound produced by thumping the ground
+geophysical survey,dowsing survey,Location of concealed structures using the alleged ability of some individuals to locate water or other desired items.
+geophysical survey,ground penentrating radar survey,Location and display of concealed structures by the measurement of reflected radio waves.
+geophysical survey,magnetic susceptibility survey,Measurement of the effect of an artificial electromagnetic field on subsurface and surface features.
+geophysical survey,magnetometry survey,Location and display of concealed structures by the measurement of local anomalies in the Earth's magnetic field.
+geophysical survey,metal detecting survey,Systematic measurement of distribution of concealed metal artefacts by means of their electromagnetic properties.
+geophysical survey,resistivity survey,Location and display of concealed structures by measurement of differences in electrical resistance.
+geophysical survey,scanning magnetometry survey,Location of concealed structures by the presence of magnetic anomalies.
+geophysical survey,side scanning sonar survey,Location of sea bed structures by means of laterally emitted and reflected high frequency sound waves.
+geophysical survey,sub bottom profiling survey,Location and display of structures buried within the sea bed by emmssion and reflection of high energy low frequency sound waves.
+geophysical survey,systematic magnetometry survey,Measurement and recording of the distribution of magnetic anomalies using a grid or similar guide to produce an image.
+measured survey,building survey,"Systematic measurement and record of the dimensions of a building, relationship of its component parts etc."
+measured survey,contour survey,Recording of the lines of equal height.
+measured survey,topographic survey,"Recording of the shape, size and relationship of surface features producing scale plans and sections."
+non archaeological intervention,metal detector use,"Unsystematic use of equipment to detect concealed metal artefacts, including their removal from the ground."
+photographic survey,conventional photographic survey,Recording of monument features or character using still or motion picture photography from the ground or other fixed vantage point. For airborne photographic equipment use aerial photography.
+photographic survey,infra red thermography survey,"Location and dispaly of concealed structures by means of their thermal image, as captured by sensitive thermographic equipment."
+photographic survey,photogrammetric survey,Recording of surface features using overlapping photographs to allow three dimensional viewing.
+photographic survey,rectified photographic survey,Photographic survey using special lenses to correct distortions due to parallax. Generally used for building elevations.
+remote sensing survey,aerial photography,Survey using photographic or other recording equipment mounted on or used from an aircraft or other airborne vehicle.
+remote sensing survey,satellite imaging,Use of images derived from orbiting satellites.
+subsoil survey,borehole survey,Use of powered machinery to investigate the depth and character of the subsoil.
+subsoil survey,subsoil test pit,Use of hand or machine excavation to establish physical characteristics of the subsoil.
