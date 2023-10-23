@@ -10,7 +10,7 @@ const NavBar = ({siteTitle, menuLinks}) => (
         color: "black",
     }}>
         <div className="container">
-            <Link to="/" className="navbar-brand text-gray">{siteTitle}</Link>
+            <Link to="/" className="navbar-brand text-gray"><span className="d-none d-sm-block d-md-none"><abbr title={siteTitle}>FISH</abbr></span> <span className="d-sm-none d-md-block">{siteTitle}</span></Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -19,7 +19,7 @@ const NavBar = ({siteTitle, menuLinks}) => (
             <div className={"collapse navbar-collapse"} id="navbarSupportedContent">
                 <div className={"navbar-nav"}>
                     {menuLinks.map(link => (
-                        <a key={link.id} href={link.link} style={{color: `black`}} className={"nav-link"} >{link.name}</a>
+                        <Link to={link.link} key={link.id} style={{color: `black`}} className={"nav-link"} >{link.name}</Link>
                     ))}
                 </div>
             </div>
