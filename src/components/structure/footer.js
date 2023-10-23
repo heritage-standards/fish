@@ -17,16 +17,14 @@ const Footer = ({siteTitle, footerLinks},) => {
               <Container className="text-center text-md-start mt-5">
                 <Row className="mt-3">
                   <Col md={3} lg={4} xl={3} className="cmx-auto mb-4">
-                    <h6 className="text-uppercase fw-bold">{siteTitle}</h6>
+                    <h3 className="text-uppercase fw-bold">{siteTitle}</h3>
                     <hr className="mb-4 mt-0 d-inline-block mx-auto" />
 
                   </Col>
 
                   <Col md={2} lg={2} xl={2} className="mx-auto mb-4">
-                    <h6 className="text-uppercase fw-bold">Further information</h6>
-                    <hr
-                      className="mb-4 mt-0 d-inline-block mx-auto"
-                    />
+                    <h3 className="text-uppercase fw-bold">Further information</h3>
+                    <hr className="mb-4 mt-0 d-inline-block mx-auto" />
                     <ul className={'list-unstyled'} style={{marginLeft: 0}}>
                       {footerLinks.map(link => (
                           <li><Link key={link.id} to={link.link} className={"text-black"} >{link.name}</Link></li>
@@ -36,7 +34,7 @@ const Footer = ({siteTitle, footerLinks},) => {
                   </Col>
 
                   <Col md={4} lg={3} xl={3} className="mx-auto mb-md-0 mb-4">
-                    <h6 className="text-uppercase fw-bold">Contact</h6>
+                    <h3 className="text-uppercase fw-bold">Contact</h3>
                     <hr
                       className="mb-4 mt-0 d-inline-block mx-auto"
                     />
