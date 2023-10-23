@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import PropTypes from "prop-types";
+import {Link} from "gatsby";
 
 const Footer = ({siteTitle, footerLinks},) => {
   return (
@@ -28,7 +29,7 @@ const Footer = ({siteTitle, footerLinks},) => {
                     />
                     <ul className={'list-unstyled'} style={{marginLeft: 0}}>
                       {footerLinks.map(link => (
-                          <li><a key={link.id} href={link.link} className={"text-black"} >{link.name}</a></li>
+                          <li><Link key={link.id} to={link.link} className={"text-black"} >{link.name}</Link></li>
                       ))}
                     </ul>
 
