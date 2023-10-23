@@ -10,7 +10,7 @@ const NavBar = ({siteTitle, menuLinks}) => (
         color: "black",
     }}>
         <div className="container">
-            <Link to="/" className="navbar-brand text-gray"><span className="d-none d-sm-block d-md-none"><abbr title={siteTitle}>FISH</abbr></span> <span className="d-sm-none d-md-block">{siteTitle}</span></Link>
+            <Link to="/" className="navbar-brand text-gray"><span className="d-lg-none"><abbr title={siteTitle}>FISH</abbr></span> <span className="d-none d-lg-block">{siteTitle}</span></Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
