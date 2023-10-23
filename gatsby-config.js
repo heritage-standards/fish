@@ -3,12 +3,13 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
-const siteUrl = `https://heritage-standards.github.io/fish`
+const siteUrl = `https://heritage-standards.museologi.st`
 
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+    pathPrefix: ``,
     siteMetadata: {
         title: `Forum on Information Standards in Heritage`,
         description: `Forum on Information Standards in Heritage`,
@@ -59,7 +60,7 @@ module.exports = {
                 id: 4
             }
         ],
-        siteUrl: `https://heritage-standards.github.io/fish`,
+        siteUrl: `https://heritage-standards.museologi.st`,
     },
 
     plugins: [
