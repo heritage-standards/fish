@@ -12,6 +12,7 @@ const query = graphql`
                 id
                 html
                 frontmatter {
+                    title
                     permalink
                     date(formatString: "MMMM DD, YYYY")
                     author
@@ -23,6 +24,7 @@ const query = graphql`
 const AboutText = () => {
     const data = useStaticQuery(query);
     const content = data.allMarkdownRemark.nodes[0].html;
+    const title = data.allMarkdownRemark.nodes[0].frontmatter.title;
     return (
         <>
         <Hero/>
@@ -33,7 +35,7 @@ const AboutText = () => {
 
                     <div className="px-4 my-4">
                         <h1 className="ml-4 mt-4 text-center display-3">
-                            Forum for Information Standards in Heritage
+                            {title}
                         </h1>
                     </div>
                     <div className="bg-white text-black mb-4 p-4 rounded-2"
