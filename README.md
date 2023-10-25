@@ -44,7 +44,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-25T10:47:51
+last_modified_at: 2023-10-25T10:50:40
 ---
 ```
 Content for markdown uses standard syntax,  **BUT** you can mix html tags with this eg for buttons. Use the Bootstrap 5
@@ -100,7 +100,8 @@ This aliases to `gh-pages -d public` and will deploy the site to the `gh-pages` 
 
 ### Github Actions
 
-For this project, an automatic build on commit/push action is included. To amend this, go to the .git/workflows folder and edit the yaml file. 
+For this project, an automatic build on commit/push action is included. To amend this, go to the .git/workflows folder and edit the deploy-on-commit.yml file.
+When this runs correctly, the site will build on a virtual ubuntu server, then deploy the code to the gh-pages branch.  
 
 ## License
 
