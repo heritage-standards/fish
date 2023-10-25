@@ -45,7 +45,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-25T11:11:02
+last_modified_at: 2023-10-25T13:59:54
 ---
 ```
 Content for markdown uses standard syntax,  **BUT** you can mix html tags with this eg for buttons. Use the Bootstrap 5
@@ -82,7 +82,7 @@ The images are then adjusted and optimised on build for the logos component.
 ## CSS and styles
 
 This site is built very simply using React Bootstrap and uses version 5 (latest). To learn more about the way you
-can use Bootstrap classes to achieve the presentation you desire, [their documentation](https://getbootstrap.com/) is excellent. 
+can use Bootstrap classes to achieve the presentation you desire, [their documentation](https://getbootstrap.com/) is excellent.
 
 ## Site code
 
@@ -93,7 +93,7 @@ The code that powers the site build is stored in the src folder and this is most
 Testing and building for this system is pretty easy, just follow the instructions below.
 
 ### :wrench: Development
-To run this system locally for development, you will need to have NodeJS installed.
+To run this system locally for development, you will need to have NodeJS installed (v18.10.0 - use NVM to install multiple node versions if you need to).
 
 Once you have that, you can run:
 
@@ -129,6 +129,8 @@ This aliases to `gh-pages -d public` and will deploy the site to the `gh-pages` 
 
 For this project, an automatic build on commit/push action is included. To amend this, go to the .git/workflows folder and edit the deploy-on-commit.yml file.
 When this runs correctly, the site will build on a virtual ubuntu server, then deploy the code to the gh-pages branch.  
+
+The script can also be triggered manually from the actions page on Github's action web interface.
 
 ## License
 
