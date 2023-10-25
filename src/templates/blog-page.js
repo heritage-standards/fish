@@ -3,19 +3,48 @@ import * as React from "react";
 import Layout from "../components/layout";
 import {Container, Row} from "react-bootstrap";
 import Seo from "../components/structure/seo";
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {
+    faClock
+} from '@fortawesome/free-regular-svg-icons';
 
 export default function BlogPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
+
+    const PostDate = ({ frontmatter }) => {
+      if (frontmatter.date) {
+        return (
+          <span>
+            <FontAwesomeIcon icon={faClock} style={{color: "#145019",}} /> Published: {frontmatter.date}
+          </span>
+        );
+      }
+
+      return null;
+    };
+
+    const UpdatedDate = ({ frontmatter }) => {
+      if (frontmatter.last_modified_at) {
+        return (
+          <span>
+            <FontAwesomeIcon icon={faClock} style={{color: "#145019",}} /> Updated: {frontmatter.last_modified_at}
+          </span>
+        );
+      }
+
+      return null;
+    };
+
     return (
         <Layout>
         <Container fluid className={'text-bg-light'}>
             <Container className={'my-4'}>
                 <Row className={"my-4"}>
                     <div className="px-4 mt-3">
-                        <h1 className="ml-4 mt-4 text-center display-3">{frontmatter.title}</h1>
+                        <h1 className="ml-4 mt-4 text-center display-3 fw-bold">{frontmatter.title}</h1>
                     </div>
                     <div className="px-4 mt-3">
-                        <p className="ml-4 ">Published: {frontmatter.date}<br/> Updated: {frontmatter.last_modified_at}</p>
+                        <p className="text-success"><PostDate frontmatter={frontmatter}/> <UpdatedDate frontmatter={frontmatter} /> </p>
                     </div>
                     <div className="post-body bg-white text-black mb-4 p-4 "
                          dangerouslySetInnerHTML={{__html: html}}/>

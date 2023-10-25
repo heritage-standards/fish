@@ -15,12 +15,13 @@ const PostCard = ({post}) => (
                 <Card.Body className="bg-white">
                     <Link to={post.frontmatter.permalink} className="stretched-link stretched-link__blog_post">
                         <h1 className="lead text-black fw-bold mb-3 mt-0">{post.frontmatter.title}</h1>
+                    </Link>
+
                         <h2
                             className="text-primary small">{post.frontmatter.date} Authors: {post.frontmatter.author && post.frontmatter.author.map(writer => (
                             `${writer} `
                         ))}</h2>
                         <p className={"text-dark"}>{post.excerpt}</p>
-                    </Link>
                 </Card.Body>
             </Col>
         </Row>

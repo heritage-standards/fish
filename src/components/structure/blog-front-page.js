@@ -31,7 +31,7 @@ const LatestPosts = () => {
     const posts = data.allMarkdownRemark.edges;
     return (
         <Container>
-            <h2 className={'display-3 text-center display-6'}>Latest news and events</h2>
+            <h2 className={'display-3 text-center display-6 fw-bold'}>Latest news and events</h2>
             <Col md={12} className={'text-center'}>
                 <Row className={"my-4 bg-white"}>
                     {posts.map(({node}) => (

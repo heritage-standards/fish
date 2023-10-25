@@ -6,7 +6,7 @@ permalink: /midas-heritage/
 type: page
 author:
     - Digital Standards Unit
-last_modified_at: 2023-10-20T09:50:57
+last_modified_at: 2023-10-25T11:11:03
 ---
 ## Introduction, history, best practice, structure & dictionary
 
@@ -16,9 +16,9 @@ In 1998, not long after ICOM produced an international data standard for archaeo
 
 The data standard suggests the minimum level of information needed for recording heritage assets and covers the procedures involved in understanding, protecting and managing these assets. It is used by national government organizations, local authorities, heritage sector organizations, amenity groups and societies, the research community and professional contractors.
 
-![MIDAS_Heritage_logo](images/MIDAS_Heritage_logo.png)
+![MIDAS Heritage logo](images/MIDAS_Heritage_logo.png)
 
-<a href="/2015/10/MIDAS_Heritage_2012_update_v5.doc" class="btn btn-success text-center">Download the standard</a>
+<div class="text-center"><a href="/2015/10/MIDAS_Heritage_2012_update_v5.doc" class="btn btn-success text-center">Download the standard</a></div>
 
 ### History
 
@@ -58,8 +58,7 @@ MIDAS Heritage groups historic environment information into six main _themes_ (e
 
 NB! The _Watercraft and Aircraft Annexe_ is available as a separate document.
 
-<a href="/2015/10/MIDAS_Watercraft_and_Aircraft_complete-1.pdf" class="btn btn-success text-center">Download the Watercraft and Aircraft Annexe</a>
-
+<div class="text-center"><a href="/2015/10/MIDAS_Watercraft_and_Aircraft_complete-1.pdf" class="btn btn-success text-center">Download the Watercraft and Aircraft Annexe</a></div>
 
 ![Casework and Consultation - Hanover Square, London © Historic England. Man and woman looking at drawings or diagrams, standing in front of a building, smiling.](images/midas-heritage-image-consultation-201x300.png)    
 
@@ -67,11 +66,10 @@ NB! The _Watercraft and Aircraft Annexe_ is available as a separate document.
 
 ### Dictionary
 
-The [MIDAS Heritage Dictionary](/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf) recommends what information units to include when  
-recording a particular asset or management area, and explains how they should be used. A few information units are mandatory but the majority are optional, depending on the purpose of your inventory.
+The [MIDAS Heritage Dictionary](/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf) recommends what information units to include when recording a particular asset or management area, and explains how they should be used. A few information units are mandatory but the majority are optional, depending on the purpose of your inventory.
 
 > There are some minor discrepancies with the Mandatory/ Optional status for a few individual information units which we are aware of and plan to address in the near future.
 
 Each unit of information contains a brief description, guidance on usage, whether a field is free text or controlled and should be populated using a terminology list/ authority file, and one or more examples.
 
-<a href="/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf" class="btn btn-success text-center">Download the Dictionary</a>
+<div class="text-center"><a href="/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf" class="btn btn-success text-center">Download the Dictionary</a></div>

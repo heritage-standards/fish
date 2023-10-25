@@ -17,7 +17,7 @@ const BlogPage = (props) => {
             <Container fluid className={"text-bg-light"}>
                 <Container className={'mt-4 px-4'}>
                     <Row className={"mt-4"}>
-                        <h1 className="ml-4 mt-4 text-center display-3">News and events</h1>
+                        <h1 className="ml-4 mt-4 text-center display-3 fw-bold">News and events</h1>
                         <Row>
                             {Posts}
                         </Row>

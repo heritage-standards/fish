@@ -8,6 +8,7 @@ This is a simple site, with very few complex pieces of architecture. It is built
 * Bootstrap 5
 * Various node modules
 * Markdown (with HTML snippets sometimes)
+* Minimal use of fontawesome icons
 
 ## Content
 
@@ -44,7 +45,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-25T10:50:40
+last_modified_at: 2023-10-25T11:11:02
 ---
 ```
 Content for markdown uses standard syntax,  **BUT** you can mix html tags with this eg for buttons. Use the Bootstrap 5
@@ -56,6 +57,32 @@ Linking to images is relative, so for:
 
 For the best experience of coding and pushing content, I would suggest cloning the repository and using an IDE
 to make your changes and add files and upload them, rather than doing edits in the browser on github.
+
+## Adding new partners
+
+The partners are listed in a JSON array in src/json/partners.json in this format:
+
+```JSON
+[
+  {
+    "name": "The British Museum",
+    "logo": "../images/logos/british-museum-logo-vector.png",
+    "url": "https://www.britishmuseum.org/"
+  },
+  {
+    "name": "The National Trust",
+    "logo": "../images/logos/National-Trust.png",
+    "url": "https://www.nationaltrust.org.uk/"
+  }
+]
+```
+To add a new one, you need to add a new array entry with the same keys and add the image file to src/images/logos folder.
+The images are then adjusted and optimised on build for the logos component.
+
+## CSS and styles
+
+This site is built very simply using React Bootstrap and uses version 5 (latest). To learn more about the way you
+can use Bootstrap classes to achieve the presentation you desire, [their documentation](https://getbootstrap.com/) is excellent. 
 
 ## Site code
 

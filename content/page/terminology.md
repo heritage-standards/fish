@@ -4,9 +4,9 @@ date: '2014-04-08T16:17:44+01:00'
 status: publish
 permalink: /terminology/
 type: page
-author: 
+author:
   - Digital Standards Unit
-last_modified_at: 2023-10-20T09:50:57
+last_modified_at: 2023-10-25T11:11:03
 ---
 ## An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms
 
@@ -14,9 +14,11 @@ Controlled vocabularies enhances access to cultural heritage information. They f
 
 Selecting the correct term may vary depending on interpretation or tradition. While our thesauri and authority files are not always right, they usually are a good start. Vocabularies evolve and change over time. With technical developments, such as persistent [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier), regional synonyms and alternative labels can be added as we agree more on the concept of what something is, rather than the specific terms describing it.
 
-<a href="/fish-vocabularies/" class="mx-2 my-2 btn btn-dark">FISH vocabularies</a>
-<a href="/chronology/" class="mx-2 my-2 btn btn-dark">Chronological periods</a>
-<a href="/other-terminology-resources/" class="mx-2 my-2 btn btn-dark">Other terminologies</a>
+<div class="text-center">
+<a href="/fish-vocabularies/" class="mx-2 my-2 btn btn-success">FISH vocabularies</a>
+<a href="/chronology/" class="mx-2 my-2 btn btn-success">Chronological periods</a>
+<a href="/other-terminology-resources/" class="mx-2 my-2 btn btn-success">Other terminologies</a>
+</div>
 
 ## The FISH Vocabularies
 
@@ -24,7 +26,7 @@ The FISH vocabularies consist of a number of structured terminologies for record
 
 The vocabularies have been developed over many years, in collaboration with organisations such as [Historic England](https://historicengland.org.uk/) (formerly English Heritage), [ALGAO](http://www.algao.org.uk/), [Collections Trust](http://www.collectionstrust.org.uk/) and the [National Trust](http://www.nationaltrust.org.uk/).
 
-The core FISH vocabularies are downloadable from the _[Heritage Data](http://www.heritagedata.org)_ website. 
+> The core FISH vocabularies are downloadable from the [Heritage Data](http://www.heritagedata.org) website.
 
 The thesauri can be downloaded in _PDF_ or _CSV_ formats. The majority are also available in  Linked Open Data _LOD_ and _SKOS_ formats. The thesauri are refreshed once a year. Open a thesaurus or authority file in CSV or PDF format. (PDF content is listed alphabetically and hierarchically).
 
@@ -32,8 +34,8 @@ All the resources are free to use and do not require FISH membership.
 
 ### Candidate Terms
 
-We welcome your feed-back and suggestions on additional terms to include so that the FISH vocabularies remain correct, 
-relevant, and inclusive. Submit a Candidate Term to any of our terminology resources and include a description (scope note), 
+We welcome your feed-back and suggestions on additional terms to include so that the FISH vocabularies remain correct,
+relevant, and inclusive. Submit a Candidate Term to any of our terminology resources and include a description (scope note),
 example of usage and references.
 
 

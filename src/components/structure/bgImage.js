@@ -34,7 +34,7 @@ export default function Hero() {
             <BackgroundImage
                 className="background-image"
                 image={imagedata.file.childImageSharp.gatsbyImageData}
-                alt={'Silbury Hill'}
+                alt={'Stonehenge seen from the Heel stone'}
             />
     )
 }

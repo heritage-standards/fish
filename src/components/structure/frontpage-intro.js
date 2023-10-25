@@ -34,7 +34,7 @@ const AboutText = () => {
                 <Row className={"post-body my-4 "}>
 
                     <div className="px-4 my-4">
-                        <h1 className="ml-4 mt-4 text-center display-3">
+                        <h1 className="ml-4 mt-4 text-center display-3 fw-bold">
                             {title}
                         </h1>
                     </div>
