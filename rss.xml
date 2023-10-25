@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Oct 2023 10:54:08 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Oct 2023 11:13:50 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -899,7 +899,7 @@ Records Enhancement Projects for the Palaeolithic and Mesolithic).&lt;/p&gt;
 &lt;p&gt;Lithic terminologies were also one of the areas that were discussed in the FISH E-Conference a few years ago. This consultation
 is being conducted through the lithic and prehistory specialist societies and is aimed at lithic specialists across the sector –
 freelance, in house unit, academic, museum etc. The consultation is due to end on November 30th.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/2019/10/Lithic-artefact-terminology-consultation-Oct_Nov-2019.docx&quot;&gt;Lithic artefact terminology consultation Oct_Nov 2019&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FISH Session at 2018 CAA-UK conference videos now online]]></title><description><![CDATA[At last year’s Computer Applications and Quantitative Methods in Archaeology UK (CAAUK) conference held in Edinburgh we
+&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2019/10/Lithic-artefact-terminology-consultation-Oct_Nov-2019.docx&quot; class=&quot;btn btn-success&quot;&gt;Lithic artefact terminology consultation Oct - Nov 2019&lt;/a&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[FISH Session at 2018 CAA-UK conference videos now online]]></title><description><![CDATA[At last year’s Computer Applications and Quantitative Methods in Archaeology UK (CAAUK) conference held in Edinburgh we
 held a special FISH…]]></description><link>https://heritage-standards.museologi.st/news/fish-session-at-2018-caa-uk-conference-videos-now-online/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/news/fish-session-at-2018-caa-uk-conference-videos-now-online/</guid><pubDate>Tue, 17 Sep 2019 15:06:24 GMT</pubDate><content:encoded>&lt;p&gt;At last year’s Computer Applications and Quantitative Methods in Archaeology UK (CAAUK) conference held in Edinburgh we
 held a special FISH session highlighting some of the recent applied work based on or associated with information standards.&lt;/p&gt;
 &lt;p&gt;The session outline is below and the videos are available online (along with a number of other excellent presentations
@@ -3600,7 +3600,7 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
             src=&quot;/static/747e1bc0ae28a3c503aa764912fe9425/c8518/MIDAS_Heritage_logo.png&quot;
-            alt=&quot;MIDAS_Heritage_logo&quot;
+            alt=&quot;MIDAS Heritage logo&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
             decoding=&quot;async&quot;
@@ -3608,9 +3608,9 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
           /&gt;
         &lt;/picture&gt;
     &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;MIDAS_Heritage_logo&lt;/figcaption&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;MIDAS Heritage logo&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/2015/10/MIDAS_Heritage_2012_update_v5.doc&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the standard&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2015/10/MIDAS_Heritage_2012_update_v5.doc&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the standard&lt;/a&gt;&lt;/div&gt;
 &lt;h3&gt;History&lt;/h3&gt;
 &lt;p&gt;The first edition, &lt;em&gt;MIDAS – A Manual and Data Standard for Monument Inventories&lt;/em&gt;, was published by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Royal_Commission_on_the_Historical_Monuments_of_England&quot;&gt;Royal Commission on the Historical Monuments of England&lt;/a&gt; (RCHME) in 1998. The second edition, published in 2007, was published by &lt;a href=&quot;https://en.wikipedia.org/wiki/English_Heritage&quot;&gt;English Heritage&lt;/a&gt; (today &lt;a href=&quot;https://en.wikipedia.org/wiki/Historic_England&quot;&gt;Historic England&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The standard was developed for and on behalf of the &lt;em&gt;Forum on Information Standards in Heritage&lt;/em&gt; (FISH), a discussion forum aimed at helping to resolve standards and recording issues for the whole of the heritage sector.&lt;/p&gt;
@@ -3642,7 +3642,7 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;li&gt;&lt;em&gt;Actor Information:&lt;/em&gt; Actor and role information&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;NB! The &lt;em&gt;Watercraft and Aircraft Annexe&lt;/em&gt; is available as a separate document.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/2015/10/MIDAS_Watercraft_and_Aircraft_complete-1.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Watercraft and Aircraft Annexe&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2015/10/MIDAS_Watercraft_and_Aircraft_complete-1.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Watercraft and Aircraft Annexe&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
     &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -3714,22 +3714,25 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
     &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Investigative Activity - Ashby de la Zouch Castle, Leicestershire. © Historic England. Image of a man with an archaeological instrument, standing next to an excavated section in the foreground.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Dictionary&lt;/h3&gt;
-&lt;p&gt;The &lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot;&gt;MIDAS Heritage Dictionary&lt;/a&gt; recommends what information units to include when&lt;br&gt;
-recording a particular asset or management area, and explains how they should be used. A few information units are mandatory but the majority are optional, depending on the purpose of your inventory.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot;&gt;MIDAS Heritage Dictionary&lt;/a&gt; recommends what information units to include when recording a particular asset or management area, and explains how they should be used. A few information units are mandatory but the majority are optional, depending on the purpose of your inventory.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There are some minor discrepancies with the Mandatory/ Optional status for a few individual information units which we are aware of and plan to address in the near future.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Each unit of information contains a brief description, guidance on usage, whether a field is free text or controlled and should be populated using a terminology list/ authority file, and one or more examples.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Dictionary&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Terminologies]]></title><description><![CDATA[An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms Controlled vocabularies enhances access to cultural heritage…]]></description><link>https://heritage-standards.museologi.st/terminology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/terminology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms&lt;/h2&gt;
+&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Dictionary&lt;/a&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Terminologies]]></title><description><![CDATA[An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms Controlled vocabularies enhances access to cultural heritage…]]></description><link>https://heritage-standards.museologi.st/terminology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/terminology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms&lt;/h2&gt;
 &lt;p&gt;Controlled vocabularies enhances access to cultural heritage information. They form bridges between concepts and ideas, material remains and people, and constitute a fundamental part of the documentation process.&lt;/p&gt;
 &lt;p&gt;Selecting the correct term may vary depending on interpretation or tradition. While our thesauri and authority files are not always right, they usually are a good start. Vocabularies evolve and change over time. With technical developments, such as persistent &lt;a href=&quot;https://en.wikipedia.org/wiki/Uniform_Resource_Identifier&quot;&gt;URIs&lt;/a&gt;, regional synonyms and alternative labels can be added as we agree more on the concept of what something is, rather than the specific terms describing it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/fish-vocabularies/&quot; class=&quot;mx-2 my-2 btn btn-dark&quot;&gt;FISH vocabularies&lt;/a&gt;
-&lt;a href=&quot;/chronology/&quot; class=&quot;mx-2 my-2 btn btn-dark&quot;&gt;Chronological periods&lt;/a&gt;
-&lt;a href=&quot;/other-terminology-resources/&quot; class=&quot;mx-2 my-2 btn btn-dark&quot;&gt;Other terminologies&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+&lt;a href=&quot;/fish-vocabularies/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;FISH vocabularies&lt;/a&gt;
+&lt;a href=&quot;/chronology/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Chronological periods&lt;/a&gt;
+&lt;a href=&quot;/other-terminology-resources/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Other terminologies&lt;/a&gt;
+&lt;/div&gt;
 &lt;h2&gt;The FISH Vocabularies&lt;/h2&gt;
 &lt;p&gt;The FISH vocabularies consist of a number of structured terminologies for recording heritage assets such as monuments, buildings, maritime craft, historic aeroplanes, archaeological objects, components and landscapes. They also cover professional management and archaeological event terms (interventions), types of evidence and archaeological sciences (samples, ecofacts).&lt;/p&gt;
 &lt;p&gt;The vocabularies have been developed over many years, in collaboration with organisations such as &lt;a href=&quot;https://historicengland.org.uk/&quot;&gt;Historic England&lt;/a&gt; (formerly English Heritage), &lt;a href=&quot;http://www.algao.org.uk/&quot;&gt;ALGAO&lt;/a&gt;, &lt;a href=&quot;http://www.collectionstrust.org.uk/&quot;&gt;Collections Trust&lt;/a&gt; and the &lt;a href=&quot;http://www.nationaltrust.org.uk/&quot;&gt;National Trust&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The core FISH vocabularies are downloadable from the &lt;em&gt;&lt;a href=&quot;http://www.heritagedata.org&quot;&gt;Heritage Data&lt;/a&gt;&lt;/em&gt; website.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The core FISH vocabularies are downloadable from the &lt;a href=&quot;http://www.heritagedata.org&quot;&gt;Heritage Data&lt;/a&gt; website.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;The thesauri can be downloaded in &lt;em&gt;PDF&lt;/em&gt; or &lt;em&gt;CSV&lt;/em&gt; formats. The majority are also available in  Linked Open Data &lt;em&gt;LOD&lt;/em&gt; and &lt;em&gt;SKOS&lt;/em&gt; formats. The thesauri are refreshed once a year. Open a thesaurus or authority file in CSV or PDF format. (PDF content is listed alphabetically and hierarchically).&lt;/p&gt;
 &lt;p&gt;All the resources are free to use and do not require FISH membership.&lt;/p&gt;
 &lt;h3&gt;Candidate Terms&lt;/h3&gt;
