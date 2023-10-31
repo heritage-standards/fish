@@ -10,7 +10,7 @@ It is built with:
 * Bootstrap 5
 * Various node modules
 * Markdown (with HTML snippets sometimes)
-* Minimal use of fontawesome icons
+* Minimal use of fontawesome icons (faClock icon)
 
 ## Content
 
@@ -69,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T13:43:38
+last_modified_at: 2023-10-31T15:11:34
 ---
 ```
 
@@ -77,8 +77,8 @@ Content for markdown uses standard syntax, **BUT** you can mix html tags with th
 css framework and classes.
 
 Linking to images is relative, so for:
-1. Posts the links will be ../../images/{filename} if you retain the year and month folder structure
-2. Pages the links will be ./images/{filename}
+1. Posts: the links will be **../../images/{filename}** if you retain the year and month folder structure (two folders removed from the relative markdown file)
+2. Pages: the links will be **images/{filename}** (so the folder relative to the markdown file)
 
 For the best experience of coding and pushing content, I would suggest cloning the repository and using an IDE
 to make your changes and add files and upload them, rather than doing edits in the browser on github.
