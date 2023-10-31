@@ -35,7 +35,7 @@ Once the site is accepted, you will need to run a custom domain name. To do this
 ```txt
 heritage-standards.org.uk
 ```
-Look at static/CNAME.sample for an example.
+Look at [static/CNAME.sample](static/CNAME.sample) for an example.
 
 ## Images not loading
 
@@ -69,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T15:11:34
+last_modified_at: 2023-10-31T15:20:06
 ---
 ```
 
@@ -89,7 +89,7 @@ The code that powers the site build is stored in the src folder and this is most
 
 ## Site title, navigation menu and footer links
 
-The links for the top menu and the footer are driven via the gatsby config file and queried via graphql in the **src/layout.js** file. This is a very simple array of data key pairs - name, hyperlink and and id (this is used for the key mapping in javascript). Site title and description are also generated from here.
+The links for the top menu and the footer are driven via the gatsby config file and queried via graphql in the **[src/layout.js](src/layout.js)** file. This is a very simple array of data key pairs - name, hyperlink and and id (this is used for the key mapping in javascript). Site title and description are also generated from here.
 
 ``` graphql
 query SiteTitleQuery {
@@ -158,7 +158,7 @@ query PartnerQuery {
 
 ## Front page intro text
 
-The intro text for the site is run off a markdown file located in **content/pages/about.md** and then rendered using **src/components/structure/frontpage-intro.js** and a simple graphql query:
+The intro text for the site is run off a markdown file located in **[content/pages/about.md](content/pages/about.md)** and then rendered using **[src/components/structure/frontpage-intro.js](src/components/structure/frontpage-intro.js)** and a simple graphql query:
 
 ```graphql
 query {
@@ -182,7 +182,7 @@ query {
 
 ## Front page blog Posts
 
-The front page of the site renders 3 blog posts by default and this is controlled via a graphql query run in **src/components/struture/blog-front-page.js** with this simple query:
+The front page of the site renders 3 blog posts by default and this is controlled via a graphql query run in **[src/components/struture/blog-front-page.js](src/components/struture/blog-front-page.js)** with this simple query:
 
 ```graphql
 {
@@ -209,7 +209,7 @@ The front page of the site renders 3 blog posts by default and this is controlle
 
 ## Background image
 
-The frontpage background image is generated via **src/components/structure/bgImage.js** and currently uses a hard coded satic query and looks for a file called Stonehenge.jpg This could be coded to use the src/json/backgroundImages.json file if it was preferable. This query transforms the image for rendering and added a duotone wash over the top.
+The frontpage background image is generated via **[src/components/structure/bgImage.js](src/components/structure/bgImage.js)** and currently uses a hard coded satic query and looks for a file called Stonehenge.jpg This could be coded to use the src/json/backgroundImages.json file if it was preferable. This query transforms the image for rendering and added a duotone wash over the top.
 
 ```graphql
 
