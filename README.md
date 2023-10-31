@@ -69,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T15:22:13
+last_modified_at: 2023-10-31T15:23:25
 ---
 ```
 
@@ -182,7 +182,7 @@ query {
 
 ## Front page blog Posts
 
-The front page of the site renders 3 blog posts by default and this is controlled via a graphql query run in **[src/components/struture/blog-front-page.js](src/components/struture/blog-front-page.js)** with this simple query:
+The front page of the site renders 3 blog posts by default and this is controlled via a graphql query run in **[src/components/structure/blog-front-page.js](src/components/structure/blog-front-page.js)** with this simple query:
 
 ```graphql
 {
