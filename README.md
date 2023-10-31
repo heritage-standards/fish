@@ -14,7 +14,7 @@ It is built with:
 
 ## Content
 
-This site's content is served up from two folders and replicates the original Wordpress structure. Every markdown file gets parsed by Gatsby's code and turned into nodes for Graphql to use and manipulate. 
+This site's content is served up from two folders and replicates the original Wordpress structure. Every markdown file gets parsed by Gatsby's code and turned into nodes for Graphql to use and manipulate.
 
 * Pages and posts are stored in the content directory
    * Posts has a folder structure by year, and a subfolder for month of publication. Images are stored in a folder at the root of the posts folders
@@ -39,7 +39,7 @@ Look at static/CNAME.sample for an example.
 
 ## Code security
 
-At the time of writing, all code is current versions of Gatsby and required libraries for the front end. Dependabot is enabled, with security alerts and pull requests. Keep on top of it!
+At the time of writing, all code and associate libraries are using current versions for front and back end. Dependabot is enabled, with security alerts and pull requests. Keep on top of it!
 
 ## Using markdown
 
@@ -65,7 +65,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T12:49:55
+last_modified_at: 2023-10-31T13:20:32
 ---
 ```
 
