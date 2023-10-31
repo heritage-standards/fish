@@ -2,7 +2,7 @@
 
 A Gatsby driven website for the Forum on Information Standards in Heritage (FISH) Organisation.
 
-This is a simple site, with very few complex pieces of architecture. As with all things, someone else might write better, leaner and quicker code than me. 
+This is a simple site, with very few complex pieces of architecture. As with all things, someone else might write better, leaner and quicker code than me.
 
 It is built with:
 
@@ -14,7 +14,7 @@ It is built with:
 
 ## Content
 
-This site's content is served up from two folders and replicates the original Wordpress structure:
+This site's content is served up from two folders and replicates the original Wordpress structure. Every markdown file gets parsed by Gatsby's code and turned into nodes for Graphql to use and manipulate. 
 
 * Pages and posts are stored in the content directory
    * Posts has a folder structure by year, and a subfolder for month of publication. Images are stored in a folder at the root of the posts folders
@@ -65,7 +65,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T12:49:32
+last_modified_at: 2023-10-31T12:49:55
 ---
 ```
 
