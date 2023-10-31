@@ -69,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T15:20:06
+last_modified_at: 2023-10-31T15:21:21
 ---
 ```
 
@@ -89,7 +89,7 @@ The code that powers the site build is stored in the src folder and this is most
 
 ## Site title, navigation menu and footer links
 
-The links for the top menu and the footer are driven via the gatsby config file and queried via graphql in the **[src/layout.js](src/layout.js)** file. This is a very simple array of data key pairs - name, hyperlink and and id (this is used for the key mapping in javascript). Site title and description are also generated from here.
+The links for the top menu and the footer are driven via the gatsby config file and queried via graphql in the **[src/components/layout.js](src/components/layout.js)** file. This is a very simple array of data key pairs - name, hyperlink and and id (this is used for the key mapping in javascript). Site title and description are also generated from here.
 
 ``` graphql
 query SiteTitleQuery {
