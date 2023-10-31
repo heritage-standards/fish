@@ -30,7 +30,7 @@ class Logos extends React.Component {
 export default () => (
     <StaticQuery
         query={graphql`
-        query MyQuery {
+        query PartnerQuery {
           allPartnersJson {
             nodes {
               name
