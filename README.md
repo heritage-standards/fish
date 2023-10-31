@@ -37,6 +37,10 @@ heritage-standards.org.uk
 ```
 Look at static/CNAME.sample for an example.
 
+## Images not loading
+
+This site has been built for modern web browsers. On OSX, Safari 15 fully supports webp, but requires Mac OS 11 Big Sur or later. So if you run an older OS than this the display of images may fail. An image fallback graphql query could be written if statistics show a large use of old OS/browsers.
+
 ## Code security
 
 At the time of writing, all code and associate libraries are using current versions for front and back end. Dependabot is enabled, with security alerts and pull requests. Keep on top of it!
@@ -65,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T13:20:32
+last_modified_at: 2023-10-31T13:43:38
 ---
 ```
 
