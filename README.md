@@ -69,7 +69,7 @@ author:
 date: 2013-03-01T00:00:46+00:00
 categories: ["News"]
 permalink: /news/new-fish-terminology-working-group/
-last_modified_at: 2023-10-31T15:21:21
+last_modified_at: 2023-10-31T15:22:13
 ---
 ```
 
@@ -158,7 +158,7 @@ query PartnerQuery {
 
 ## Front page intro text
 
-The intro text for the site is run off a markdown file located in **[content/pages/about.md](content/pages/about.md)** and then rendered using **[src/components/structure/frontpage-intro.js](src/components/structure/frontpage-intro.js)** and a simple graphql query:
+The intro text for the site is run off a markdown file located in **[content/page/about.md](content/page/about.md)** and then rendered using **[src/components/structure/frontpage-intro.js](src/components/structure/frontpage-intro.js)** and a simple graphql query:
 
 ```graphql
 query {
