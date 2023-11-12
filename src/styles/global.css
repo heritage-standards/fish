@@ -49,3 +49,10 @@ footer h3 {
 footer a, a:visited {
     text-decoration: none;
 }
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
