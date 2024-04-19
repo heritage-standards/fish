@@ -23,6 +23,9 @@ jobs:
 
       - name: Set up Gatsby
         run: |
+          npm install husky -g
+          npx husky install
+          chmod +x .husky/*
           npm install
 
       - name: Build Gatsby site
