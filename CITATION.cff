@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Code for the Heritage Standards website maintained by Historic England
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Pett
+    email: dejp3@cam.ac.uk
+    affiliation: 'St Edmund''s College, University of Cambridge'
+    orcid: 'https://orcid.org/0000-0002-0246-2335'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.3660884
+    description: Zenodo issued DOI
+repository-code: >-
+  https://github.com/heritage-standards/fish
+url: 'https://heritage-standards.museologi.st'
+abstract: >-
+  This repository holds content and code for the Heritage Standards website.
+keywords:
+  - gatsby
+  - react
+  - website
+  - open-source
+license: MIT

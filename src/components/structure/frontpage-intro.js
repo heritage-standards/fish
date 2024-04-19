@@ -2,6 +2,7 @@ import React from "react";
 import {useStaticQuery, graphql} from "gatsby";
 import {Container, Row} from "react-bootstrap";
 import Hero from "./bgImage";
+
 const query = graphql`
 query {
   allMarkdownRemark(
@@ -30,11 +31,11 @@ const AboutText = () => {
       <Hero/>
       <Container fluid className={'text-bg-light my-4'} >
         <Container className={'my-4'}>
-          <Row className={"post-body my-4 "}>
-          <div className="px-4 my-4">
-            <h1 className="ml-4 mt-4 text-center display-3 fw-bold">{title}</h1>
+          <Row className={'post-body my-4'}>
+          <div className={'px-4 my-4'}>
+            <h1 className={'ml-4 mt-4 text-center display-3 fw-bold'}>{title}</h1>
           </div>
-          <div className="bg-white text-black mb-4 p-4 rounded-2"
+          <div className={'bg-white text-black mb-4 p-4 rounded-2'}
           dangerouslySetInnerHTML={{__html: content}}/>
           </Row>
         </Container>
