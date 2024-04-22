@@ -242,17 +242,38 @@ can use Bootstrap classes to achieve the presentation you desire, [their documen
 Testing and building for this system is pretty easy, just follow the instructions below.
 
 ### :wrench: Development
-To run this system locally for development, you will need to have NodeJS installed (v18.10.0 - use NVM to install multiple node versions if you need to).
 
-Once you have that, you can run:
+To run this system locally for development, you will need to have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) & [NodeJS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed (v18.10.0 - use NVM to install multiple node versions if you need to) and npm.
+
+Once you have that, you can run the following commands:
 
 ```shell
+npm install -g gatsby-cli
+git clone https://github.com/heritage-standards/fish/
+cd fish
 npm install
 gatsby develop
 ```
+This does the following line by line:
+
+1. Installs Gatsby globally on your system
+2. Clones the repository and site code to your machine
+3. Changes the directory into the fish source code
+4. Installs all the code
+5. Runs a local version of the website in development mode. 
 
 This will then run the application on the default port [http://localhost:8000](http://localhost:8000) and
 also give you access to the [graphql](https://graphql.org) explorer on [http://localhost:8000/___graphql](http://localhost:8000/___graphql)
+
+Gatsby comes with multiple commmands and options eg:
+
+|Option|Description|
+|------|----------|
+|-H, --host	|Set host. Defaults to localhost|
+|-p, --port	|Set port. Defaults to env.PORT or 8000|
+|-o, --open	|Open the site in your (default) browser for you|
+|--inspect	|Opens a port for debugging|
+|--verbose	|Turn on verbose output|
 
 ### :hammer: Building
 
