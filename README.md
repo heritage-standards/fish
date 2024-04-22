@@ -12,13 +12,20 @@ It is built with:
 * Markdown (with HTML snippets sometimes)
 * Minimal use of fontawesome icons (faClock icon)
 
+# Github, GH-Pages and learning
+
 This site is served off Github's free pages system as a static site, cutting costs, server maintenance and security burden for the host organisation. If this is your first time here and you have
 not heard of Github pages [you might want to read more](https://pages.github.com/). There are two branches of code that you will want to look at:
 
 1. [Main](https://github.com/heritage-standards/fish/tree/main) (where the source code is stored) 
 2. [gh-pages](https://github.com/heritage-standards/fish/tree/gh-pages) (website code is compiled and served from here, go have a look and you will an index.html file etc)
 
-As you get used to using Git, you may want to start using a branching strategy, with pull requests and issues to manage your code. I recommend the [Github Foundations courses via Microsoft](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) to learn more. 
+As you get used to using Git, you may want to start using a branching strategy, with pull requests and issues to manage your code. I recommend the [Github Foundations courses via Microsoft](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) to learn more or this one from [Software Carpentry](https://swcarpentry.github.io/git-novice/). You can edit code in several ways:
+
+1. Directly on Github
+2. Using a code editor and Github desktop
+3. Using an IDE with integrated Git commands
+4. Using a terminal or command line programme
 
 ## Content
 
