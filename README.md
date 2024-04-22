@@ -62,7 +62,11 @@ At the time of writing, all code and associate libraries are using current versi
 
 ## Using markdown
 
-The content for the site is mostly written in plain markdown. Variables used for page presentation are stored in frontmatter using .yml format and are delineated by three dashes on a line above and below at the start of the file.
+The content for the site is mostly written in plain markdown (if you know nothing about this, you [may want to learn](https://www.markdownguide.org/) more quickly). 
+
+Variables used for page presentation are stored in frontmatter using YAML (.yml) format and are delineated by three dashes on a line above and below at the start of the file. These variables are always
+delineated by three dashes above and three dashes below. 
+
 These frontmatter take the format of:
 
 1. type - page or post
