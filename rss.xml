@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 May 2024 10:58:23 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 May 2024 11:03:51 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -864,7 +864,29 @@ general search portals, not to specific documents.&lt;/p&gt;
 &lt;h3&gt;Waterlogged Material&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://historicengland.org.uk/images-books/publications/&quot;&gt;Historic England&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[FISH Thesauri Version 26 Released]]></title><description><![CDATA[Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Test Page]]></title><description><![CDATA[Test page]]></description><link>https://heritage-standards.museologi.st/test-page/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/test-page/</guid><pubDate>Wed, 01 May 2024 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;Test page&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; padding-bottom: 0.5rem;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAH1I61QlZipnHHSBX//xAAaEAACAwEBAAAAAAAAAAAAAAABAgARMiED/9oACAEBAAEFAn4emKI2rimw+p55/8QAGREBAAIDAAAAAAAAAAAAAAAAAAECETFR/9oACAEDAQE/AcdQurp//8QAGREAAQUAAAAAAAAAAAAAAAAAAAECEBEx/9oACAECAQE/Abhoun//xAAaEAACAgMAAAAAAAAAAAAAAAABkQAhECBB/9oACAEBAAY/AqAU4pYC0Gf/xAAcEAEBAAICAwAAAAAAAAAAAAABABEhELExQWH/2gAIAQEAAT8hx6ggDZAo+1McGQW4+8F83Zf/2gAMAwEAAgADAAAAEOMPgv/EABsRAAIDAAMAAAAAAAAAAAAAAAABESExQXHB/9oACAEDAQE/ENttRCKOXfiMz//EABgRAAMBAQAAAAAAAAAAAAAAAAABETHB/9oACAECAQE/EMJJDtODY//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExYXGBodH/2gAIAQEAAT8QAygl5+ExUVoRLMKU0ILBLBA8zaIcXLIFGE9JmzubO0//2Q==&apos;); background-size: cover; display: block; transition: opacity 0.5s 0.5s; pointer-events: none;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;MIDAS Heritage logo&quot;
+        title=&quot;MIDAS Heritage logo&quot;
+        src=&quot;/static/262783f46517d0cfb9eb3e8ea73e6eee/dbdff/Search.jpg&quot;
+        srcset=&quot;/static/262783f46517d0cfb9eb3e8ea73e6eee/0988f/Search.jpg 250w,
+/static/262783f46517d0cfb9eb3e8ea73e6eee/d1f95/Search.jpg 500w,
+/static/262783f46517d0cfb9eb3e8ea73e6eee/dbdff/Search.jpg 1000w,
+/static/262783f46517d0cfb9eb3e8ea73e6eee/9a918/Search.jpg 1434w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;opacity:0;transition:opacity 0.5s;color:inherit;box-shadow:inset 0px 0px 0px 400px #fff;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FISH Thesauri Version 26 Released]]></title><description><![CDATA[Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
 the FISH thesauri…]]></description><link>https://heritage-standards.museologi.st/news/fish-thesauri-26/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/news/fish-thesauri-26/</guid><pubDate>Sun, 23 Apr 2023 17:29:14 GMT</pubDate><content:encoded>&lt;p&gt;Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
 the FISH thesauri and authority files as and when they come in. Every year the thesauri are updated and uploaded to this
 website, here you can download the thesauri in &lt;a href=&quot;https://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;CSV&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Portable_Document_Format&quot;&gt;PDF&lt;/a&gt; formats and at &lt;a href=&quot;http://www.heritagedata.org/blog/vocabularies-provided/&quot;&gt;Heritage Data&lt;/a&gt;, a related
