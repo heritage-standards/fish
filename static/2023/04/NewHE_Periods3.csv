@@ -1,0 +1,133 @@
+﻿NAME,PERIOD_UID,CHRON_ORDER,PARENT_UID,MIN_DATE,MAX_DATE,DESCRIPTION,VALID_FLAG,IDENTIFIER,altLabel
+Prehistoric,52,1,,-1000000,43,For monuments that can be identified only to a date range from Palaeolithic to Iron Age.,Y,PR,
+Early Prehistoric,95,2,PR,-1000000,-4000,For monuments which are characteristic of the Palaeolithic to Mesolithic but cannot be specifically assigned.,Y,EPR,
+Palaeolithic,5,3,EPR,-1000000,-10000,"The period once referred to as the Old Stone Age. It is defined by the practice of hunting and gathering and the use of chipped flint tools. This period is usually divided up into the Lower, Middle and Upper Palaeolithic.",Y,PA,
+Lower Palaeolithic,54,4,PA,-1000000,-150000,"The earliest subdivision of the Palaeolithic, or Old Stone Age; when the earliest use of flint tools appears in the current archaeological record. A hunter gatherer society is a defining characteristic.",Y,LPA,
+Middle Palaeolithic,55,5,PA,-150000,-40000,The second subdivision of the Palaeolithic or Old Stone Age. Characterized by the fine flake tools of the Mousterian tradition and economically by a hunter gatherer society.,Y,MPA,
+Upper Palaeolithic,56,6,PA,-40000,-10000,The third and last subdivision of the Palaeolithic or Old Stone Age; characterized by the development of projectile points made from bony materials and the development of fine blade flint tools.,Y,UPA,
+Mesolithic,6,7,EPR,-10000,-4000,"The Middle Stone Age, falling between the Palaeolithic and the Neolithic; marks the beginning of a move from a hunter gatherer society towards food producing society.",Y,ME,
+Early Mesolithic,57,8,ME,-10000,-7000,"The earliest subdivision of the Mesolithic, or Middle Stone Age.",Y,EME,
+Late Mesolithic,58,9,ME,-7000,-4000,"The latest subdivision of the Mesolithic, or Middle Stone Age.",Y,LME,
+Later Prehistoric,94,10,PR,-4000,43,For monuments that can be identified only to a date range from Neolithic to Iron Age.,Y,LPR,
+Neolithic,7,11,LPR,-4000,-2200,"The New Stone Age, this period follows on from the Palaeolithic and the Mesolithic and is itself succeeded by the Bronze Age. This period is characterized by the practice of a farming economy and extensive monumental constructions.",Y,NE,
+Early Neolithic,59,12,NE,-4000,-3300,"The earliest subdivision of the Neolithic, or New Stone Age.",Y,ENE,
+Middle Neolithic,60,13,NE,-3300,-2900,"The second subdivision of the Neolithic, or New Stone Age.",Y,MNE,
+Late Neolithic,61,14,NE,-2900,-2200,"The third and latest subdivision of the Neolithic, or New Stone Age.",Y,LNE,
+Bronze Age,8,15,LPR,-2600,-700,"This period follows on from the Neolithic and is characterized by the increasing use of Bronzework. It is subdivided in the Early, Middle and Late Bronze Age.",Y,BA,
+Early Bronze Age,62,16,BA,-2600,-1600,The earliest subdivision of the Bronze Age.,Y,EBA,
+Chalcolithic,,17,EBA,-2500,-2200,The transitional period at the end of the Neolithic when metal is first used to make tools and weapons. New burial rites and artefacts appear at the same time as hese copper implements appear.,Y,CH,
+Middle Bronze Age,63,18,BA,-1600,-1200,The second subdivision of the Bronze Age.,Y,MBA,
+Late Bronze Age,64,19,BA,-1200,-700,The third and latest subdivision of the Bronze Age.,Y,LBA,
+Iron Age,9,20,LPR,-800,43,This period follows on from the Bronze Age and is characterized by the use of iron for making tools and monuments such as hillforts and oppida. The Iron Age is taken to end with the Roman invasion.,Y,IA,
+Early Iron Age,65,21,IA,-800,-300,The earliest subdivision of the Iron Age.,Y,EIA,
+Middle Iron Age,66,22,IA,-300,-100,The second subdivision of the Iron Age.,Y,MIA,
+Late Iron Age,67,23,IA,-100,43,The third and latest subdivision of the Iron Age.,Y,LIA,
+Roman,10,24,,43,410,The Roman period traditionally begins with the Roman invasion in 43AD and ends with the emperor Honorius directing Britain to see to it's own defence in 410AD.,Y,RO,
+1st Century,1,25,,1,100,Use for phases and events dating to the 1st Century of the common era (1 CE to 100 CE),Y,C01,First Century
+Flavian,,26,RO,69,96,"Referring to the reigns of the emperors Vespasian (69-79), Titus (79-81) and Domitian (81-96), that coincided with the dynasty established after the death of Nero in 69 CE. Circa 69 CE to 96 CE.",Y,ROFL,
+Early 1st Century,,27,C01,1,32,,,EC01,First Century
+Mid 1st Century,,28,C01,33,66,,,MC01,First Century
+Late 1st Century,,29,C01,67,100,,,LC01,First Century
+2nd Century,2,30,,101,200,Use for phases and events dating to the 2nd Century of the common era (101 CE to 200 CE),Y,C02,Second Century
+Early 2nd Century,,31,C02,101,132,,,EC02,Second Century
+Hadrianic,,32,RO,117,138,"Referring to the reign of Hadrian, 117-138 CE.",Y,ROHA,
+Mid 2nd Century,,33,C02,133,166,,,MC02,Second Century
+Antonine,,34,RO,138,192,Referring to the reign of the Roman emperor Antoninus Pius and his successors (from 138 CE) until the late 2nd century. Circa 138 CE to 192 CE.,Y,ROAN,
+Late 2nd Century,,35,C02,167,200,,,LC02,Second Century
+Severan,,36,RO,193,235,Referring to the Severan dynasty who were emperors of Rome in 193 CE to 235 CE.  ,Y,ROSE,
+3rd Century,3,37,,201,300,Use for phases and events dating to the 3rd Century of the common era (202 CE to 300 CE),Y,C03,Third Century
+Early 3rd Century,,38,C03,201,232,,,EC03,Third Century
+Mid 3rd Century,,39,C03,233,266,,,MC03,Third Century
+Late 3rd Century,,40,C03,267,300,,,LC03,Third Century
+4th Century,4,119,,301,400,Use for phases and events dating to the 4th Century of the common era (301 CE to 400 CE),Y,C04,Fourth Century
+Early 4th Century,,120,C04,301,332,,,EC04,Fourth Century
+Mid 4th Century,,121,C04,333,366,,,MC04,Fourth Century
+Late 4th Century,,122,C04,367,400,,,LC04,Fourth Century
+Early Medieval,11,125,,410,1066,"This dates from the breakdown of Roman rule in Britain to the Norman invasion in 1066 and is to be used for monuments of post Roman, Saxon and Viking date.",Y,EM,
+Anglo-Saxon,,126,EM,410,1066,Both a political and cultural term: applied to the distinctive culture and artisitic styles that evolved from the merging of native traditions with those of Germanic tribes who had migrated from northern Europe.,Y,AS,
+5th Century,19,123,,401,500,Use for phases and events dating to the 5th Century of the common era (401 CE to 500 CE),Y,C05,Fifth Century
+Early Anglo-Saxon,,125,AS,410,660,The first part of the period that saw the arrival of Anglo-Saxon culture (circa 410 to 660 CE).,Y,EAS,
+Early 5th Century,,124,C05,401,432,,,EC05,Fifth Century
+Mid 5th Century,,127,C05,433,466,,,MC05,Fifth Century
+Late 5th Century,,128,C05,467,500,,,LC05,Fifth Century
+6th Century,20,129,,501,600,Use for phases and events dating to the 6th Century of the common era (501 CE to 600 CE),Y,C06,Sixth Century
+Early 6th Century,,130,C06,501,532,,,EC06,Sixth Century
+Mid 6th Century,,131,C06,533,566,,,MC06,Sixth Century
+Late 6th Century,,132,C06,567,600,,,LC06,Sixth Century
+7th Century,21,133,,601,700,Use for phases and events dating to the 7th Century of the common era (601 CE to 700 CE),Y,C07,Seventh Century
+Early 7th Century,,134,C07,601,632,,,EC07,Seventh Century
+Mid 7th Century,,135,C07,633,666,,,MC07,Seventh Century
+Mid Anglo-Saxon,,136,AS,660,899,The middle part of the Anglo-Saxon period which saw the development of the Seven Kingdoms - the Heptarchy (circa 660 CE to 899 CE).,Y,MAS,
+Late 7th Century,,137,C07,667,700,,,LC07,Seventh Century
+8th Century,22,138,,701,800,Use for phases and events dating to the 8th Century of the common era (701 CE to 800 CE),Y,C08,Eighth Century
+Early 8th Century,,139,C08,701,732,,,EC08,Eighth Century
+Mid 8th Century,,140,C08,733,766,,,MC08,Eighth Century
+Late 8th Century,,141,C08,767,800,,,LC08,Eighth Century
+9th Century,23,142,,801,900,Use for phases and events dating to the 9th Century,Y,C09,Ninth Century
+Early 9th Century,,143,C09,801,832,,,EC09,Ninth Century
+Mid 9th Century,,144,C09,833,866,,,MC09,Ninth Century
+Late 9th Century,,145,C09,867,900,,,LC09,Ninth Century
+Late Anglo-Saxon,,146,AS,899,1066,The final part of the Anglo-Saxon period which began with the reign of Edward the Elder and ended with the Norman conquest (circa 899 CE to 1066 CE).,Y,LAS,
+10th Century,26,147,,901,1000,Use for phases and events dating to the 10th Century,Y,C10,Tenth Century
+Early 10th Century,,148,C10,901,932,,,EC10,Tenth Century
+Mid 10th Century,,149,C10,933,966,,,MC10,Tenth Century
+Late 10th Century,,150,C10,967,1000,,,LC10,Tenth Century
+11th Century,27,151,,1001,1100,Use for phases and events dating to the 11th Century,Y,C11,Eleventh Century
+Early 11th Century,,152,C11,1001,1032,,,EC11,Eleventh Century
+Mid 11th Century,,153,C11,1033,1066,,,MC11,Eleventh Century
+MEDIEVAL,28,154,,1066,1540,The Medieval period or Middle Ages begins with the Norman invasion and ends with the dissolution of the monasteries.,Y,MD,
+Late 11th Century,,155,C11,1067,1100,,,LC11,Eleventh Century
+12th Century,12,156,,1101,1200,Use for phases and events dating to the 12th Century,Y,C12,Twelfth Century
+Early 12th Century,,157,C12,1101,1132,,,EC12,Twelfth Century
+Mid 12th Century,,158,C12,1133,1166,,,MC12,Twelfth Century
+Late 12th Century,,159,C12,1167,1200,,,LC12,Twelfth Century
+13th Century,13,160,,1201,1300,Use for phases and events dating to the 13th Century.,Y,C13,Thirteenth Century
+Early 13th Century,,161,C13,1201,1232,,,EC13,Thirteenth Century
+Mid 13th Century,,162,C13,1233,1266,,,MC13,Thirteenth Century
+Late 13th Century,,163,C13,1267,1300,,,LC13,Thirteenth Century
+14th Century,14,164,,1301,1400,Use for phases and events dating to the 14th Century.,Y,C14,Fourteenth Century
+Early 14th Century,,165,C14,1301,1332,,,EC14,Fourteenth Century
+Mid 14th Century,,166,C14,1333,1366,,,MC14,Fourteenth Century
+Late 14th Century,,167,C14,1367,1400,,,LC14,Fourteenth Century
+15th Century,15,168,,1401,1500,"Use for phases and events dating to the 15th Century (1401-1500).  For sites and buildings constructed in the Tudor period, double-index with Tudor. ",Y,C15,Fifteenth Century
+Early 15th Century,,169,C15,1401,1432,,,EC15,Fifteenth Century
+Mid 15th Century,,170,C15,1433,1466,,,MC15,Fifteenth Century
+Late 15th Century,,171,C15,1467,1500,,,LC15,Fifteenth Century
+Post Medieval,16,172,,1540,1901,Begins with the dissolution of the monasteries and ends with the death of Queen Victoria. Use more specific period where known.,Y,PM,"Post Mediaeval, Post-Medieval, Post-Mediaeval"
+Tudor,97,173,PM,1485,1603,Dating to the reign of the Tudor monarchs.,Y,TUD,
+16th Century,17,174,,1501,1600,Use for phases and events dating to the 16th Century (1501-1600). For sites and buildings constructed in the Tudor style see also TUDOR and ELIZABETHAN,y,C16,Sixteenth Century
+Early 16th Century,,175,C16,1501,1532,,,EC16,Sixteenth Century
+Mid 16th Century,,176,C16,1533,1566,,,MC16,Sixteenth Century
+Elizabethan,101,177,TUD,1558,1603,Dating to the reign of Elizabeth I of England.,Y,LIZ,
+Late 16th Century,,178,C16,1567,1600,,,LC16,Sixteenth Century
+17th Century,18,179,,1601,1700,"Use for phases and events dating to the 17th Century (1601-1700). For sites and buildings constructed in the Elizabthan or Jacobean Style see also ELIZABETHAN, STUART and JACOBEAN",Y,C17,Seventeenth Century
+Stuart,98,180,PM,1603,1714,Dating to the reign of the Stuart kings of England (including the Commonwealth inter-regnum),Y,STU,
+Early 17th Century,,181,C17,1601,1632,,,EC17,Seventeenth Century
+Jacobean,102,182,STU,1603,1625,Dating to the reign of James I of England (VI of Scotland).,Y,JAC,
+Mid 17th Century,,183,C17,1633,1666,,,MC17,Seventeenth Century
+Late 17th Century,,184,C17,1667,1700,,,LC17,Seventeenth Century
+18th Century,,185,,1701,1800,Use for phases and events dating to the 18th Century. For sites and buildings constructed in the Stuart or Georgian periods double-index with the appropriate term.,,C18,Eighteenth Century
+Early 18th Century,,186,C18,1701,1732,,,EC18,Eighteenth Century
+Hanoverian,99,187,PM,1714,1837,Dating to the reign of the Hanoverian kings.,Y,HAN,
+Georgian,106,188,HAN,1714,1830,Dating to or characteristic of the reigns of any of the first four kings of Great Britain called George.,Y,GEO,
+Mid 18th Century,,189,C18,1733,1766,,,MC18,Eighteenth Century
+Late 18th Century,,190,C18,1767,1800,,,LC18,Eighteenth Century
+19th Century,,191,,1801,1900,Use for phases and events dating to the 19th Century. For sites and buildings constructed in the Georgian or Victorian periods double-index with the appropriate term.,,C19,Nineteenth Century
+Early 19th Century,,192,C19,1801,1832,,,EC19,Nineteenth Century
+Mid 19th Century,,193,C19,1833,1866,,,MC19,Nineteenth Century
+Victorian,100,194,PM,1837,1901,Dating to the reign of Queen Victoria.,Y,VIC,
+Late 19th Century,,195,C19,1867,1900,The final third of the 19th Century.,,LC19,Nineteenth Century
+20th Century,24,196,,1901,2000,Use for phases and events dating to the 20th Century (1901-2000). Previously recorded as 'Modern'.,Y,C20,Twentieth Century
+Early 20th Century,103,197,C20,1901,1932,The first third of the 20th century.,Y,E20,Twentieth Century
+Edwardian,110,198,E20,1902,1910,The period covering the reign of Edward VII. Do not use for the reigns of Edwards I-VI.,Y,EDW,
+First World War,108,199,E20,1914,1918,"Used to record buildings, defensive monuments and sites dating to, and associated with, the First World War. For other types of building, such as houses, built during this period use EARLY 20TH CENTURY.",Y,WW1,
+Mid 20th Century,107,200,C20,1933,1966,The mid third of the 20th Century,Y,M20,Twentieth Century
+Second World War,109,201,M20,1939,1945,"Used to record buildings, defensive monuments and sites dating to, and associated with, the Second World War. For other types of building, such as houses, built during this period use MID 20TH CENTURY.",Y,WW2,
+Late 20th Century,104,202,C20,1967,2000,The final third of the 20th century.,Y,L20,Twentieth Century
+Cold War,111,203,C20,1946,1991,The period of political and military opposition between the major Superpowers (USA and USSR) and their allies. Known as the Cold War as there were no direct military conflicts between the two main protagonists.,Y,WW3,
+21st Century,105,204,,2001,2100,Use for phases and events dating to the 21st Century (2001-2100).,Y,C21,Twenty-First Century
+Early 21st Century,,205,C21,2001,2032,The first third of the 21st century.,,E21,Twenty-First Century
+Mid 21st Century,,206,C21,2033,2066,The second third of the 21st century,,M21,Twenty-First Century
+Solar Federation,,207,,2062,2112,The period of the 21st Century when the surviving planets banded together under the Red Star of the Solar Federation.,,RUSH,
+Late 21st Century,,208,C21,2067,2100,The final third of the 21st century.,,L21,Twenty-First Century
+Uncertain,25,209,,,,Catch all for uncertain period allocations,Y,UN,
