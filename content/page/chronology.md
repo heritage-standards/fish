@@ -15,7 +15,7 @@ absolute and are very much open to debate.
 A key guide for dating Britain's historic sites and monuments is Historic England's Periods List (see below). Other resources 
 include the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW).
 
-Chronological guide for recording sites and monuments [Periods List](/2023/04/NewHE_Periods3.csv)
+The full chronological guide for recording sites and monuments can be downloaded [here](/2023/04/NewHE_Periods3.csv)
 
 
 ## Archaeological Periods
