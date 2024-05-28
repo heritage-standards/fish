@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 May 2024 18:17:38 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 May 2024 18:30:28 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -3500,33 +3500,33 @@ through cross-sector collaboration through three overarching themes:&lt;/p&gt;
 Time…]]></description><link>https://heritage-standards.museologi.st/chronology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/chronology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods.
 Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or
 absolute and are very much open to debate.&lt;/p&gt;
-&lt;p&gt;A key guide for dating Britain&apos;s historic sites and monuments is Historic England&apos;s Periods List (see below). Other resources
+&lt;p&gt;A key guide for dating Britain&apos;s historic sites and monuments is Historic England&apos;s Archaeological and Cultural Periods List (see below). Other resources
 include the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW).&lt;/p&gt;
-&lt;p&gt;The full chronological guide for recording sites and monuments can be downloaded &lt;a href=&quot;/2023/04/NewHE_Periods3.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The full Historic England chronological guide for recording sites and monuments can be downloaded &lt;a href=&quot;/2023/04/NewHE_Periods3.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Archaeological Periods&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Palaeolithic -1,000 000 to -10,000 BCE
+&lt;li&gt;Palaeolithic -1,000 000 to -10,000 (BCE)
 &lt;ul&gt;
 &lt;li&gt;Lower Palaeolithic -1,000 000 to -150,000&lt;/li&gt;
 &lt;li&gt;Middle Palaeolithic -150,000 to -40,000&lt;/li&gt;
 &lt;li&gt;Upper Palaeolithic -40,000 to -10,000&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Mesolithic -10,000 to -4,000
+&lt;li&gt;Mesolithic -10,000 to -4,000 (BCE)
 &lt;ul&gt;
 &lt;li&gt;Early Mesolithic -10,000 to -7,000&lt;/li&gt;
 &lt;li&gt;Late Mesolithic -7,000 to -4,000&lt;/li&gt;
 &lt;li&gt;Early Prehistoric -1,000 000 to -4,000&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Neolithic -4,000 to -2,200
+&lt;li&gt;Neolithic -4,000 to -2,200 (BCE)
 &lt;ul&gt;
 &lt;li&gt;Early Neolithic -4,000 to -3,300&lt;/li&gt;
 &lt;li&gt;Middle Neolithic -3,300 to -2,900&lt;/li&gt;
 &lt;li&gt;Late Neolithic -2,900 to -2,200&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Bronze Age -2,600 to -700
+&lt;li&gt;Bronze Age -2,600 to -700 (BCE)
 &lt;ul&gt;
 &lt;li&gt;Early Bronze Age -2,600 to -1,600&lt;/li&gt;
 &lt;li&gt;Middle Bronze Age -1,600 to -1,200&lt;/li&gt;
@@ -3537,12 +3537,12 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;ul&gt;
 &lt;li&gt;Early Iron Age-800 to -300&lt;/li&gt;
 &lt;li&gt;Middle Iron Age -300 to -100&lt;/li&gt;
-&lt;li&gt;Late Iron Age -100 to 43&lt;/li&gt;
+&lt;li&gt;Late Iron Age -100 (BCE) to 43 (CE)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Later Prehistoric -4,000 to 43
+&lt;li&gt;Later Prehistoric -4,000 (BCE) to 43 (CE)
 &lt;ul&gt;
-&lt;li&gt;Prehistoric -1,000 000 to 43&lt;/li&gt;
+&lt;li&gt;Prehistoric -1,000 000 (BCE) to 43 (CE)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
