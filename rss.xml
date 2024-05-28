@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 May 2024 17:57:25 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 May 2024 18:05:12 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -3505,7 +3505,7 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;p&gt;Chronological guide for recording sites and monuments (Periods List)&lt;/p&gt;
 &lt;h2&gt;Archaeological Periods&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Palaeolithic -1,000 000 to -10,000 BC
+&lt;li&gt;Palaeolithic -1,000 000 to -10,000 BCE
 &lt;ul&gt;
 &lt;li&gt;Lower Palaeolithic -1,000 000 to -150,000&lt;/li&gt;
 &lt;li&gt;Middle Palaeolithic -150,000 to -40,000&lt;/li&gt;
@@ -3533,7 +3533,7 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;li&gt;Late Bronze Age -1,200 to -700&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Iron Age -800 (BC) to 43 (AD)
+&lt;li&gt;Iron Age -800 (BCE) to 43 (CE)
 &lt;ul&gt;
 &lt;li&gt;Early Iron Age-800 to -300&lt;/li&gt;
 &lt;li&gt;Middle Iron Age -300 to -100&lt;/li&gt;
@@ -3548,7 +3548,7 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;/ul&gt;
 &lt;h3&gt;Cultural Periods&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Roman 43 to 410 (AD)&lt;/li&gt;
+&lt;li&gt;Roman 43 to 410 (CE)&lt;/li&gt;
 &lt;li&gt;Early Medieval 410 to 1066&lt;/li&gt;
 &lt;li&gt;Medieval 1066 to 1540&lt;/li&gt;
 &lt;li&gt;Post Medieval 1540 to 1901&lt;/li&gt;
