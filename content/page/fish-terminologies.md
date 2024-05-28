@@ -24,7 +24,7 @@ February 2021; the seven affected thesauri are:
 4. Historic Aircraft
 5. Monument Type
 6. Object Materials
-7. and Resource Description (Thred).
+7. Resource Description (Thred).
 
 ### Archaeological Objects Thesaurus
 
