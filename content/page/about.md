@@ -6,7 +6,7 @@ permalink: /about/
 id: 1
 type: page
 author:
-    - Digital Standards Unit
+    - Data Standards Unit
 last_modified_at: 2023-10-23T08:26:47
 ---
 Welcome to the Forum on Information Standards in Heritage (FISH). This site presents the work of the forum and contains links to recommended information resources that support best practice in recording cultural heritage.
