@@ -55,13 +55,8 @@ Chronological guide for recording sites and monuments (Periods List)
 * Hanoverian 1714 to 1837
 * Georgian 1714 to 1830
 * Victorian 1837 to 1901
-* 20th Century 1901 to 2000
-* Early 20th Century 1901 to 1932
 * Edwardian 1902 to 1910
 * First World War 1914 to 1918
-* Mid 20th Century 1933 to 1966
 * Second World War 1939 to 1945
 * Cold War 1946 to 1991
-* Late 20th Century 1967 to 2000
-* 21st Century 2001 to 2100
 * Uncertain
