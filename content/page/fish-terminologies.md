@@ -50,6 +50,12 @@ Thesaurus for types of cargo carried by vessels and aircraft on their final voya
 
 [Alphabetical](/2021/02/Cargo_alpha.pdf) [Hierarchical](/2021/02/Cargo_class.pdf) [CSV](/2023/04/Cargo_v26.zip)
 
+### Climate Hazards Thesaurus
+
+This vocabulary of climate change hazards, the potential negative climate events that may cause damage or loss, builds on the Climatic Impact-Drivers defined by the Intergovernmental Panel on Climate Change creating a list of climate hazards for heritage.for types of cargo carried by vessels and aircraft on their final voyage (e.g. _animal fodder, sugar, fuel_).
+
+[Alphabetical](/2023/04/FISH_Climate_Hazards_Alpha.pdf) [Hierarchical](/2023/04/FISH_Climate_Hazards_Hierarchical.pdf) 
+
 ### Components Thesaurus
 
 Terminology covering divisions and structural elements of a building or monument. Includes terms that describe areas and spaces, decorative features, fixtures and fittings, machinery and implied features (e.g. _post hole, cartouche, truss_).
