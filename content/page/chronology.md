@@ -6,7 +6,7 @@ permalink: /chronology/
 type: page
 author: 
   - Digital Standards Unit
-last_modified_at: 2023-10-20T09:50:56
+last_modified_at: 2024-05-28T18:54:56
 ---
 FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods. 
 Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or 
