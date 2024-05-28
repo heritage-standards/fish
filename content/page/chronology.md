@@ -5,43 +5,43 @@ status: publish
 permalink: /chronology/
 type: page
 author: 
-  - Digital Standards Unit
-last_modified_at: 2024-05-28T18:54:56
+  - Paul Adams
+last_modified_at: 2024-05-28T19:54:56
 ---
 FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods. 
 Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or 
 absolute and are very much open to debate.
 
-A key guide for dating Britain's historic sites and monuments is Historic England's Periods List (see below). Other resources 
+A key guide for dating Britain's historic sites and monuments is Historic England's Archaeological and Cultural Periods List (see below). Other resources 
 include the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW).
 
-The full chronological guide for recording sites and monuments can be downloaded [here](/2023/04/NewHE_Periods3.csv)
+The full Historic England chronological guide for recording sites and monuments can be downloaded [here](/2023/04/NewHE_Periods3.csv)
 
 
 ## Archaeological Periods
 
-* Palaeolithic -1,000 000 to -10,000 BCE
+* Palaeolithic -1,000 000 to -10,000 (BCE)
     * Lower Palaeolithic -1,000 000 to -150,000
     * Middle Palaeolithic -150,000 to -40,000
     * Upper Palaeolithic -40,000 to -10,000
-* Mesolithic -10,000 to -4,000
+* Mesolithic -10,000 to -4,000 (BCE)
     * Early Mesolithic -10,000 to -7,000
     * Late Mesolithic -7,000 to -4,000
     * Early Prehistoric -1,000 000 to -4,000
-* Neolithic -4,000 to -2,200
+* Neolithic -4,000 to -2,200 (BCE)
     * Early Neolithic -4,000 to -3,300
     * Middle Neolithic -3,300 to -2,900
     * Late Neolithic -2,900 to -2,200
-* Bronze Age -2,600 to -700
+* Bronze Age -2,600 to -700 (BCE)
     * Early Bronze Age -2,600 to -1,600
     * Middle Bronze Age -1,600 to -1,200 
     * Late Bronze Age -1,200 to -700
 * Iron Age -800 (BCE) to 43 (CE)
     * Early Iron Age-800 to -300
     * Middle Iron Age -300 to -100
-    * Late Iron Age -100 to 43
-* Later Prehistoric -4,000 to 43
-    * Prehistoric -1,000 000 to 43
+    * Late Iron Age -100 (BCE) to 43 (CE)
+* Later Prehistoric -4,000 (BCE) to 43 (CE)
+    * Prehistoric -1,000 000 (BCE) to 43 (CE)
 
 ### Cultural Periods
 
