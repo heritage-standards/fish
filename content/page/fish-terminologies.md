@@ -8,7 +8,7 @@ author:
 last_modified_at: 2024-05-28T18:45:15
 ---
 
-**The vocabularies in different formats, a FISH thesaurus table structure and the latest list of candidate terms added to the thesauri.**
+**This page presents the FISH vocabularies in different formats, a thesaurus table structure and the latest list of candidate terms added to the thesauri.**
 
 All the resources here are free to use and do not require FISH membership.
 
