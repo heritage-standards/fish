@@ -19,7 +19,7 @@ Chronological guide for recording sites and monuments (Periods List)
 
 ## Archaeological Periods
 
-* Palaeolithic -1,000 000 to -10,000 BC
+* Palaeolithic -1,000 000 to -10,000 BCE
     * Lower Palaeolithic -1,000 000 to -150,000
     * Middle Palaeolithic -150,000 to -40,000
     * Upper Palaeolithic -40,000 to -10,000
@@ -35,7 +35,7 @@ Chronological guide for recording sites and monuments (Periods List)
     * Early Bronze Age -2,600 to -1,600
     * Middle Bronze Age -1,600 to -1,200 
     * Late Bronze Age -1,200 to -700
-* Iron Age -800 (BC) to 43 (AD)
+* Iron Age -800 (BCE) to 43 (CE)
     * Early Iron Age-800 to -300
     * Middle Iron Age -300 to -100
     * Late Iron Age -100 to 43
@@ -44,7 +44,7 @@ Chronological guide for recording sites and monuments (Periods List)
 
 ### Cultural Periods
 
-* Roman 43 to 410 (AD)
+* Roman 43 to 410 (CE)
 * Early Medieval 410 to 1066
 * Medieval 1066 to 1540
 * Post Medieval 1540 to 1901
