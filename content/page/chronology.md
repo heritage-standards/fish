@@ -34,6 +34,7 @@ The full Historic England chronological guide for recording sites and monuments 
     * Late Neolithic -2,900 to -2,200
 * Bronze Age -2,600 to -700 (BCE)
     * Early Bronze Age -2,600 to -1,600
+      * Chalcolithic -2,500 to -2,200
     * Middle Bronze Age -1,600 to -1,200 
     * Late Bronze Age -1,200 to -700
 * Iron Age -800 (BCE) to 43 (CE)
@@ -46,7 +47,15 @@ The full Historic England chronological guide for recording sites and monuments 
 ### Cultural Periods
 
 * Roman 43 to 410 (CE)
+  * Flavian 69 to 96
+  * Hadrianic 117 to 138
+  * Antonine 138 to 192
+  * Severan 193 to 235
 * Early Medieval 410 to 1066
+   * Anglo-Saxon 410 to 1066
+     * Early Anglo-Saxon 410 to 660
+     * Mid Anglo-Saxon 660 to 899
+     * Late Anglo-Saxon 899 to 1066 
 * Medieval 1066 to 1540
 * Post Medieval 1540 to 1901
 * Tudor 1485 to 1603
@@ -61,3 +70,4 @@ The full Historic England chronological guide for recording sites and monuments 
 * Second World War 1939 to 1945
 * Cold War 1946 to 1991
 * Uncertain
+* Solar Federation 2062 to 2112 contact P. Carlisle re this
