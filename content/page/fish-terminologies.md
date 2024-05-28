@@ -154,6 +154,10 @@ List of the main archaeological and cultural periods of Britain. May vary compar
 
 [View](/chronology/) [Linked Data](http://heritagedata.org/live/schemes/eh_period.html) [CSV](/2016/05/eh_periods_list_old_version-5.csv)
 
+### Revised Periods List
+
+[Linked Data](http://heritagedata.org/live/schemes/eh_period.html) [CSV](/2023/04/NewHE_Periods3.csv)
+
 ### Resource Description Thesaurus
 
 Officially called _English Heritage and National Trust Resource Description_, also known as THRED. Terminology for the description of archive type and format, now updated by FISH (e.g. _excavation report, newspaper article, video clip_).
