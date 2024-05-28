@@ -52,9 +52,9 @@ Thesaurus for types of cargo carried by vessels and aircraft on their final voya
 
 ### Climate Hazards Thesaurus
 
-This vocabulary of climate change hazards, the potential negative climate events that may cause damage or loss, builds on the Climatic Impact-Drivers defined by the Intergovernmental Panel on Climate Change creating a list of climate hazards for heritage.for types of cargo carried by vessels and aircraft on their final voyage (e.g. _animal fodder, sugar, fuel_).
+This vocabulary of climate change hazards, the potential negative climate events that may cause damage or loss, builds on the Climatic Impact-Drivers defined by the Intergovernmental Panel on Climate Change creating a list of climate hazards for heritage.
 
-[Alphabetical](/2023/04/FISH_Climate_Hazards_Alpha.pdf) [Hierarchical](/2023/04/FISH_Climate_Hazards_Hierarchical.pdf) 
+[Alphabetical](/2023/04/FISH_Climate_Hazards_Alpha.pdf) [Hierarchical](/2023/04/FISH_Climate_Hazards_Hierarchical.pdf) [Linked Data](https://purl.archive.org/heritagedata/schemes/38076.html) [Research Report](https://historicengland.org.uk/research/results/reports/13-2024?search=13%2F2024&searchType=research+report)
 
 ### Components Thesaurus
 
@@ -156,13 +156,15 @@ A thesaurus, originally developed to assist with the recording of materials for 
 
 ### Periods List
 
-List of the main archaeological and cultural periods of Britain. May vary compared to other period lists, this one has been developed by Historic England (e.g. _Mesolithic, Middle Iron Age, Jacobean_).
+List of the main archaeological and cultural periods of Britain. May vary compared to other period lists, this one has been developed by Historic England (e.g. _Mesolithic, Middle Iron Age, Jacobean_). This list has now been superseded by the Historic England Periods List.
 
-[View](/chronology/) [Linked Data](http://heritagedata.org/live/schemes/eh_period.html) [CSV](/2016/05/eh_periods_list_old_version-5.csv)
+[CSV](/2016/05/eh_periods_list_old_version-5.csv)
 
-### Revised Periods List
+### Historic England Periods List
 
-[Linked Data](http://heritagedata.org/live/schemes/eh_period.html) [CSV](/2023/04/NewHE_Periods3.csv)
+Periods and centuries used in Historic England datasets.
+
+[Alphabetical](/2023/04/HE_Periods_20240513_alphabetical.pdf) [Hierarchical](/2023/04/HE_Periods_20240513_hierarchical.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_period.html) [CSV](/2023/04/NewHE_Periods3.csv) [View](/chronology/)
 
 ### Resource Description Thesaurus
 
