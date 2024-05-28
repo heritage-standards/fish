@@ -4,7 +4,7 @@ type: page
 permalink: /fish-vocabularies/
 status: publish
 author:
-    - Digital Standards Unit
+    - Data Standards Unit
 last_modified_at: 2023-10-20T12:05:15
 ---
 
