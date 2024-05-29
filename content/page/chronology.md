@@ -46,6 +46,7 @@ The full Historic England chronological guide for recording sites and monuments 
 
 ### Cultural Periods
 
+
 * Roman 43 (BCE) to 410 (CE)
   * Flavian 69 to 96
   * Hadrianic 117 to 138
@@ -65,9 +66,97 @@ The full Historic England chronological guide for recording sites and monuments 
 * Hanoverian 1714 to 1837
 * Georgian 1714 to 1830
 * Victorian 1837 to 1901
-* Edwardian 1902 to 1910
-* First World War 1914 to 1918
-* Second World War 1939 to 1945
-* Cold War 1946 to 1991
+
+### Centuries
+
+* 1st Century	1	to 100
+  * Early 1st Century	1	to 32
+  * Mid 1st Century	33 to 66
+  * Late 1st Century 67	to 100
+* 2nd Century	101	to 200
+  * Early 2nd Century	101	to 132
+  * Mid 2nd Century	133	to 166
+  * Late 2nd Century 167 to 200
+* 3rd Century	201	to 300
+  * Early 3rd Century	201	to 232
+  * Mid 3rd Century	233	to 266
+  * Late 3rd Century 267 to 300
+* 4th Century	301	to 400
+  * Early 4th Century	301	to 332
+  * Mid 4th Century	333	to 366
+  * Late 4th Century 367 to 400
+* 5th Century	401	to 500
+  * Early 5th Century	401	to 432
+  * Mid 5th Century	433	to 466
+  * Late 5th Century 467	to 500
+* 6th Century	501	to 600
+  * Early 6th Century	501	to 532
+  * Mid 6th Century	533	to 566
+  * Late 6th Century 567 to 600
+* 7th Century	601	to 700
+  * Early 7th Century	601	to 632
+  * Mid 7th Century	633	to 666
+  * Late 7th Century 667 to 700
+* 8th Century	701	to 800
+  * Early 8th Century	701	to 732
+  * Mid 8th Century	733	to 766
+  * Late 8th Century 767 to 800
+* 9th Century	801	to 900
+  * Early 9th Century	801	to 832
+  * Mid 9th Century	833 to 866
+  * Late 9th Century 867 to 900
+* 10th Century 901 to 1000
+  * Early 10th Century 901	to 932
+  * Mid 10th Century 933 to 966
+  * Late 10th Century	967	to 1000
+* 11th Century 1001	to 1100
+  * Early 11th Century 1001	to 1032
+  * Mid 11th Century 1033	to 1066
+  * Late 11th Century	1067 to 1100
+* 12th Century 1101	to 1200
+  * Early 12th Century 1101	to 1132
+  * Mid 12th Century 1133	to 1166
+  * Late 12th Century 1167 to 1200
+* 13th Century 1201 to 1300
+  * Early 13th Century 1201	to 1232
+  * Mid 13th Century 1233 to 1266
+  * Late 13th Century	1267 to 1300
+* 14th Century 1301 to 1400
+  * Early 14th Century 1301	to 1332
+  * Mid 14th Century 1333 to 1366
+  * Late 14th Century	1367 to 1400
+* 15th Century 1401	to 1500
+  * Early 15th Century 1401	to 1432
+  * Mid 15th Century 1433 to 1466
+  * Late 15th Century 1467 to 1500
+* 16th Century 1501	to 1600
+  * Early 16th Century 1501	to 1532
+  * Mid 16th Century 1533	to 1566
+  * Late 16th Century	1567	to 1600
+* 17th Century 1601	to 1700
+  * Early 17th Century 1601	to 1632
+  * Mid 17th Century 1633	to 1666
+  * Late 17th Century	1667	to 1700
+* 18th Century 1701 to 1800
+  * Early 18th Century 1701	to 1732
+  * Mid 18th Century 1733	to 1766
+  * Late 18th Century	1767	to 1800
+* 19th Century 1801 to 1900
+  * Early 19th Century 1801	to 1832
+  * Mid 19th Century 1833	to 1866
+  * Late 19th Century	1867	to 1900
+* 20th Century 1901 to 2000
+  * Early 20th Century 1901 to 1932
+    * Edwardian 1902 to 1910
+    * First World War 1914 to 1918
+  * Mid 20th Century 1933 to 1966
+    * Second World War 1939 to 1945
+    * Cold War 1946 to 1991
+  * Late 20th Century 1967 to 2000
+    * Cold War 1946 to 1991
+*  21st Century 2001 to 2100
+  * Early 21st Century 2001 to 2032
+  * Mid 21st Century 2033 to 2066
+    * Solar Federation 2062 to 2112
+  * Late 21st Century 2067 to 2100  
 * Uncertain
-* Solar Federation 2062 to 2112
