@@ -54,7 +54,7 @@ Thesaurus for types of cargo carried by vessels and aircraft on their final voya
 
 This vocabulary of climate change hazards, the potential negative climate events that may cause damage or loss, builds on the Climatic Impact-Drivers defined by the Intergovernmental Panel on Climate Change creating a list of climate hazards for heritage.
 
-[Alphabetical](/2023/04/FISH_Climate_Hazards_Alpha.pdf) [Hierarchical](/2023/04/FISH_Climate_Hazards_Hierarchical.pdf) [Linked Data](https://purl.archive.org/heritagedata/schemes/38076.html) [Research Report](https://historicengland.org.uk/research/results/reports/13-2024?search=13%2F2024&searchType=research+report)
+[Alphabetical](/2024/pdf_files/FISH_Climate_Hazards_Alphabetical.pdf) [Hierarchical](/2024/pdf_files/FISH_Climate_Hazards_Hierarchical.pdf) [Linked Data](https://purl.archive.org/heritagedata/schemes/38076.html) [Research Report](https://historicengland.org.uk/research/results/reports/13-2024?search=13%2F2024&searchType=research+report)
 
 ### Components Thesaurus
 
