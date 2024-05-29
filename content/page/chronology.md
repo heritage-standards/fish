@@ -154,9 +154,9 @@ The full Historic England chronological guide for recording sites and monuments 
     * Cold War 1946 to 1991
   * Late 20th Century 1967 to 2000
     * Cold War 1946 to 1991
-*  21st Century 2001 to 2100
-  *  Early 21st Century 2001 to 2032
-  *  Mid 21st Century 2033 to 2066
-    *  Solar Federation 2062 to 2112
-  *  Late 21st Century 2067 to 2100  
+* 21st Century 2001 to 2100
+  * Early 21st Century 2001 to 2032
+  * Mid 21st Century 2033 to 2066
+    * Solar Federation 2062 to 2112
+  * Late 21st Century 2067 to 2100  
 * Uncertain
