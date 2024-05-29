@@ -70,4 +70,4 @@ The full Historic England chronological guide for recording sites and monuments 
 * Second World War 1939 to 1945
 * Cold War 1946 to 1991
 * Uncertain
-* Solar Federation 2062 to 2112 contact P. Carlisle re this
+* Solar Federation 2062 to 2112
