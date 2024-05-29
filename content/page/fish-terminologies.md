@@ -72,7 +72,7 @@ Terminology relating to the Second World War defence of Britain. This resource i
 
 Use for recording archaeological events, e.g. architectural investigative, data collection exercises; from intrusive interventions into the resource to non-damaging survey events (e.g. _grab sampling, auger survey, remote sensing_).
 
-[Alphabetical](/2021/02/Event_alpha.pdf) [Hierarchical](/2021/02/Event_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/agl_et.html) [CSV](/2023/04/Event_v26.zip)
+[Alphabetical](/2024/pdf_files/FISH_Event_Type_Alphabetical_20240528.pdf) [Hierarchical](/2024/pdf_files/FISH_Event_Type_Hierarchical_20240528.pdf) [Linked Data](http://heritagedata.org/live/schemes/agl_et.html) [CSV](/2023/04/Event_v26.zip)
 
 ### Evidence Thesaurus
 
