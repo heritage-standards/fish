@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 May 2024 12:03:43 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 May 2024 12:05:08 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -3739,11 +3739,11 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;/li&gt;
 &lt;li&gt;21st Century 2001 to 2100&lt;/li&gt;
 &lt;li&gt;Early 21st Century 2001 to 2032&lt;/li&gt;
-&lt;li&gt;Mid 21st Century 2033 to 2066
-&lt;ul&gt;
-&lt;li&gt;Solar Federation 2062 to 2112&lt;/li&gt;
+&lt;li&gt;Mid 21st Century 2033 to 2066&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
+&lt;pre&gt;&lt;code&gt;*  Solar Federation 2062 to 2112
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
 &lt;li&gt;Late 21st Century 2067 to 2100&lt;/li&gt;
 &lt;li&gt;Uncertain&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Midas Heritage]]></title><description><![CDATA[Introduction, history, best practice, structure & dictionary In 1998, not long after ICOM produced an international data standard for…]]></description><link>https://heritage-standards.museologi.st/midas-heritage/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/midas-heritage/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction, history, best practice, structure &amp;#x26; dictionary&lt;/h2&gt;
