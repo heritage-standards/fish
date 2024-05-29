@@ -59,12 +59,12 @@ The full Historic England chronological guide for recording sites and monuments 
      * Late Anglo-Saxon 899 to 1066 
 * Medieval 1066 to 1540
 * Post Medieval 1540 to 1901
-* Tudor 1485 to 1603
-* Elizabethan 1558 to 1603
+  * Tudor 1485 to 1603
+     * Elizabethan 1558 to 1603
 * Stuart 1603 to 1714
-* Jacobean 1603 to 1625
+  * Jacobean 1603 to 1625
 * Hanoverian 1714 to 1837
-* Georgian 1714 to 1830
+  * Georgian 1714 to 1830
 * Victorian 1837 to 1901
 
 ### Centuries
