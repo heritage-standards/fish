@@ -59,7 +59,7 @@ These terminologies cover a wide range of materials and objects.
 ### Artefact
 
 *   archaeological objects thesaurus
-*   components thesaurus\*
+*   components thesaurus
 *   maritime cargo thesaurus
 
 ### Heritage
