@@ -36,7 +36,7 @@ All the resources are free to use and do not require FISH membership.
 
 We welcome your feed-back and suggestions on additional terms to include so that the FISH vocabularies remain correct,
 relevant, and inclusive. Submit a Candidate Term to any of our terminology resources and include a description (scope note),
-example of usage and references.
+example of usage and references. Contact [Historic England Data Standards](mailto:terminologies@HistoricEngland.org.uk)
 
 
 ![The ruins of Corfe Castle in Dorset. Copyright Paul Adams](images/Corfe-1024x766.jpg)
