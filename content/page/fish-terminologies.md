@@ -36,7 +36,7 @@ Originally developed by the Archaeological Objects Working Party and published b
 
 Terminology used for recording the techniques, recovery methods and materials associated with archaeological sciences (e.g. _tree-ring analysis, modification state, pathology_). Maintained by Historic England on behalf of the FISH Terminology Working Group.
 
-[Alphabetical](/2021/02/ArchSci_alpha.pdf) [Hierarchical](/2021/02/ArchSci_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/560.html) [CSV](/2023/04/ArchSci_v26.zip)
+[Alphabetical](/2019/03/ArchaeologicalScience_alpha.pdf) [Hierarchical](/2019/03/ArchaeologicalScience_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/560.html) [CSV](/2023/04/ArchSci_v26.zip)
 
 ### Building Materials Thesaurus
 
