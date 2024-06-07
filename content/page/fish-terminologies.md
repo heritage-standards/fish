@@ -114,7 +114,7 @@ Thesaurus combining Historic Landscape and Historic Seascape Characterization te
 
 A small authority file/ wordlist for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
 
-[XLS](/2016/05/mannerofloss-3.xls) [CSV](/2018/01/MannerOfLoss.zip)
+[XLS](/2023/04/mannerofloss-3.xls) [CSV](/2018/01/MannerOfLoss.zip)
 
 ### Maritime Craft Thesaurus
 
