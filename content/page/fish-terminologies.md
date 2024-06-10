@@ -12,7 +12,7 @@ last_modified_at: 2024-05-28T18:45:15
 
 All the resources here are free to use and do not require FISH membership.
 
-[Archaeological Sciences Thesaurus](/page/fish-terminologies.md#archaeological-sciences-thesaurus)
+[Archaeological Sciences Thesaurus](/content/page/fish-terminologies.md#archaeological-sciences-thesaurus)
 
 > Thesauri last updated April 2023 (version 26)
 
