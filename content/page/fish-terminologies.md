@@ -13,7 +13,7 @@ last_modified_at: 2024-05-28T18:45:15
 All the resources here are free to use and do not require FISH membership.
 
 ### Thesauri
-- [Archaeological Object Thesaurus](/content/page/fish-terminologies.md#archaeological-objects-thesaurus)
+- [Archaeological Object Thesaurus](/fish-terminologies/#archaeological-objects-thesaurus)
 - [Archaeological Sciences Thesaurus](/content/page/fish-terminologies.md#archaeological-sciences-thesaurus)
 - [Building Materials Thesaurus](/content/page/fish-terminologies.md#building-materials-thesaurus)
 - [Cargo Thesaurus](/content/page/fish-terminologies.md#cargo-thesaurus)
