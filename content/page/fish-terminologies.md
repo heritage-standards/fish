@@ -12,6 +12,8 @@ last_modified_at: 2024-05-28T18:45:15
 
 All the resources here are free to use and do not require FISH membership.
 
+[Archaeological Sciences Thesaurus](/page/fish-terminologies.md#archaeological-sciences-thesaurus)
+
 > Thesauri last updated April 2023 (version 26)
 
 All of the CSV files below are version 26; however, due to ongoing technical issues we have been unable to produce updated
@@ -34,7 +36,7 @@ Originally developed by the Archaeological Objects Working Party and published b
 
 [Alphabetical](/2021/02/ArchObj_alpha.pdf) [Hierarchical](/2021/02/ArchObj_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/mda_obj.html) [CSV](/2023/04/ArchObjs_v26.zip)
 
-### [Archaeological Sciences Thesaurus](/page/fish-terminologies.md#archaeological-sciences-thesaurus)
+### Archaeological Sciences Thesaurus
 
 Terminology used for recording the techniques, recovery methods and materials associated with archaeological sciences (e.g. _tree-ring analysis, modification state, pathology_). Maintained by Historic England on behalf of the FISH Terminology Working Group.
 
