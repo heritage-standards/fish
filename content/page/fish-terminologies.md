@@ -14,7 +14,7 @@ All the resources here are free to use and do not require FISH membership.
 
 ### Thesauri
 - [Archaeological Object Thesaurus](#archaeological-objects-thesaurus)
-- [Archaeological Sciences Thesaurus](/content/page/fish-terminologies.md#archaeological-objects-thesaurus)
+- [Archaeological Sciences Thesaurus](/content/page/fish-terminologies.md#archaeological-sciences-thesaurus)
 - [Building Materials Thesaurus](/content/page/fish-terminologies.md#building-materials-thesaurus)
 - [Cargo Thesaurus](/content/page/fish-terminologies.md#cargo-thesaurus)
 - [Climate Hazards Thesaurus](/content/page/fish-terminologies.md#climate-hazards-thesaurus)
