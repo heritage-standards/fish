@@ -36,7 +36,7 @@ All the resources here are free to use and do not require FISH membership.
 - [Periods List- superseded](/content/page/fish-terminologies.md#periods-list)
 - [Historic England Periods List](/content/page/fish-terminologies.md#historic-england-periods-list)
 - [Resource Description Thesaurus](/content/page/fish-terminologies.md#resource-description-thesaurus)
-- [Threat Types](/content/page/fish-terminologies.md#threat-types)
+- [Threat Types](/content/page/fish-terminologies#threat-types)
 
 > Thesauri last updated April 2023 (version 26)
 
