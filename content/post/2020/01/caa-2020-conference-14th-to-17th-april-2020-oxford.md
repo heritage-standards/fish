@@ -2,7 +2,7 @@
 type: post
 title: "CAA 2020 Conference – 14th to 17th April 2020, Oxford"
 author: 
-  - Digital Standards Unit
+  - Data Standards Specialist
 date: 2020-01-21T14:14:51+00:00
 categories: ["News"]
 permalink: /news/caa-2020-conference-14th-to-17th-april-2020-oxford/
