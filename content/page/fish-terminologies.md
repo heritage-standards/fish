@@ -13,7 +13,7 @@ last_modified_at: 2024-05-28T18:45:15
 All the resources here are free to use and do not require FISH membership.
 
 ### Thesauri
-- [Archaeological Object Thesaurus](/fish-terminologies/#archaeological-objects-thesaurus)
+- [Archaeological Object Thesaurus](#archaeological-objects-thesaurus)
 - [Archaeological Sciences Thesaurus](/content/page/fish-terminologies.md#archaeological-sciences-thesaurus)
 - [Building Materials Thesaurus](/content/page/fish-terminologies.md#building-materials-thesaurus)
 - [Cargo Thesaurus](/content/page/fish-terminologies.md#cargo-thesaurus)
@@ -52,7 +52,7 @@ February 2021; the six affected thesauri are:
 5. Object Materials
 6. Resource Description (Thred).
 
-### Archaeological Objects Thesaurus
+### <a id="archaeological-objects-thesaurus"></a> Archaeological Objects Thesaurus
 
 Originally developed by the Archaeological Objects Working Party and published by the [MDA](https://en.wikipedia.org/wiki/Collections_Trust). It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. _corn dolly, cremation, cross_). Now maintained by FISH on behalf of the heritage sector.
 
