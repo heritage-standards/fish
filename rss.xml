@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jun 2024 16:18:58 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jun 2024 16:28:10 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -391,7 +391,7 @@ London &lt;a href=&quot;/2015/08/FISH-spring-meeting-june-10th-2014-agenda.pdf&q
 &lt;p&gt;All the resources here are free to use and do not require FISH membership.&lt;/p&gt;
 &lt;h3&gt;Thesauri&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/fish-terminologies/#archaeological-objects-thesaurus&quot;&gt;Archaeological Object Thesaurus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#archaeological-objects-thesaurus&quot;&gt;Archaeological Object Thesaurus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/content/page/fish-terminologies.md#archaeological-sciences-thesaurus&quot;&gt;Archaeological Sciences Thesaurus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/content/page/fish-terminologies.md#building-materials-thesaurus&quot;&gt;Building Materials Thesaurus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/content/page/fish-terminologies.md#cargo-thesaurus&quot;&gt;Cargo Thesaurus&lt;/a&gt;&lt;/li&gt;
@@ -431,7 +431,7 @@ February 2021; the six affected thesauri are:&lt;/p&gt;
 &lt;li&gt;Object Materials&lt;/li&gt;
 &lt;li&gt;Resource Description (Thred).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Archaeological Objects Thesaurus&lt;/h3&gt;
+&lt;h3&gt;&lt;a id=&quot;archaeological-objects-thesaurus&quot;&gt;&lt;/a&gt; Archaeological Objects Thesaurus&lt;/h3&gt;
 &lt;p&gt;Originally developed by the Archaeological Objects Working Party and published by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Collections_Trust&quot;&gt;MDA&lt;/a&gt;. It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. &lt;em&gt;corn dolly, cremation, cross&lt;/em&gt;). Now maintained by FISH on behalf of the heritage sector.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/2021/02/ArchObj_alpha.pdf&quot;&gt;Alphabetical&lt;/a&gt; &lt;a href=&quot;/2021/02/ArchObj_class.pdf&quot;&gt;Hierarchical&lt;/a&gt; &lt;a href=&quot;https://heritagedata.org/live/schemes/mda_obj.html&quot;&gt;Linked Data&lt;/a&gt; &lt;a href=&quot;/2023/04/ArchObjs_v26.zip&quot;&gt;CSV&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Archaeological Sciences Thesaurus&lt;/h3&gt;
