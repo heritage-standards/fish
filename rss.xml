@@ -1,5 +1,395 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jun 2024 11:39:55 GMT</lastBuildDate><item><title><![CDATA[FISH Terminologies]]></title><description><![CDATA[This page presents the FISH vocabularies in different formats, a thesaurus table structure and the latest list of candidate terms added to…]]></description><link>https://heritage-standards.museologi.st/fish-vocabularies/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/fish-vocabularies/</guid><content:encoded>&lt;p&gt;&lt;strong&gt;This page presents the FISH vocabularies in different formats, a thesaurus table structure and the latest list of candidate terms added to the thesauri.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jun 2024 11:47:07 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
+&lt;p&gt;We would like to know what future product developments you want us to focus on.&lt;/p&gt;
+&lt;p&gt;Do you need indexing  (e.g. a new controlled vocabulary) or recording advice in a particular subject area? Let us know.&lt;/p&gt;
+&lt;h2&gt;Pottery Ware and Fabric Type Series&lt;/h2&gt;
+&lt;p&gt;FISH is currently (2019) developing a MIDAS related pottery standard to help with the characterisation of pottery ware
+and fabric type series. It will be supported by a range of controlled vocabularies to facilitate consistent indexing.&lt;/p&gt;
+&lt;p&gt;Once reviewed by Worcestershire Historic Environment Record (part of Worcestershire Archive &amp;#x26; Archaeology Service, which
+produced the &lt;a href=&quot;https://www.worcestershireceramics.org/&quot;&gt;Worcestershire Ceramics&lt;/a&gt; website);
+the &lt;a href=&quot;https://www.prehistoricpottery.org/&quot;&gt;Prehistoric Ceramics Research Group&lt;/a&gt; (PCRG);
+the &lt;a href=&quot;https://romanpotterystudy.org.uk/&quot;&gt;Study Group for Roman Pottery&lt;/a&gt; (SGRP); and
+the &lt;a href=&quot;http://www.medievalpottery.org.uk/&quot;&gt;Medieval Pottery Research Group&lt;/a&gt; (MPRG), all products will be made available on
+the FISH website.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 128.22085889570553%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEbVMg2YjgnNoWaj//EABwQAAICAgMAAAAAAAAAAAAAAAABAxECEBITIP/aAAgBAQABBQLVMTZeSdlTnGcXcvH/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPwHIj//EAB0QAAIBBAMAAAAAAAAAAAAAAAABMQIQIDIhQaH/2gAIAQEABj8CtDOUjok1ZFRp5h//xAAcEAEBAQEAAgMAAAAAAAAAAAABEQBRMXFB0fH/2gAIAQEAAT8hNF7vyMAEV8ZIqB0/MvrLfTqEWPWilZDmhzQ5v//aAAwDAQACAAMAAAAQTPqw/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxDKyj//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCqhD//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhkTFhcaHx/9oACAEBAAE/ELOT1DCB+LZ9TAJlgVV1zDREAauGcqmkyhYODijGlwbyMQVGlOpqdTU6mp//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/98307/F004_3a.webp 163w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/92d89/F004_3a.webp 325w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/8ea29/F004_3a.webp 650w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/55e68/F004_3a.webp 975w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/c36b9/F004_3a.webp 1181w&quot;
+              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/710e7/F004_3a.jpg 163w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/b9e16/F004_3a.jpg 325w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/ced87/F004_3a.jpg 650w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/1e5ea/F004_3a.jpg 975w,
+/static/3f8f04cda2176adb6f9c2bab8561971b/345c8/F004_3a.jpg 1181w&quot;
+            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/ced87/F004_3a.jpg&quot;
+            alt=&quot;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;br&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 128.22085889570553%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABQQmrlAp7sKnIa4//xAAcEAABAwUAAAAAAAAAAAAAAAAAASEjEBEgIjH/2gAIAQEAAQUCWqq3RiQkvvh//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AciP/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAIgITMDEZH/2gAIAQEABj8CbOytRGNXCtTP/8QAHxAAAgEDBQEAAAAAAAAAAAAAAAERITFxIEFRYYGR/9oACAEBAAE/IZXiBdtGIOUW7SUUBQdPgNpJTIba7vNH/9oADAMBAAIAAwAAABBwzDD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCqqv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIiEP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQVEQYXH/2gAIAQEAAT8Qv3jWDEyvU2ModydXDFhXUospFpzx3AtQJxmO0jPKuvsMiPYsfFmqtcoleP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/98307/F004_3b.webp 163w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/92d89/F004_3b.webp 325w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/8ea29/F004_3b.webp 650w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/55e68/F004_3b.webp 975w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/c36b9/F004_3b.webp 1181w&quot;
+              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/710e7/F004_3b.jpg 163w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/b9e16/F004_3b.jpg 325w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/ced87/F004_3b.jpg 650w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/1e5ea/F004_3b.jpg 975w,
+/static/ee4866d63ea056b3a314db3e3346d9f2/345c8/F004_3b.jpg 1181w&quot;
+            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/ced87/F004_3b.jpg&quot;
+            alt=&quot;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;Lithic artefacts&lt;/h2&gt;
+&lt;p&gt;FISH is also preparing (2019) a thesaurus of lithic artefact terms, largely based on the Norfolk Historic Environment
+Record’s (NHER) indexing guides for worked flint and stone (author Peter Watkins, 2015). This will  be reviewed by lithics
+specialists prior to publication on the FISH website.&lt;/p&gt;
+&lt;h2&gt;Thesaurus of Cultural Heritage&lt;/h2&gt;
+&lt;p&gt;FISH is currently preparing for the amalgamation of key FISH thesauri into one single thesaurus of tangible heritage.&lt;/p&gt;
+&lt;p&gt;It will be made available online via a new open source inventory and management system called &lt;a href=&quot;https://archesproject.org/&quot;&gt;ARCHES&lt;/a&gt;, produced by
+the &lt;a href=&quot;http://archesproject.org/what-is-arches/&quot;&gt;Getty Conservation Institute and World Monuments Fund&lt;/a&gt; on behalf of the international heritage sector.&lt;/p&gt;
+&lt;p&gt;We hope to illustrate the thesaurus as much as possible and we would be grateful for any help in this area once we are ready
+for that phase of the project.&lt;/p&gt;
+&lt;p&gt;More information about the &lt;em&gt;Thesaurus of Cultural Heritage&lt;/em&gt; may be found on the related &lt;a href=&quot;http://www.heritagedata.org/blog/uber-thesaurus/&quot;&gt;Heritage Data&lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;Contact person is &lt;a href=&quot;mailto:philip.carlisle@HistoricEngland.org.uk&quot;&gt;Phil Carlisle&lt;/a&gt;, Historic England.&lt;/p&gt;
+&lt;h2&gt;Intangible Heritage&lt;/h2&gt;
+&lt;p&gt;UNESCO and UN promote the capture of social and cultural expressions, our &lt;a href=&quot;https://ich.unesco.org/en/lists&quot;&gt;intangible heritage&lt;/a&gt;. Continuing to link places
+and objects to people and events, but now adding the value and meaning people once gave or now give to them. Examples include
+recording local traditions, religious practice, links to slavery and disability, social taboos, forms of entertainment etc.&lt;/p&gt;
+&lt;p&gt;The Library of Congress has produced an &lt;a href=&quot;http://id.loc.gov/vocabulary/ethnographicTerms.html&quot;&gt;Ethnographic Thesaurus&lt;/a&gt;, covering
+American folklore, but there does not seem to be a UK equivalent. If there is a demand for this, is this something FISH
+can help with?&lt;/p&gt;
+&lt;p&gt;A thesaurus for intangible heritage may&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;include &lt;strong&gt;cultural expressions&lt;/strong&gt; (e.g. dance, social media, traditional crafts, language, hobbies, traditions, festivals),&lt;/li&gt;
+&lt;li&gt;capture the cultural influences of our &lt;strong&gt;ethnic communities&lt;/strong&gt; and related issues (e.g. homesickness, interracial marriage, identity and multiculturalism_),&lt;/li&gt;
+&lt;li&gt;identify past and present peoples &lt;strong&gt;faith and beliefs&lt;/strong&gt; (folklore, witchcraft, superstition, mythology and interfaith cooperation_),&lt;/li&gt;
+&lt;li&gt;cover &lt;strong&gt;social attitudes&lt;/strong&gt; on issues such as slavery, racism,_ views on &lt;em&gt;marriage, disability, LGBTQ, social stigma, political activism and charitable giving&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inclusive Heritage&lt;/h3&gt;
+&lt;p&gt;Several cultural heritage institutions are working on developing access to more inclusive heritage (e.g. The National Archives,
+The British Museum, &lt;a href=&quot;https://historicengland.org.uk/research/inclusive-heritage/&quot;&gt;Historic England&lt;/a&gt;). The aim is to make it easier for people to find cultural information relating
+to different community groups such as people with disabilities, different ethnic background etc.&lt;/p&gt;
+&lt;h3&gt;Linking &apos;Disability&apos;&lt;/h3&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 90.18404907975462%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABwy2RC4usjlJXGH//xAAbEAADAAIDAAAAAAAAAAAAAAABAgMSMgAhQv/aAAgBAQABBQL2+wXJUYCtK9y05beZOH//xAAWEQEBAQAAAAAAAAAAAAAAAAABABD/2gAIAQMBAT8BWd//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPwEp/8QAHxAAAgIBBAMAAAAAAAAAAAAAAAECETESIUFRcYGR/9oACAEBAAY/AqrC6JaVt4FaXwlfNIlFVRgl6GZP/8QAHhAAAwABBAMAAAAAAAAAAAAAAAERMSFBUYFhcbH/2gAIAQEAAT8hST0zWz4GFmy7BDNMmCLIXwwdGRn0PfYW09WGt+RdIy7P/9oADAMBAAIAAwAAABC0B0L/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARIVFx/9oACAEDAQE/EFUYM3xR/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExEP/aAAgBAgEBPxBXEHT/xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMUGBUWFx/9oACAEBAAE/EJ+UUAmirrfcFYhijF7NOnJQWiUbe/eeHRDkQrf0D3kCBknhOHzTuT0vbBNLTZ28MRCVdq4LnV0I85//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/98307/william-heals-a-blind-woman-Historic-England.webp 163w,
+/static/7d322df2dc4b04047d3fcc3219e7862b/92d89/william-heals-a-blind-woman-Historic-England.webp 325w,
+/static/7d322df2dc4b04047d3fcc3219e7862b/59c12/william-heals-a-blind-woman-Historic-England.webp 355w&quot;
+              sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/710e7/william-heals-a-blind-woman-Historic-England.jpg 163w,
+/static/7d322df2dc4b04047d3fcc3219e7862b/b9e16/william-heals-a-blind-woman-Historic-England.jpg 325w,
+/static/7d322df2dc4b04047d3fcc3219e7862b/72f7f/william-heals-a-blind-woman-Historic-England.jpg 355w&quot;
+            sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/72f7f/william-heals-a-blind-woman-Historic-England.jpg&quot;
+            alt=&quot;Detail of a medieval glass-stained window of a clergyman healing a blind woman by putting his hand over her eyes. Photo copyright: Historic England&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Detail of a medieval glass-stained window of a clergyman healing a blind woman by putting his hand over her eyes. Photo copyright: Historic England&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 450px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.12883435582822%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEBQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/2gAMAwEAAhADEAAAAbVl40OqSkWs+kLIMTX/xAAbEAEBAAIDAQAAAAAAAAAAAAACAQADEBITIv/aAAgBAQABBQKqHPQ8V/aWaFaNuntfB3AYTz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABIQ/9oACAEDAQE/AdsNk5//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDERD/2gAIAQIBAT8BVSHHHgrJLn//xAAcEAABBAMBAAAAAAAAAAAAAAARAAEQIQISIDH/2gAIAQEABj8Ct5cxa2x9VgINx//EABwQAAICAwEBAAAAAAAAAAAAAAERADEhQXEQIP/aAAgBAQABPyHUEBCmu+C6txNJzAeQVMmAbujKJBtAKofH/9oADAMBAAIAAwAAABCw0D7/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EHTkKbLOwZf/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxDB32ZIJkqut//EAB4QAQACAwACAwAAAAAAAAAAAAEAESExQVFhkbHw/9oACAEBAAE/EArK2jrLib9amJnMEYHFOPqcxrAX+8Tq4ivE1ueAheHrYLfdQX6D5nahuK3P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/98307/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 163w,
+/static/cd193047dd1629489fb08b7edeb6ebfc/92d89/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 325w,
+/static/cd193047dd1629489fb08b7edeb6ebfc/b5115/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 450w&quot;
+              sizes=&quot;(max-width: 450px) 100vw, 450px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/710e7/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 163w,
+/static/cd193047dd1629489fb08b7edeb6ebfc/b9e16/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 325w,
+/static/cd193047dd1629489fb08b7edeb6ebfc/12ba2/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 450w&quot;
+            sizes=&quot;(max-width: 450px) 100vw, 450px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/12ba2/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg&quot;
+            alt=&quot;Image of blue plaque with the text Sir Douglas Bader 1910-1982 RAF Fighter Pilot lived here 1955-1982. Copyright Wikipedia Commons&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Image of blue plaque with the text Sir Douglas Bader 1910-1982 RAF Fighter Pilot lived here 1955-1982. Copyright Wikipedia Commons&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 400px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 79.75460122699387%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABhe10eablB//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMSERMh/9oACAEBAAEFAtODTzrMcNFyx1Un/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIB/9oACAEDAQE/AYTr/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAETEf/aAAgBAgEBPwGj0oj/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIREBIh/9oACAEBAAY/AjuLY9SnE//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8hUlRPkkHloeUtdHqbfBtFfUf/2gAMAwEAAgADAAAAEJvP/8QAFxEBAQEBAAAAAAAAAAAAAAAAASEQEf/aAAgBAwEBPxAPK3P/xAAYEQACAwAAAAAAAAAAAAAAAAAAASExYf/aAAgBAgEBPxB1FBif/8QAHxABAAIBAwUAAAAAAAAAAAAAAQARITFBUWGBkcHx/9oACAEBAAE/ECpG3QDLCEQdxx34nWIZcLA1g4JacoAx+Z9QNRDG8eZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/98307/liverpool-workshop-for-the-blind-2-Historic-England.webp 163w,
+/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/92d89/liverpool-workshop-for-the-blind-2-Historic-England.webp 325w,
+/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/f59aa/liverpool-workshop-for-the-blind-2-Historic-England.webp 400w&quot;
+              sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/710e7/liverpool-workshop-for-the-blind-2-Historic-England.jpg 163w,
+/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/b9e16/liverpool-workshop-for-the-blind-2-Historic-England.jpg 325w,
+/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/27ec1/liverpool-workshop-for-the-blind-2-Historic-England.jpg 400w&quot;
+            sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/27ec1/liverpool-workshop-for-the-blind-2-Historic-England.jpg&quot;
+            alt=&quot;Image of the Liverpool Workshop for the Blind. Copyright Historic England&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Image of the Liverpool Workshop for the Blind. Copyright Historic England&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested in recording intangible and inclusive heritage, then have a look at the FISH Terminology page where some vocabularies are listed in the &lt;a href=&quot;/other-terminology-resources/&quot;&gt;&lt;em&gt;Other Terminology Resources&lt;/em&gt;&lt;/a&gt; section.&lt;/p&gt;
+&lt;h3&gt;Further Reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://d-nb.info/1000727173/34&quot;&gt;‘Intangible’ and ‘tangible’ heritage - A topology of culture in contexts of faith&lt;/a&gt;. Britta Rudolff, Johannes Gutenberg-University of Mainz, Germany, 2006.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/1461444812469598&quot;&gt;YouTube and the social archiving of intangible heritage&lt;/a&gt;&lt;a href=&quot;http://nms.sagepub.com/content/early/2013/01/08/1461444812469598.abstract&quot;&gt;.&lt;/a&gt; Sheenagh Pietrobruno, McGill University, Canada &amp;#x26; Fatih University, Istanbul, Turkey, 2013.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415529952/&quot;&gt;Children, Childhood and Cultural Heritage&lt;/a&gt;. Editors Kate Darian-Smith, Carla Pascoe (Explores how the everyday experiences of children, and their imaginative and creative worlds, are collected, interpreted and displayed in museums and on monuments, and represented through objects and cultural lore), 2012.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415672252/&quot;&gt;Managing Cultural Landscapes&lt;/a&gt;. Editors Ken Taylor, Jane Lennon. (Human attachment to landscape and how we find identity in landscape and place), 2012.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415618113/&quot;&gt;Heritage, Labour and the Working Classes&lt;/a&gt;. Editors Laurajane Smith, Paul Shackel, Gary Campbell. (Working class culture), 2011.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415454506/&quot;&gt;Places of Pain and Shame&lt;/a&gt; - Dealing with ‘Difficult Heritage’. Editors William Logan, Keir Reeves. (A cross-cultural study of sites that represent painful and/or shameful episodes in a national or local community’s history, and the ways that government agencies, heritage professionals and the communities themselves seek to remember, commemorate and conserve these cases), 2008.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415473965/&quot;&gt;Intangible Heritage&lt;/a&gt;. Editors Laurajane Smith, Natsuko Akagawa. (Examines the implications and consequences of the idea of ‘intangible heritage’ to current international academic and policy debates about the meaning and nature of cultural heritage and the management processes developed to protect it), 2008.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Archaeology in Context&lt;/h3&gt;
+&lt;p&gt;Moving on from building a foundation of minimum information, digital access and interoperability, key developments in digital
+technology and publishing (such as &lt;a href=&quot;https://www.w3.org/standards/semanticweb/data&quot;&gt;Linked Open Data&lt;/a&gt; and &lt;a href=&quot;http://opencontext.org/&quot;&gt;Open Context&lt;/a&gt;)
+are now opening up the possibilities of recording the &lt;em&gt;context&lt;/em&gt; the data was compiled in for future reuse.&lt;/p&gt;
+&lt;p&gt;The interpretation and analysis, the wording used, and the scholarly background and reputation of the archaeologists who
+conducted the excavations and field studies, are of historical interest and value when assessing the quality and reliability
+of the compiled data.&lt;/p&gt;
+&lt;p&gt;Digital access to full reports with scanned images, measurements and diagrams, rather than the basic metadata and summary
+description, is becoming increasingly realistic.&lt;/p&gt;
+&lt;p&gt;Is this something you or your organization already, or would like to, record? Is this an area for FISH to explore?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FISH-HEIRNET]]></title><description><![CDATA[FISH contacts, meetings and events FISH-HEIRNET meetings are held twice a year with a technical meeting in Spring and a strategic meeting in…]]></description><link>https://heritage-standards.museologi.st/fish-heirnet/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/fish-heirnet/</guid><content:encoded>&lt;h2&gt;FISH contacts, meetings and events&lt;/h2&gt;
+&lt;p&gt;FISH-HEIRNET meetings are held twice a year with a technical meeting in Spring and a strategic meeting in Autumn. Venue varies.
+Below are &lt;em&gt;Agendas&lt;/em&gt; for up-coming meetings and the &lt;em&gt;Minutes&lt;/em&gt; from previous meetings. All archived meeting papers and presentations
+(where available) are stored on &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH&quot;&gt;FISH JISCMAIL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The meetings are chaired by the &lt;em&gt;FISH Convener&lt;/em&gt;, &lt;a href=&quot;mailto:david.thomas@rcahmw.gov.uk&quot;&gt;David Thomas&lt;/a&gt;, The Royal Commission
+on the Ancient and Historical Monuments of Wales (RCAHMW).&lt;/p&gt;
+&lt;p&gt;FISH Co-ordinator is &lt;a href=&quot;mailto:danielmiles@HistoricEngland.org.uk&quot;&gt;Dan Miles&lt;/a&gt;, Historic England. Please email Dan if you
+wish to attend any of the FISH-HEIRNET meetings.&lt;/p&gt;
+&lt;p&gt;The FISH Terminology Working Group is chaired by &lt;a href=&quot;mailto:philip.carlisle@HistoricEngland.org.uk&quot;&gt;Phil Carlisle&lt;/a&gt;, Historic England,
+and secretary is &lt;a href=&quot;http://www.museumwales.ac.uk/&quot;&gt;Sally Carter&lt;/a&gt;, Amgueddfa Cymru - National Museum Wales.&lt;/p&gt;
+&lt;p&gt;Web Editor Paul Adams, Historic England.&lt;/p&gt;
+&lt;h2&gt;Meetings&lt;/h2&gt;
+&lt;h3&gt;Autumn Meeting – 10 October 2019 – Belfast&lt;/h3&gt;
+&lt;p&gt;Location: Historic Environment Division, 9 Lanyon Place, Belfast, BT1 3LP (11am to 4pm)
+&lt;a href=&quot;/2020/01/fish_heirnet_Oct-2019-Belfast-agenda.pdf&quot;&gt;Belfast Agenda&lt;/a&gt; and &lt;a href=&quot;/2020/01/fish_heirnet_Oct-2019-Belfast-meeting-minutes.pdf&quot;&gt;Belfast Minutes&lt;/a&gt;
+Presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/2020/01/FISH-Ireland-National-Monuments-Presentation.pdf&quot;&gt;Ireland National Monuments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2020/01/FISH_20191010_discovery-programme.pdf&quot;&gt;Sharing Archaeology Data in Ireland&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2020/01/FISH-Why-we-need-a-Spatial-Data-Infrastructure-for-Archaeology.pdf&quot;&gt;Why we need a Spatial Data Infrastructure for Archaeology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Autumn Meeting - 25 October 2018 - Edinburgh&lt;/h3&gt;
+&lt;p&gt;Location: Conference Room, John Sinclair House, Historic Environment Scotland, 16 Bernard Terrace, Edinburgh, EH8 9NX (11am to 4pm)&lt;br&gt;
+&lt;a href=&quot;2018/10/fish_heirnet_Oct-2018-Edinburgh-Agenda.pdf&quot;&gt;Edinburgh Agenda&lt;/a&gt; and &lt;a href=&quot;/2018/10/fish-heirnet_nov_2016-edinburgh-final.pdf&quot;&gt;Edinburgh Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MIDAS at 20 - where are we going from here? - discussion&lt;/li&gt;
+&lt;li&gt;Expanding outside monument inventory standards, Arches and the Thesaurus of Cultural Heritage update&lt;/li&gt;
+&lt;li&gt;HIAS round up&lt;/li&gt;
+&lt;li&gt;Research Frameworks - Scotland and England&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Winter Meeting - 6 February 2018 - Aberystwyth&lt;/h3&gt;
+&lt;p&gt;Location: Council Chamber, National Library of Wales, Aberystwyth, SY23 3BU&lt;br&gt;
+&lt;a href=&quot;/2015/08/fish_heirnet_Feb2018-Wales-meeting-agenda2.pdf&quot;&gt;Aberystwyth Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/fish_heirnet_Feb2018-Wales-meeting-minutes3.0.pdf&quot;&gt;Aberystwyth Minutes.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the European Archaeology Association (EAA) and spatial developments&lt;/li&gt;
+&lt;li&gt;introduction to the FAIR principles,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/Multilingual-timespan-expressions-Scottish-Archaeological-Periods-Ages.pdf&quot;&gt;Multilingual timespan expressions &amp;#x26; Scottish Archaeological Periods &amp;#x26; Ages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ARCHES and Thesaurus of Cultural Heritage (TCH)&lt;/li&gt;
+&lt;li&gt;OASIS update&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/Welsh-Collections-online-presentation-FISH.ppsx&quot;&gt;Welsh National Museum Collections Online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Information Management and the Historic Environment (Wales)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HERs-and-the-Welsh-Historic-Environment-Act.pdf&quot;&gt;HERs and the Welsh Historic Environment Act&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/List-of-Historic-Welsh-Place-Names.pptx&quot;&gt;List of Historic Welsh Place Names&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;A proposal for a  &lt;a href=&quot;/2015/08/Proposal-for-a-FISH-KHub-group.pptx&quot;&gt;FISH management group&lt;/a&gt; on the Knowledge Hub was also discussed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Spring Meeting - 9 June 2017 - London&lt;/h3&gt;
+&lt;p&gt;Location:  Historic England, 1 Waterhouse Square, 138-142 Holborn, London&lt;br&gt;
+&lt;a href=&quot;/2015/08/FISH-June-9th-meeting-2017-draft-agenda.doc&quot;&gt;London Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-London-minutes-June-2017-final.pdf&quot;&gt;London Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BIM4Heritage: Presentations on &lt;a href=&quot;/2015/08/FISH-Presentation-_-June-2017.pdf&quot;&gt;BIM&lt;/a&gt; and &lt;a href=&quot;/2015/08/nbs-classification-and-uniclass-table-examples.pdf&quot;&gt;Uniclass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Heritage terminologies and &lt;a href=&quot;/2015/08/Terminologies-for-HBIM-FISH.pdf&quot;&gt;how they map to BIM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Controlled vocabularies – &lt;a href=&quot;http://oasis.ac.uk/pages/wiki/Main&quot;&gt;OASIS&lt;/a&gt; &amp;#x26; Research Frameworks&lt;/li&gt;
+&lt;li&gt;FISHTWG – update and the &lt;a href=&quot;http://www.heritagedata.org/blog/uber-thesaurus/#more-223&quot;&gt;Thesaurus of Cultural Heritage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FISH websites and reports from Contributing Organisations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Autumn Meeting - 29 November 2016 - Edinburgh&lt;/h3&gt;
+&lt;p&gt;Location: Conference Room, John Sinclair House, Historic Environment Scotland, 16 Bernard Terrace, Edinburgh, EH8 9NX&lt;br&gt;
+&lt;a href=&quot;/2015/08/FISH-Edinburgh-Agenda-29-Nov-2016.docx&quot;&gt;Edinburgh Agenda&lt;/a&gt; and  &lt;a href=&quot;/2015/08/fish-heirnet_nov_2016-edinburgh-final-1.pdf&quot;&gt;Edinburgh Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/2016-11-29-HES-IMcK.pptx&quot;&gt;Scottish Spatial Data Infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/Dan-FISH-HEIRNET-nov-2016-edinburgh2-dm.pptx&quot;&gt;Furthering our Understanding -  developing English Research Frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-ARIADNE-JR.pptx&quot;&gt;ARIADNE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-BREXIT-Julian-Richards.pptx&quot;&gt;Brexit - Implications for the Historic Environment Information Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-OASIS_HERALD-JR.pptx&quot;&gt;OASIS Herald Project - the proposed changes to OASIS and BIAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/Scarf-FISH_291116.pptx&quot;&gt;ScARF: Scottish archaeology as a regional jigsaw – creating localised frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/SHED-FISH-talk-29Nov16-v1.ppt&quot;&gt;Implementing Scotland’s Historic Environment Data Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/SUP_FISH_Nov_16.pptx&quot;&gt;Scotland&apos;s Urban Past&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Standards in community contributions, and the &lt;a href=&quot;/2015/08/Thesaurus-of-Cultural-Heritage-Phil-Carlisle.pptx&quot;&gt;Thesaurus of Cultural Heritage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Spring Meeting - 8 June 2016 - Worcester&lt;/h3&gt;
+&lt;p&gt;Location:   The Hive, Sawmill Walk, The Butts, Worcester, WR1 3PD&lt;br&gt;
+&lt;a href=&quot;/2015/08/FISH-June-8th-meeting-2016-HIVE-draft-agenda.doc&quot;&gt;Worcester Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-minutes-HIVE-June-2016.pdf&quot;&gt;Worcester Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MIDAS Heritage, FISHTWG and the Thesaurus of Cultural Heritage,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/NRHE-to-HER_FISH.ppsx&quot;&gt;Presentation on Data Supply and Reconciliation Project (NRHE to HER)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HERALD-Update-07-06-2016-fish-meeting.pptx&quot;&gt;HERALD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2015/08/HIAS-FISH.pdf&quot;&gt;Heritage Information Access Strategy (HIAS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FISH websites and Reports from Contributing Organisations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Autumn Meeting - 3 November 2015 - Cambridge&lt;/h3&gt;
+&lt;p&gt;Location:  English Heritage, Brooklands House, 24 Brooklands Avenue, Cambridge CB2 8BU&lt;br&gt;
+&lt;a href=&quot;/2015/08/fish_heirnet_Nov2015_cambridge_final_agenda.pdf&quot;&gt;Cambridge Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/fish-heirnet_nov_2015-cambridge_meeting_minutes_final2.pdf&quot;&gt;Cambridge Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Heritage2020 in England, National Historic Environment Information Strategies review (SHED, HIAS, Welsh Heritage Bill)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://oasis.ac.uk/pages/wiki/HERALD&quot;&gt;OASIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://oasis.ac.uk/pages/wiki/HERALD&quot;&gt;(HERALD)&lt;/a&gt; development&lt;/li&gt;
+&lt;li&gt;BIAB&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/239&quot;&gt;INSPIRE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.researchspace.org/&quot;&gt;ResearchSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Spring Meeting - 8 June 2015 - London&lt;/h3&gt;
+&lt;p&gt;Location:  Historic England, 1 Waterhouse Square, 138-142 Holborn, London&lt;br&gt;
+London &lt;a href=&quot;/2015/08/FISH-spring-meeting-june-10th-2014-agenda.pdf&quot;&gt;Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-minutes-final-08-06-2015.v.2.pdf&quot;&gt;London Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the future direction of MIDAS Heritage&lt;/li&gt;
+&lt;li&gt;Thesaurus of Cultural Heritage&lt;/li&gt;
+&lt;li&gt;FISH contributions to TACOs&lt;/li&gt;
+&lt;li&gt;The Data Supply and Reconciliation Project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Autumn Meeting 18 November 2014 - Cardiff&lt;/h4&gt;
+&lt;p&gt;Location: National Museum Wales, Cathays Park, Cardiff CF10 3NP&lt;br&gt;
+&lt;a href=&quot;/2015/08/FISH-HEIRNET-Autumn-Cardiff-meeting-agenda-2014.pdf&quot;&gt;Cardiff Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-HEIRNET-Nov-2014-Cardiff-meeting-minutes.pdf&quot;&gt;Cardiff Minutes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Standards Work in Wales / Heritage Bill, SHED, &lt;a href=&quot;https://historicengland.org.uk/research/support-and-collaboration/heritage-information-access-strategy/&quot;&gt;Heritage Information Access Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;HIAS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/research/tools/vocabularies/itwg_getty_vocabularies_update.pdf&quot;&gt;Getty Vocabulary Program ITWG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/conservation/our_projects/field_projects/arches/&quot;&gt;Arches Project&lt;/a&gt; (Getty)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ariadne-infrastructure.eu/&quot;&gt;ARIADNE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(Advanced Research Infrastructure for Archaeological Dataset Networking)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.locloud.eu/&quot;&gt;LoCloud&lt;/a&gt; (Local Content in a Europeana Cloud), NEARCH (New Scenarios for a Community-involved Archaeology)&lt;/li&gt;
+&lt;li&gt;TACOS discussion, Wales HER Software Suite&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.archwilio.org.uk/arch/&quot;&gt;Archwilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.museumwales.ac.uk/partnerships/peoplescollection/&quot;&gt;People&apos;s Collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://museum.wales/portable-antiquities-scheme-in-wales-role/&quot;&gt;PAS in Wales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.academia.edu/9347715/Implementing_Linked_Data_within_the_Portable_Antiquities_Scheme&quot;&gt;Implementing Linked data within PAS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://archaeologydataservice.ac.uk/blog/2014/04/seneschal-vocabularies-implementation/&quot;&gt;Implementing SENESCHAL vocabularies at ADS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download:&lt;/p&gt;
+&lt;h2&gt;Events&lt;/h2&gt;
+&lt;h3&gt;TACOS 2014&lt;/h3&gt;
+&lt;p&gt;Past events include the TACOS seminar held in May 2014. TACOS stands for &lt;em&gt;&lt;a href=&quot;http://www.archaeologists.net/groups/imsig/tacos&quot;&gt;Towards a Collaborative Strategy for sector information management&lt;/a&gt;&lt;/em&gt; and was set up to aid and promote a forward plan to develop a common research agenda and strategy for UK historic environment information management in the future.&lt;/p&gt;
+&lt;p&gt;Partnerships included FISH, the Historic Environment Information Resources Network (HEIRNET) and various heritage sector working groups such as the &lt;a href=&quot;http://www.archaeologists.net/groups/imsig&quot;&gt;Chartered Institute for Archaeologists Information Management Special Interest Group (IMSIG)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information about the strategy, download the full &lt;a href=&quot;/2014/05/tacos_report_dec2014.pdf&quot;&gt;TACOS report here,&lt;/a&gt; produced by &lt;a href=&quot;http://new.archaeologyuk.org/&quot;&gt;Council for British Archaeology (CBA)&lt;/a&gt; in December 2014.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FISH Terminologies]]></title><description><![CDATA[This page presents the FISH vocabularies in different formats, a thesaurus table structure and the latest list of candidate terms added to…]]></description><link>https://heritage-standards.museologi.st/fish-vocabularies/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/fish-vocabularies/</guid><content:encoded>&lt;p&gt;&lt;strong&gt;This page presents the FISH vocabularies in different formats, a thesaurus table structure and the latest list of candidate terms added to the thesauri.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;All the resources here are free to use and do not require FISH membership.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/page/fish-terminologies.md#archaeological-sciences-thesaurus&quot;&gt;Archaeological Sciences Thesaurus&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Thesauri last updated April 2023 (version 26)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -18,7 +408,7 @@ February 2021; the seven affected thesauri are:&lt;/p&gt;
 &lt;h3&gt;Archaeological Objects Thesaurus&lt;/h3&gt;
 &lt;p&gt;Originally developed by the Archaeological Objects Working Party and published by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Collections_Trust&quot;&gt;MDA&lt;/a&gt;. It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. &lt;em&gt;corn dolly, cremation, cross&lt;/em&gt;). Now maintained by FISH on behalf of the heritage sector.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/2021/02/ArchObj_alpha.pdf&quot;&gt;Alphabetical&lt;/a&gt; &lt;a href=&quot;/2021/02/ArchObj_class.pdf&quot;&gt;Hierarchical&lt;/a&gt; &lt;a href=&quot;http://heritagedata.org/live/schemes/mda_obj.html&quot;&gt;Linked Data&lt;/a&gt; &lt;a href=&quot;/2023/04/ArchObjs_v26.zip&quot;&gt;CSV&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href=&quot;/page/fish-terminologies.md#archaeological-sciences-thesaurus&quot;&gt;Archaeological Sciences Thesaurus&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Archaeological Sciences Thesaurus&lt;/h3&gt;
 &lt;p&gt;Terminology used for recording the techniques, recovery methods and materials associated with archaeological sciences (e.g. &lt;em&gt;tree-ring analysis, modification state, pathology&lt;/em&gt;). Maintained by Historic England on behalf of the FISH Terminology Working Group.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/2024/pdf_files/FISH_Archaeological_Sciences_Alphabetical_20240607.pdf&quot;&gt;Alphabetical&lt;/a&gt; &lt;a href=&quot;/2024/pdf_files/FISH_Archaeological_Sciences_Alphabetical_20240607.pdf&quot;&gt;Hierarchical&lt;/a&gt; &lt;a href=&quot;http://heritagedata.org/live/schemes/560.html&quot;&gt;Linked Data&lt;/a&gt;&lt;a href=&quot;/2024/rdf_files/FISH_Archaeological_Sciences_20240607.rdf&quot;&gt;Linked Data - rdf/skos&lt;/a&gt; &lt;a href=&quot;/2024/zip_files/FISH_Archaeological_Sciences.zip&quot;&gt;CSV&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Building Materials Thesaurus&lt;/h3&gt;
@@ -481,396 +871,7 @@ general search portals, not to specific documents.&lt;/p&gt;
 &lt;h3&gt;Waterlogged Material&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://historicengland.org.uk/images-books/publications/&quot;&gt;Historic England&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[FISH-HEIRNET]]></title><description><![CDATA[FISH contacts, meetings and events FISH-HEIRNET meetings are held twice a year with a technical meeting in Spring and a strategic meeting in…]]></description><link>https://heritage-standards.museologi.st/fish-heirnet/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/fish-heirnet/</guid><content:encoded>&lt;h2&gt;FISH contacts, meetings and events&lt;/h2&gt;
-&lt;p&gt;FISH-HEIRNET meetings are held twice a year with a technical meeting in Spring and a strategic meeting in Autumn. Venue varies.
-Below are &lt;em&gt;Agendas&lt;/em&gt; for up-coming meetings and the &lt;em&gt;Minutes&lt;/em&gt; from previous meetings. All archived meeting papers and presentations
-(where available) are stored on &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH&quot;&gt;FISH JISCMAIL&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The meetings are chaired by the &lt;em&gt;FISH Convener&lt;/em&gt;, &lt;a href=&quot;mailto:david.thomas@rcahmw.gov.uk&quot;&gt;David Thomas&lt;/a&gt;, The Royal Commission
-on the Ancient and Historical Monuments of Wales (RCAHMW).&lt;/p&gt;
-&lt;p&gt;FISH Co-ordinator is &lt;a href=&quot;mailto:danielmiles@HistoricEngland.org.uk&quot;&gt;Dan Miles&lt;/a&gt;, Historic England. Please email Dan if you
-wish to attend any of the FISH-HEIRNET meetings.&lt;/p&gt;
-&lt;p&gt;The FISH Terminology Working Group is chaired by &lt;a href=&quot;mailto:philip.carlisle@HistoricEngland.org.uk&quot;&gt;Phil Carlisle&lt;/a&gt;, Historic England,
-and secretary is &lt;a href=&quot;http://www.museumwales.ac.uk/&quot;&gt;Sally Carter&lt;/a&gt;, Amgueddfa Cymru - National Museum Wales.&lt;/p&gt;
-&lt;p&gt;Web Editor Paul Adams, Historic England.&lt;/p&gt;
-&lt;h2&gt;Meetings&lt;/h2&gt;
-&lt;h3&gt;Autumn Meeting – 10 October 2019 – Belfast&lt;/h3&gt;
-&lt;p&gt;Location: Historic Environment Division, 9 Lanyon Place, Belfast, BT1 3LP (11am to 4pm)
-&lt;a href=&quot;/2020/01/fish_heirnet_Oct-2019-Belfast-agenda.pdf&quot;&gt;Belfast Agenda&lt;/a&gt; and &lt;a href=&quot;/2020/01/fish_heirnet_Oct-2019-Belfast-meeting-minutes.pdf&quot;&gt;Belfast Minutes&lt;/a&gt;
-Presentations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/2020/01/FISH-Ireland-National-Monuments-Presentation.pdf&quot;&gt;Ireland National Monuments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2020/01/FISH_20191010_discovery-programme.pdf&quot;&gt;Sharing Archaeology Data in Ireland&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2020/01/FISH-Why-we-need-a-Spatial-Data-Infrastructure-for-Archaeology.pdf&quot;&gt;Why we need a Spatial Data Infrastructure for Archaeology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Autumn Meeting - 25 October 2018 - Edinburgh&lt;/h3&gt;
-&lt;p&gt;Location: Conference Room, John Sinclair House, Historic Environment Scotland, 16 Bernard Terrace, Edinburgh, EH8 9NX (11am to 4pm)&lt;br&gt;
-&lt;a href=&quot;2018/10/fish_heirnet_Oct-2018-Edinburgh-Agenda.pdf&quot;&gt;Edinburgh Agenda&lt;/a&gt; and &lt;a href=&quot;/2018/10/fish-heirnet_nov_2016-edinburgh-final.pdf&quot;&gt;Edinburgh Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MIDAS at 20 - where are we going from here? - discussion&lt;/li&gt;
-&lt;li&gt;Expanding outside monument inventory standards, Arches and the Thesaurus of Cultural Heritage update&lt;/li&gt;
-&lt;li&gt;HIAS round up&lt;/li&gt;
-&lt;li&gt;Research Frameworks - Scotland and England&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Winter Meeting - 6 February 2018 - Aberystwyth&lt;/h3&gt;
-&lt;p&gt;Location: Council Chamber, National Library of Wales, Aberystwyth, SY23 3BU&lt;br&gt;
-&lt;a href=&quot;/2015/08/fish_heirnet_Feb2018-Wales-meeting-agenda2.pdf&quot;&gt;Aberystwyth Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/fish_heirnet_Feb2018-Wales-meeting-minutes3.0.pdf&quot;&gt;Aberystwyth Minutes.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;the European Archaeology Association (EAA) and spatial developments&lt;/li&gt;
-&lt;li&gt;introduction to the FAIR principles,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/Multilingual-timespan-expressions-Scottish-Archaeological-Periods-Ages.pdf&quot;&gt;Multilingual timespan expressions &amp;#x26; Scottish Archaeological Periods &amp;#x26; Ages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ARCHES and Thesaurus of Cultural Heritage (TCH)&lt;/li&gt;
-&lt;li&gt;OASIS update&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/Welsh-Collections-online-presentation-FISH.ppsx&quot;&gt;Welsh National Museum Collections Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Information Management and the Historic Environment (Wales)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HERs-and-the-Welsh-Historic-Environment-Act.pdf&quot;&gt;HERs and the Welsh Historic Environment Act&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/List-of-Historic-Welsh-Place-Names.pptx&quot;&gt;List of Historic Welsh Place Names&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;A proposal for a  &lt;a href=&quot;/2015/08/Proposal-for-a-FISH-KHub-group.pptx&quot;&gt;FISH management group&lt;/a&gt; on the Knowledge Hub was also discussed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Spring Meeting - 9 June 2017 - London&lt;/h3&gt;
-&lt;p&gt;Location:  Historic England, 1 Waterhouse Square, 138-142 Holborn, London&lt;br&gt;
-&lt;a href=&quot;/2015/08/FISH-June-9th-meeting-2017-draft-agenda.doc&quot;&gt;London Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-London-minutes-June-2017-final.pdf&quot;&gt;London Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BIM4Heritage: Presentations on &lt;a href=&quot;/2015/08/FISH-Presentation-_-June-2017.pdf&quot;&gt;BIM&lt;/a&gt; and &lt;a href=&quot;/2015/08/nbs-classification-and-uniclass-table-examples.pdf&quot;&gt;Uniclass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Heritage terminologies and &lt;a href=&quot;/2015/08/Terminologies-for-HBIM-FISH.pdf&quot;&gt;how they map to BIM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Controlled vocabularies – &lt;a href=&quot;http://oasis.ac.uk/pages/wiki/Main&quot;&gt;OASIS&lt;/a&gt; &amp;#x26; Research Frameworks&lt;/li&gt;
-&lt;li&gt;FISHTWG – update and the &lt;a href=&quot;http://www.heritagedata.org/blog/uber-thesaurus/#more-223&quot;&gt;Thesaurus of Cultural Heritage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;FISH websites and reports from Contributing Organisations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Autumn Meeting - 29 November 2016 - Edinburgh&lt;/h3&gt;
-&lt;p&gt;Location: Conference Room, John Sinclair House, Historic Environment Scotland, 16 Bernard Terrace, Edinburgh, EH8 9NX&lt;br&gt;
-&lt;a href=&quot;/2015/08/FISH-Edinburgh-Agenda-29-Nov-2016.docx&quot;&gt;Edinburgh Agenda&lt;/a&gt; and  &lt;a href=&quot;/2015/08/fish-heirnet_nov_2016-edinburgh-final-1.pdf&quot;&gt;Edinburgh Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/2016-11-29-HES-IMcK.pptx&quot;&gt;Scottish Spatial Data Infrastructure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/Dan-FISH-HEIRNET-nov-2016-edinburgh2-dm.pptx&quot;&gt;Furthering our Understanding -  developing English Research Frameworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-ARIADNE-JR.pptx&quot;&gt;ARIADNE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-BREXIT-Julian-Richards.pptx&quot;&gt;Brexit - Implications for the Historic Environment Information Resources&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HEIRNET-OASIS_HERALD-JR.pptx&quot;&gt;OASIS Herald Project - the proposed changes to OASIS and BIAB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/Scarf-FISH_291116.pptx&quot;&gt;ScARF: Scottish archaeology as a regional jigsaw – creating localised frameworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/SHED-FISH-talk-29Nov16-v1.ppt&quot;&gt;Implementing Scotland’s Historic Environment Data Strategy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/SUP_FISH_Nov_16.pptx&quot;&gt;Scotland&apos;s Urban Past&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Standards in community contributions, and the &lt;a href=&quot;/2015/08/Thesaurus-of-Cultural-Heritage-Phil-Carlisle.pptx&quot;&gt;Thesaurus of Cultural Heritage&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Spring Meeting - 8 June 2016 - Worcester&lt;/h3&gt;
-&lt;p&gt;Location:   The Hive, Sawmill Walk, The Butts, Worcester, WR1 3PD&lt;br&gt;
-&lt;a href=&quot;/2015/08/FISH-June-8th-meeting-2016-HIVE-draft-agenda.doc&quot;&gt;Worcester Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-minutes-HIVE-June-2016.pdf&quot;&gt;Worcester Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MIDAS Heritage, FISHTWG and the Thesaurus of Cultural Heritage,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/NRHE-to-HER_FISH.ppsx&quot;&gt;Presentation on Data Supply and Reconciliation Project (NRHE to HER)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HERALD-Update-07-06-2016-fish-meeting.pptx&quot;&gt;HERALD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2015/08/HIAS-FISH.pdf&quot;&gt;Heritage Information Access Strategy (HIAS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;FISH websites and Reports from Contributing Organisations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Autumn Meeting - 3 November 2015 - Cambridge&lt;/h3&gt;
-&lt;p&gt;Location:  English Heritage, Brooklands House, 24 Brooklands Avenue, Cambridge CB2 8BU&lt;br&gt;
-&lt;a href=&quot;/2015/08/fish_heirnet_Nov2015_cambridge_final_agenda.pdf&quot;&gt;Cambridge Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/fish-heirnet_nov_2015-cambridge_meeting_minutes_final2.pdf&quot;&gt;Cambridge Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Heritage2020 in England, National Historic Environment Information Strategies review (SHED, HIAS, Welsh Heritage Bill)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://oasis.ac.uk/pages/wiki/HERALD&quot;&gt;OASIS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://oasis.ac.uk/pages/wiki/HERALD&quot;&gt;(HERALD)&lt;/a&gt; development&lt;/li&gt;
-&lt;li&gt;BIAB&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/239&quot;&gt;INSPIRE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.researchspace.org/&quot;&gt;ResearchSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Spring Meeting - 8 June 2015 - London&lt;/h3&gt;
-&lt;p&gt;Location:  Historic England, 1 Waterhouse Square, 138-142 Holborn, London&lt;br&gt;
-London &lt;a href=&quot;/2015/08/FISH-spring-meeting-june-10th-2014-agenda.pdf&quot;&gt;Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-minutes-final-08-06-2015.v.2.pdf&quot;&gt;London Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;the future direction of MIDAS Heritage&lt;/li&gt;
-&lt;li&gt;Thesaurus of Cultural Heritage&lt;/li&gt;
-&lt;li&gt;FISH contributions to TACOs&lt;/li&gt;
-&lt;li&gt;The Data Supply and Reconciliation Project&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Autumn Meeting 18 November 2014 - Cardiff&lt;/h4&gt;
-&lt;p&gt;Location: National Museum Wales, Cathays Park, Cardiff CF10 3NP&lt;br&gt;
-&lt;a href=&quot;/2015/08/FISH-HEIRNET-Autumn-Cardiff-meeting-agenda-2014.pdf&quot;&gt;Cardiff Agenda&lt;/a&gt; and &lt;a href=&quot;/2015/08/FISH-HEIRNET-Nov-2014-Cardiff-meeting-minutes.pdf&quot;&gt;Cardiff Minutes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Topics &amp;#x26; updates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Data Standards Work in Wales / Heritage Bill, SHED, &lt;a href=&quot;https://historicengland.org.uk/research/support-and-collaboration/heritage-information-access-strategy/&quot;&gt;Heritage Information Access Strategy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;HIAS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/research/tools/vocabularies/itwg_getty_vocabularies_update.pdf&quot;&gt;Getty Vocabulary Program ITWG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.getty.edu/conservation/our_projects/field_projects/arches/&quot;&gt;Arches Project&lt;/a&gt; (Getty)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.ariadne-infrastructure.eu/&quot;&gt;ARIADNE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(Advanced Research Infrastructure for Archaeological Dataset Networking)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.locloud.eu/&quot;&gt;LoCloud&lt;/a&gt; (Local Content in a Europeana Cloud), NEARCH (New Scenarios for a Community-involved Archaeology)&lt;/li&gt;
-&lt;li&gt;TACOS discussion, Wales HER Software Suite&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.archwilio.org.uk/arch/&quot;&gt;Archwilio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.museumwales.ac.uk/partnerships/peoplescollection/&quot;&gt;People&apos;s Collection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://museum.wales/portable-antiquities-scheme-in-wales-role/&quot;&gt;PAS in Wales&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.academia.edu/9347715/Implementing_Linked_Data_within_the_Portable_Antiquities_Scheme&quot;&gt;Implementing Linked data within PAS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://archaeologydataservice.ac.uk/blog/2014/04/seneschal-vocabularies-implementation/&quot;&gt;Implementing SENESCHAL vocabularies at ADS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Download:&lt;/p&gt;
-&lt;h2&gt;Events&lt;/h2&gt;
-&lt;h3&gt;TACOS 2014&lt;/h3&gt;
-&lt;p&gt;Past events include the TACOS seminar held in May 2014. TACOS stands for &lt;em&gt;&lt;a href=&quot;http://www.archaeologists.net/groups/imsig/tacos&quot;&gt;Towards a Collaborative Strategy for sector information management&lt;/a&gt;&lt;/em&gt; and was set up to aid and promote a forward plan to develop a common research agenda and strategy for UK historic environment information management in the future.&lt;/p&gt;
-&lt;p&gt;Partnerships included FISH, the Historic Environment Information Resources Network (HEIRNET) and various heritage sector working groups such as the &lt;a href=&quot;http://www.archaeologists.net/groups/imsig&quot;&gt;Chartered Institute for Archaeologists Information Management Special Interest Group (IMSIG)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more information about the strategy, download the full &lt;a href=&quot;/2014/05/tacos_report_dec2014.pdf&quot;&gt;TACOS report here,&lt;/a&gt; produced by &lt;a href=&quot;http://new.archaeologyuk.org/&quot;&gt;Council for British Archaeology (CBA)&lt;/a&gt; in December 2014.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
-&lt;p&gt;We would like to know what future product developments you want us to focus on.&lt;/p&gt;
-&lt;p&gt;Do you need indexing  (e.g. a new controlled vocabulary) or recording advice in a particular subject area? Let us know.&lt;/p&gt;
-&lt;h2&gt;Pottery Ware and Fabric Type Series&lt;/h2&gt;
-&lt;p&gt;FISH is currently (2019) developing a MIDAS related pottery standard to help with the characterisation of pottery ware
-and fabric type series. It will be supported by a range of controlled vocabularies to facilitate consistent indexing.&lt;/p&gt;
-&lt;p&gt;Once reviewed by Worcestershire Historic Environment Record (part of Worcestershire Archive &amp;#x26; Archaeology Service, which
-produced the &lt;a href=&quot;https://www.worcestershireceramics.org/&quot;&gt;Worcestershire Ceramics&lt;/a&gt; website);
-the &lt;a href=&quot;https://www.prehistoricpottery.org/&quot;&gt;Prehistoric Ceramics Research Group&lt;/a&gt; (PCRG);
-the &lt;a href=&quot;https://romanpotterystudy.org.uk/&quot;&gt;Study Group for Roman Pottery&lt;/a&gt; (SGRP); and
-the &lt;a href=&quot;http://www.medievalpottery.org.uk/&quot;&gt;Medieval Pottery Research Group&lt;/a&gt; (MPRG), all products will be made available on
-the FISH website.&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 128.22085889570553%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEbVMg2YjgnNoWaj//EABwQAAICAgMAAAAAAAAAAAAAAAABAxECEBITIP/aAAgBAQABBQLVMTZeSdlTnGcXcvH/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPwHIj//EAB0QAAIBBAMAAAAAAAAAAAAAAAABMQIQIDIhQaH/2gAIAQEABj8CtDOUjok1ZFRp5h//xAAcEAEBAQEAAgMAAAAAAAAAAAABEQBRMXFB0fH/2gAIAQEAAT8hNF7vyMAEV8ZIqB0/MvrLfTqEWPWilZDmhzQ5v//aAAwDAQACAAMAAAAQTPqw/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxDKyj//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCqhD//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhkTFhcaHx/9oACAEBAAE/ELOT1DCB+LZ9TAJlgVV1zDREAauGcqmkyhYODijGlwbyMQVGlOpqdTU6mp//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/98307/F004_3a.webp 163w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/92d89/F004_3a.webp 325w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/8ea29/F004_3a.webp 650w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/55e68/F004_3a.webp 975w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/c36b9/F004_3a.webp 1181w&quot;
-              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/710e7/F004_3a.jpg 163w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/b9e16/F004_3a.jpg 325w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/ced87/F004_3a.jpg 650w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/1e5ea/F004_3a.jpg 975w,
-/static/3f8f04cda2176adb6f9c2bab8561971b/345c8/F004_3a.jpg 1181w&quot;
-            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/3f8f04cda2176adb6f9c2bab8561971b/ced87/F004_3a.jpg&quot;
-            alt=&quot;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;br&gt;
-&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 128.22085889570553%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABQQmrlAp7sKnIa4//xAAcEAABAwUAAAAAAAAAAAAAAAAAASEjEBEgIjH/2gAIAQEAAQUCWqq3RiQkvvh//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AciP/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAIgITMDEZH/2gAIAQEABj8CbOytRGNXCtTP/8QAHxAAAgEDBQEAAAAAAAAAAAAAAAERITFxIEFRYYGR/9oACAEBAAE/IZXiBdtGIOUW7SUUBQdPgNpJTIba7vNH/9oADAMBAAIAAwAAABBwzDD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCqqv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIiEP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQVEQYXH/2gAIAQEAAT8Qv3jWDEyvU2ModydXDFhXUospFpzx3AtQJxmO0jPKuvsMiPYsfFmqtcoleP/Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/98307/F004_3b.webp 163w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/92d89/F004_3b.webp 325w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/8ea29/F004_3b.webp 650w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/55e68/F004_3b.webp 975w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/c36b9/F004_3b.webp 1181w&quot;
-              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/710e7/F004_3b.jpg 163w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/b9e16/F004_3b.jpg 325w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/ced87/F004_3b.jpg 650w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/1e5ea/F004_3b.jpg 975w,
-/static/ee4866d63ea056b3a314db3e3346d9f2/345c8/F004_3b.jpg 1181w&quot;
-            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/ee4866d63ea056b3a314db3e3346d9f2/ced87/F004_3b.jpg&quot;
-            alt=&quot;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Fabric 4.3 - Fossil shell tempered ware. © Worcestershire County Council&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-&lt;h2&gt;Lithic artefacts&lt;/h2&gt;
-&lt;p&gt;FISH is also preparing (2019) a thesaurus of lithic artefact terms, largely based on the Norfolk Historic Environment
-Record’s (NHER) indexing guides for worked flint and stone (author Peter Watkins, 2015). This will  be reviewed by lithics
-specialists prior to publication on the FISH website.&lt;/p&gt;
-&lt;h2&gt;Thesaurus of Cultural Heritage&lt;/h2&gt;
-&lt;p&gt;FISH is currently preparing for the amalgamation of key FISH thesauri into one single thesaurus of tangible heritage.&lt;/p&gt;
-&lt;p&gt;It will be made available online via a new open source inventory and management system called &lt;a href=&quot;https://archesproject.org/&quot;&gt;ARCHES&lt;/a&gt;, produced by
-the &lt;a href=&quot;http://archesproject.org/what-is-arches/&quot;&gt;Getty Conservation Institute and World Monuments Fund&lt;/a&gt; on behalf of the international heritage sector.&lt;/p&gt;
-&lt;p&gt;We hope to illustrate the thesaurus as much as possible and we would be grateful for any help in this area once we are ready
-for that phase of the project.&lt;/p&gt;
-&lt;p&gt;More information about the &lt;em&gt;Thesaurus of Cultural Heritage&lt;/em&gt; may be found on the related &lt;a href=&quot;http://www.heritagedata.org/blog/uber-thesaurus/&quot;&gt;Heritage Data&lt;/a&gt; website.&lt;/p&gt;
-&lt;p&gt;Contact person is &lt;a href=&quot;mailto:philip.carlisle@HistoricEngland.org.uk&quot;&gt;Phil Carlisle&lt;/a&gt;, Historic England.&lt;/p&gt;
-&lt;h2&gt;Intangible Heritage&lt;/h2&gt;
-&lt;p&gt;UNESCO and UN promote the capture of social and cultural expressions, our &lt;a href=&quot;https://ich.unesco.org/en/lists&quot;&gt;intangible heritage&lt;/a&gt;. Continuing to link places
-and objects to people and events, but now adding the value and meaning people once gave or now give to them. Examples include
-recording local traditions, religious practice, links to slavery and disability, social taboos, forms of entertainment etc.&lt;/p&gt;
-&lt;p&gt;The Library of Congress has produced an &lt;a href=&quot;http://id.loc.gov/vocabulary/ethnographicTerms.html&quot;&gt;Ethnographic Thesaurus&lt;/a&gt;, covering
-American folklore, but there does not seem to be a UK equivalent. If there is a demand for this, is this something FISH
-can help with?&lt;/p&gt;
-&lt;p&gt;A thesaurus for intangible heritage may&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;include &lt;strong&gt;cultural expressions&lt;/strong&gt; (e.g. dance, social media, traditional crafts, language, hobbies, traditions, festivals),&lt;/li&gt;
-&lt;li&gt;capture the cultural influences of our &lt;strong&gt;ethnic communities&lt;/strong&gt; and related issues (e.g. homesickness, interracial marriage, identity and multiculturalism_),&lt;/li&gt;
-&lt;li&gt;identify past and present peoples &lt;strong&gt;faith and beliefs&lt;/strong&gt; (folklore, witchcraft, superstition, mythology and interfaith cooperation_),&lt;/li&gt;
-&lt;li&gt;cover &lt;strong&gt;social attitudes&lt;/strong&gt; on issues such as slavery, racism,_ views on &lt;em&gt;marriage, disability, LGBTQ, social stigma, political activism and charitable giving&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Inclusive Heritage&lt;/h3&gt;
-&lt;p&gt;Several cultural heritage institutions are working on developing access to more inclusive heritage (e.g. The National Archives,
-The British Museum, &lt;a href=&quot;https://historicengland.org.uk/research/inclusive-heritage/&quot;&gt;Historic England&lt;/a&gt;). The aim is to make it easier for people to find cultural information relating
-to different community groups such as people with disabilities, different ethnic background etc.&lt;/p&gt;
-&lt;h3&gt;Linking &apos;Disability&apos;&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 90.18404907975462%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABwy2RC4usjlJXGH//xAAbEAADAAIDAAAAAAAAAAAAAAABAgMSMgAhQv/aAAgBAQABBQL2+wXJUYCtK9y05beZOH//xAAWEQEBAQAAAAAAAAAAAAAAAAABABD/2gAIAQMBAT8BWd//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPwEp/8QAHxAAAgIBBAMAAAAAAAAAAAAAAAECETESIUFRcYGR/9oACAEBAAY/AqrC6JaVt4FaXwlfNIlFVRgl6GZP/8QAHhAAAwABBAMAAAAAAAAAAAAAAAERMSFBUYFhcbH/2gAIAQEAAT8hST0zWz4GFmy7BDNMmCLIXwwdGRn0PfYW09WGt+RdIy7P/9oADAMBAAIAAwAAABC0B0L/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARIVFx/9oACAEDAQE/EFUYM3xR/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExEP/aAAgBAgEBPxBXEHT/xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMUGBUWFx/9oACAEBAAE/EJ+UUAmirrfcFYhijF7NOnJQWiUbe/eeHRDkQrf0D3kCBknhOHzTuT0vbBNLTZ28MRCVdq4LnV0I85//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/98307/william-heals-a-blind-woman-Historic-England.webp 163w,
-/static/7d322df2dc4b04047d3fcc3219e7862b/92d89/william-heals-a-blind-woman-Historic-England.webp 325w,
-/static/7d322df2dc4b04047d3fcc3219e7862b/59c12/william-heals-a-blind-woman-Historic-England.webp 355w&quot;
-              sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/710e7/william-heals-a-blind-woman-Historic-England.jpg 163w,
-/static/7d322df2dc4b04047d3fcc3219e7862b/b9e16/william-heals-a-blind-woman-Historic-England.jpg 325w,
-/static/7d322df2dc4b04047d3fcc3219e7862b/72f7f/william-heals-a-blind-woman-Historic-England.jpg 355w&quot;
-            sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/7d322df2dc4b04047d3fcc3219e7862b/72f7f/william-heals-a-blind-woman-Historic-England.jpg&quot;
-            alt=&quot;Detail of a medieval glass-stained window of a clergyman healing a blind woman by putting his hand over her eyes. Photo copyright: Historic England&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Detail of a medieval glass-stained window of a clergyman healing a blind woman by putting his hand over her eyes. Photo copyright: Historic England&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 450px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 133.12883435582822%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEBQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/2gAMAwEAAhADEAAAAbVl40OqSkWs+kLIMTX/xAAbEAEBAAIDAQAAAAAAAAAAAAACAQADEBITIv/aAAgBAQABBQKqHPQ8V/aWaFaNuntfB3AYTz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABIQ/9oACAEDAQE/AdsNk5//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDERD/2gAIAQIBAT8BVSHHHgrJLn//xAAcEAABBAMBAAAAAAAAAAAAAAARAAEQIQISIDH/2gAIAQEABj8Ct5cxa2x9VgINx//EABwQAAICAwEBAAAAAAAAAAAAAAERADEhQXEQIP/aAAgBAQABPyHUEBCmu+C6txNJzAeQVMmAbujKJBtAKofH/9oADAMBAAIAAwAAABCw0D7/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EHTkKbLOwZf/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxDB32ZIJkqut//EAB4QAQACAwACAwAAAAAAAAAAAAEAESExQVFhkbHw/9oACAEBAAE/EArK2jrLib9amJnMEYHFOPqcxrAX+8Tq4ivE1ueAheHrYLfdQX6D5nahuK3P/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/98307/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 163w,
-/static/cd193047dd1629489fb08b7edeb6ebfc/92d89/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 325w,
-/static/cd193047dd1629489fb08b7edeb6ebfc/b5115/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.webp 450w&quot;
-              sizes=&quot;(max-width: 450px) 100vw, 450px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/710e7/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 163w,
-/static/cd193047dd1629489fb08b7edeb6ebfc/b9e16/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 325w,
-/static/cd193047dd1629489fb08b7edeb6ebfc/12ba2/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg 450w&quot;
-            sizes=&quot;(max-width: 450px) 100vw, 450px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/cd193047dd1629489fb08b7edeb6ebfc/12ba2/Sir_DOUGLAS_BADER_1910-1982_RAF_Fighter_Pilot_lived_here_1955-1982.jpg&quot;
-            alt=&quot;Image of blue plaque with the text Sir Douglas Bader 1910-1982 RAF Fighter Pilot lived here 1955-1982. Copyright Wikipedia Commons&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Image of blue plaque with the text Sir Douglas Bader 1910-1982 RAF Fighter Pilot lived here 1955-1982. Copyright Wikipedia Commons&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 400px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 79.75460122699387%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABhe10eablB//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMSERMh/9oACAEBAAEFAtODTzrMcNFyx1Un/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIB/9oACAEDAQE/AYTr/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAETEf/aAAgBAgEBPwGj0oj/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIREBIh/9oACAEBAAY/AjuLY9SnE//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8hUlRPkkHloeUtdHqbfBtFfUf/2gAMAwEAAgADAAAAEJvP/8QAFxEBAQEBAAAAAAAAAAAAAAAAASEQEf/aAAgBAwEBPxAPK3P/xAAYEQACAwAAAAAAAAAAAAAAAAAAASExYf/aAAgBAgEBPxB1FBif/8QAHxABAAIBAwUAAAAAAAAAAAAAAQARITFBUWGBkcHx/9oACAEBAAE/ECpG3QDLCEQdxx34nWIZcLA1g4JacoAx+Z9QNRDG8eZ//9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/98307/liverpool-workshop-for-the-blind-2-Historic-England.webp 163w,
-/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/92d89/liverpool-workshop-for-the-blind-2-Historic-England.webp 325w,
-/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/f59aa/liverpool-workshop-for-the-blind-2-Historic-England.webp 400w&quot;
-              sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/710e7/liverpool-workshop-for-the-blind-2-Historic-England.jpg 163w,
-/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/b9e16/liverpool-workshop-for-the-blind-2-Historic-England.jpg 325w,
-/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/27ec1/liverpool-workshop-for-the-blind-2-Historic-England.jpg 400w&quot;
-            sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/4e0dd075cf1aeef68fd8fc3de5bfd9b4/27ec1/liverpool-workshop-for-the-blind-2-Historic-England.jpg&quot;
-            alt=&quot;Image of the Liverpool Workshop for the Blind. Copyright Historic England&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Image of the Liverpool Workshop for the Blind. Copyright Historic England&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;If you are interested in recording intangible and inclusive heritage, then have a look at the FISH Terminology page where some vocabularies are listed in the &lt;a href=&quot;/other-terminology-resources/&quot;&gt;&lt;em&gt;Other Terminology Resources&lt;/em&gt;&lt;/a&gt; section.&lt;/p&gt;
-&lt;h3&gt;Further Reading&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://d-nb.info/1000727173/34&quot;&gt;‘Intangible’ and ‘tangible’ heritage - A topology of culture in contexts of faith&lt;/a&gt;. Britta Rudolff, Johannes Gutenberg-University of Mainz, Germany, 2006.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/1461444812469598&quot;&gt;YouTube and the social archiving of intangible heritage&lt;/a&gt;&lt;a href=&quot;http://nms.sagepub.com/content/early/2013/01/08/1461444812469598.abstract&quot;&gt;.&lt;/a&gt; Sheenagh Pietrobruno, McGill University, Canada &amp;#x26; Fatih University, Istanbul, Turkey, 2013.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415529952/&quot;&gt;Children, Childhood and Cultural Heritage&lt;/a&gt;. Editors Kate Darian-Smith, Carla Pascoe (Explores how the everyday experiences of children, and their imaginative and creative worlds, are collected, interpreted and displayed in museums and on monuments, and represented through objects and cultural lore), 2012.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415672252/&quot;&gt;Managing Cultural Landscapes&lt;/a&gt;. Editors Ken Taylor, Jane Lennon. (Human attachment to landscape and how we find identity in landscape and place), 2012.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415618113/&quot;&gt;Heritage, Labour and the Working Classes&lt;/a&gt;. Editors Laurajane Smith, Paul Shackel, Gary Campbell. (Working class culture), 2011.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415454506/&quot;&gt;Places of Pain and Shame&lt;/a&gt; - Dealing with ‘Difficult Heritage’. Editors William Logan, Keir Reeves. (A cross-cultural study of sites that represent painful and/or shameful episodes in a national or local community’s history, and the ways that government agencies, heritage professionals and the communities themselves seek to remember, commemorate and conserve these cases), 2008.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.routledge.com/books/details/9780415473965/&quot;&gt;Intangible Heritage&lt;/a&gt;. Editors Laurajane Smith, Natsuko Akagawa. (Examines the implications and consequences of the idea of ‘intangible heritage’ to current international academic and policy debates about the meaning and nature of cultural heritage and the management processes developed to protect it), 2008.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Archaeology in Context&lt;/h3&gt;
-&lt;p&gt;Moving on from building a foundation of minimum information, digital access and interoperability, key developments in digital
-technology and publishing (such as &lt;a href=&quot;https://www.w3.org/standards/semanticweb/data&quot;&gt;Linked Open Data&lt;/a&gt; and &lt;a href=&quot;http://opencontext.org/&quot;&gt;Open Context&lt;/a&gt;)
-are now opening up the possibilities of recording the &lt;em&gt;context&lt;/em&gt; the data was compiled in for future reuse.&lt;/p&gt;
-&lt;p&gt;The interpretation and analysis, the wording used, and the scholarly background and reputation of the archaeologists who
-conducted the excavations and field studies, are of historical interest and value when assessing the quality and reliability
-of the compiled data.&lt;/p&gt;
-&lt;p&gt;Digital access to full reports with scanned images, measurements and diagrams, rather than the basic metadata and summary
-description, is becoming increasingly realistic.&lt;/p&gt;
-&lt;p&gt;Is this something you or your organization already, or would like to, record? Is this an area for FISH to explore?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FISH Thesauri Version 26 Released]]></title><description><![CDATA[Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[FISH Thesauri Version 26 Released]]></title><description><![CDATA[Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
 the FISH thesauri…]]></description><link>https://heritage-standards.museologi.st/news/fish-thesauri-26/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/news/fish-thesauri-26/</guid><pubDate>Sun, 23 Apr 2023 17:29:14 GMT</pubDate><content:encoded>&lt;p&gt;Candidate terms (terminology suggestions) are submitted to FISH all year round. Terms are processed and usually added to
 the FISH thesauri and authority files as and when they come in. Every year the thesauri are updated and uploaded to this
 website, here you can download the thesauri in &lt;a href=&quot;https://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;CSV&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Portable_Document_Format&quot;&gt;PDF&lt;/a&gt; formats and at &lt;a href=&quot;http://www.heritagedata.org/blog/vocabularies-provided/&quot;&gt;Heritage Data&lt;/a&gt;, a related
@@ -3496,7 +3497,272 @@ through cross-sector collaboration through three overarching themes:&lt;/p&gt;
 &lt;p&gt;Membership is free. Join by subscribing to the &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH&quot;&gt;FISH Mailing List&lt;/a&gt; and participate in our forum discussions where all meeting papers and presentations are also made available.&lt;/p&gt;
 &lt;p&gt;Forum meetings are held twice a year, to discuss strategic and technical issues and developments. The meetings combine the efforts of both &lt;a href=&quot;/fish-heirnet&quot;&gt;FISH and HEIRNET&lt;/a&gt; (Historic Environment Information Resources Network), two organisations with similar interests and aims.&lt;/p&gt;
 &lt;p&gt;A smaller Terminology Working Group also meets regularly, to discuss vocabulary issues and candidate terms for the collection of thesauri and authority files produced by or on behalf of FISH.&lt;/p&gt;
-&lt;p&gt;FISH was established in 1998 as a non for profit organisation. We are a formally convened group with &lt;a href=&quot;/terms-of-reference/&quot;&gt;terms of reference&lt;/a&gt; and a national profile. FISH is not a legal entity and we have no employed staff, income or budget. There are currently over 400 members.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Midas Heritage]]></title><description><![CDATA[Introduction, history, best practice, structure & dictionary In 1998, not long after ICOM produced an international data standard for…]]></description><link>https://heritage-standards.museologi.st/midas-heritage/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/midas-heritage/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction, history, best practice, structure &amp;#x26; dictionary&lt;/h2&gt;
+&lt;p&gt;FISH was established in 1998 as a non for profit organisation. We are a formally convened group with &lt;a href=&quot;/terms-of-reference/&quot;&gt;terms of reference&lt;/a&gt; and a national profile. FISH is not a legal entity and we have no employed staff, income or budget. There are currently over 400 members.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Chronology]]></title><description><![CDATA[FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods.
+Time…]]></description><link>https://heritage-standards.museologi.st/chronology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/chronology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods.
+Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or
+absolute and are very much open to debate.&lt;/p&gt;
+&lt;p&gt;A key guide for dating Britain&apos;s historic sites and monuments is Historic England&apos;s Archaeological and Cultural Periods List (see below). Other resources
+include the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW).&lt;/p&gt;
+&lt;p&gt;The full Historic England chronological guide for recording sites and monuments can be downloaded &lt;a href=&quot;/2023/04/NewHE_Periods3.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Archaeological Periods&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Palaeolithic -1,000 000 to -10,000 (BCE)
+&lt;ul&gt;
+&lt;li&gt;Lower Palaeolithic -1,000 000 to -150,000&lt;/li&gt;
+&lt;li&gt;Middle Palaeolithic -150,000 to -40,000&lt;/li&gt;
+&lt;li&gt;Upper Palaeolithic -40,000 to -10,000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mesolithic -10,000 to -4,000 (BCE)
+&lt;ul&gt;
+&lt;li&gt;Early Mesolithic -10,000 to -7,000&lt;/li&gt;
+&lt;li&gt;Late Mesolithic -7,000 to -4,000&lt;/li&gt;
+&lt;li&gt;Early Prehistoric -1,000 000 to -4,000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Neolithic -4,000 to -2,200 (BCE)
+&lt;ul&gt;
+&lt;li&gt;Early Neolithic -4,000 to -3,300&lt;/li&gt;
+&lt;li&gt;Middle Neolithic -3,300 to -2,900&lt;/li&gt;
+&lt;li&gt;Late Neolithic -2,900 to -2,200&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bronze Age -2,600 to -700 (BCE)
+&lt;ul&gt;
+&lt;li&gt;Early Bronze Age -2,600 to -1,600
+&lt;ul&gt;
+&lt;li&gt;Chalcolithic -2,500 to -2,200&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Middle Bronze Age -1,600 to -1,200&lt;/li&gt;
+&lt;li&gt;Late Bronze Age -1,200 to -700&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Iron Age -800 (BCE) to 43 (CE)
+&lt;ul&gt;
+&lt;li&gt;Early Iron Age-800 to -300&lt;/li&gt;
+&lt;li&gt;Middle Iron Age -300 to -100&lt;/li&gt;
+&lt;li&gt;Late Iron Age -100 (BCE) to 43 (CE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Later Prehistoric -4,000 (BCE) to 43 (CE)
+&lt;ul&gt;
+&lt;li&gt;Prehistoric -1,000 000 (BCE) to 43 (CE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Cultural Periods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roman 43 (BCE) to 410 (CE)
+&lt;ul&gt;
+&lt;li&gt;Flavian 69 to 96&lt;/li&gt;
+&lt;li&gt;Hadrianic 117 to 138&lt;/li&gt;
+&lt;li&gt;Antonine 138 to 192&lt;/li&gt;
+&lt;li&gt;Severan 193 to 235&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Early Medieval 410 to 1066
+&lt;ul&gt;
+&lt;li&gt;Anglo-Saxon 410 to 1066
+&lt;ul&gt;
+&lt;li&gt;Early Anglo-Saxon 410 to 660&lt;/li&gt;
+&lt;li&gt;Mid Anglo-Saxon 660 to 899&lt;/li&gt;
+&lt;li&gt;Late Anglo-Saxon 899 to 1066&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Medieval 1066 to 1540&lt;/li&gt;
+&lt;li&gt;Post Medieval 1540 to 1901
+&lt;ul&gt;
+&lt;li&gt;Tudor 1485 to 1603
+&lt;ul&gt;
+&lt;li&gt;Elizabethan 1558 to 1603&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stuart 1603 to 1714
+&lt;ul&gt;
+&lt;li&gt;Jacobean 1603 to 1625&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hanoverian 1714 to 1837
+&lt;ul&gt;
+&lt;li&gt;Georgian 1714 to 1830&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Victorian 1837 to 1901&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Centuries&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1st Century	1	to 100
+&lt;ul&gt;
+&lt;li&gt;Early 1st Century	1	to 32&lt;/li&gt;
+&lt;li&gt;Mid 1st Century	33 to 66&lt;/li&gt;
+&lt;li&gt;Late 1st Century 67	to 100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2nd Century	101	to 200
+&lt;ul&gt;
+&lt;li&gt;Early 2nd Century	101	to 132&lt;/li&gt;
+&lt;li&gt;Mid 2nd Century	133	to 166&lt;/li&gt;
+&lt;li&gt;Late 2nd Century 167 to 200&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3rd Century	201	to 300
+&lt;ul&gt;
+&lt;li&gt;Early 3rd Century	201	to 232&lt;/li&gt;
+&lt;li&gt;Mid 3rd Century	233	to 266&lt;/li&gt;
+&lt;li&gt;Late 3rd Century 267 to 300&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;4th Century	301	to 400
+&lt;ul&gt;
+&lt;li&gt;Early 4th Century	301	to 332&lt;/li&gt;
+&lt;li&gt;Mid 4th Century	333	to 366&lt;/li&gt;
+&lt;li&gt;Late 4th Century 367 to 400&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;5th Century	401	to 500
+&lt;ul&gt;
+&lt;li&gt;Early 5th Century	401	to 432&lt;/li&gt;
+&lt;li&gt;Mid 5th Century	433	to 466&lt;/li&gt;
+&lt;li&gt;Late 5th Century 467	to 500&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;6th Century	501	to 600
+&lt;ul&gt;
+&lt;li&gt;Early 6th Century	501	to 532&lt;/li&gt;
+&lt;li&gt;Mid 6th Century	533	to 566&lt;/li&gt;
+&lt;li&gt;Late 6th Century 567 to 600&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;7th Century	601	to 700
+&lt;ul&gt;
+&lt;li&gt;Early 7th Century	601	to 632&lt;/li&gt;
+&lt;li&gt;Mid 7th Century	633	to 666&lt;/li&gt;
+&lt;li&gt;Late 7th Century 667 to 700&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;8th Century	701	to 800
+&lt;ul&gt;
+&lt;li&gt;Early 8th Century	701	to 732&lt;/li&gt;
+&lt;li&gt;Mid 8th Century	733	to 766&lt;/li&gt;
+&lt;li&gt;Late 8th Century 767 to 800&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;9th Century	801	to 900
+&lt;ul&gt;
+&lt;li&gt;Early 9th Century	801	to 832&lt;/li&gt;
+&lt;li&gt;Mid 9th Century	833 to 866&lt;/li&gt;
+&lt;li&gt;Late 9th Century 867 to 900&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;10th Century 901 to 1000
+&lt;ul&gt;
+&lt;li&gt;Early 10th Century 901	to 932&lt;/li&gt;
+&lt;li&gt;Mid 10th Century 933 to 966&lt;/li&gt;
+&lt;li&gt;Late 10th Century	967	to 1000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;11th Century 1001	to 1100
+&lt;ul&gt;
+&lt;li&gt;Early 11th Century 1001	to 1032&lt;/li&gt;
+&lt;li&gt;Mid 11th Century 1033	to 1066&lt;/li&gt;
+&lt;li&gt;Late 11th Century	1067 to 1100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;12th Century 1101	to 1200
+&lt;ul&gt;
+&lt;li&gt;Early 12th Century 1101	to 1132&lt;/li&gt;
+&lt;li&gt;Mid 12th Century 1133	to 1166&lt;/li&gt;
+&lt;li&gt;Late 12th Century 1167 to 1200&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;13th Century 1201 to 1300
+&lt;ul&gt;
+&lt;li&gt;Early 13th Century 1201	to 1232&lt;/li&gt;
+&lt;li&gt;Mid 13th Century 1233 to 1266&lt;/li&gt;
+&lt;li&gt;Late 13th Century	1267 to 1300&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;14th Century 1301 to 1400
+&lt;ul&gt;
+&lt;li&gt;Early 14th Century 1301	to 1332&lt;/li&gt;
+&lt;li&gt;Mid 14th Century 1333 to 1366&lt;/li&gt;
+&lt;li&gt;Late 14th Century	1367 to 1400&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;15th Century 1401	to 1500
+&lt;ul&gt;
+&lt;li&gt;Early 15th Century 1401	to 1432&lt;/li&gt;
+&lt;li&gt;Mid 15th Century 1433 to 1466&lt;/li&gt;
+&lt;li&gt;Late 15th Century 1467 to 1500&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;16th Century 1501	to 1600
+&lt;ul&gt;
+&lt;li&gt;Early 16th Century 1501	to 1532&lt;/li&gt;
+&lt;li&gt;Mid 16th Century 1533	to 1566&lt;/li&gt;
+&lt;li&gt;Late 16th Century	1567	to 1600&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;17th Century 1601	to 1700
+&lt;ul&gt;
+&lt;li&gt;Early 17th Century 1601	to 1632&lt;/li&gt;
+&lt;li&gt;Mid 17th Century 1633	to 1666&lt;/li&gt;
+&lt;li&gt;Late 17th Century	1667	to 1700&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;18th Century 1701 to 1800
+&lt;ul&gt;
+&lt;li&gt;Early 18th Century 1701	to 1732&lt;/li&gt;
+&lt;li&gt;Mid 18th Century 1733	to 1766&lt;/li&gt;
+&lt;li&gt;Late 18th Century	1767	to 1800&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;19th Century 1801 to 1900
+&lt;ul&gt;
+&lt;li&gt;Early 19th Century 1801	to 1832&lt;/li&gt;
+&lt;li&gt;Mid 19th Century 1833	to 1866&lt;/li&gt;
+&lt;li&gt;Late 19th Century	1867	to 1900&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;20th Century 1901 to 2000
+&lt;ul&gt;
+&lt;li&gt;Early 20th Century 1901 to 1932
+&lt;ul&gt;
+&lt;li&gt;Edwardian 1902 to 1910&lt;/li&gt;
+&lt;li&gt;First World War 1914 to 1918&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mid 20th Century 1933 to 1966
+&lt;ul&gt;
+&lt;li&gt;Second World War 1939 to 1945&lt;/li&gt;
+&lt;li&gt;Cold War 1946 to 1991&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Late 20th Century 1967 to 2000
+&lt;ul&gt;
+&lt;li&gt;Cold War 1946 to 1991&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;21st Century 2001 to 2100
+&lt;ul&gt;
+&lt;li&gt;Early 21st Century 2001 to 2032&lt;/li&gt;
+&lt;li&gt;Mid 21st Century 2033 to 2066
+&lt;ul&gt;
+&lt;li&gt;Solar Federation 2062 to 2112&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Late 21st Century 2067 to 2100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Uncertain&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Midas Heritage]]></title><description><![CDATA[Introduction, history, best practice, structure & dictionary In 1998, not long after ICOM produced an international data standard for…]]></description><link>https://heritage-standards.museologi.st/midas-heritage/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/midas-heritage/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction, history, best practice, structure &amp;#x26; dictionary&lt;/h2&gt;
 &lt;p&gt;In 1998, not long after ICOM produced an international data standard for archaeological sites and monument recording (1995), FISH produced a UK version called &lt;em&gt;MIDAS&lt;/em&gt;. In 2007 it was expanded to include related information such as GIS (spatial data) and maritime components.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://historicengland.org.uk/images-books/publications/midas-heritage/&quot;&gt;MIDAS Heritage&lt;/a&gt; is a British cultural heritage standard for recording information on buildings, monuments, archaeological sites, shipwrecks and submerged landscapes, parks and gardens, battlefields, artefacts and ecofacts.&lt;/p&gt;
 &lt;p&gt;The data standard suggests the minimum level of information needed for recording heritage assets and covers the procedures involved in understanding, protecting and managing these assets. It is used by national government organizations, local authorities, heritage sector organizations, amenity groups and societies, the research community and professional contractors.&lt;/p&gt;
@@ -3777,272 +4043,7 @@ example of usage and references. Contact &lt;a href=&quot;mailto:terminologies@H
 &lt;p&gt;In addition to the general terminology meetings, members also meet to discuss amendments to specific subject areas, such as terminology for landforms, sediments and lithics. This will involve revision of the FISH Monument Type Thesaurus, where for example a new class will be developed called &apos;natural features&apos;, and the FISH Archaeological Objects Thesaurus. This may be followed by a review of the &lt;em&gt;FISH&lt;/em&gt; Evidence Thesaurus with regard to recording palaeoenvironmental evidence.&lt;/p&gt;
 &lt;h3&gt;FISH members – please participate!&lt;/h3&gt;
 &lt;p&gt;The FISH discussion list is available on &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH&quot;&gt;FISH JISCmail&lt;/a&gt;. This is free but you need to sign up to JISCmail to be able to participate. Click &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?SHOWTPL=HELP-SUBEDIT&amp;#x26;L=FISH&quot;&gt;here&lt;/a&gt; to find out how to subscribe.&lt;/p&gt;
-&lt;p&gt;Please &lt;a href=&quot;mailto:terminologies@HistoricEngland.org.uk&quot;&gt;get in touch&lt;/a&gt; if you are interested in contributing to nany of the existing working groups. We also welcome suggestions for any other related topics you would like to see discussed, developed or promoted by the FISH community.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Chronology]]></title><description><![CDATA[FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods.
-Time…]]></description><link>https://heritage-standards.museologi.st/chronology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/chronology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods.
-Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or
-absolute and are very much open to debate.&lt;/p&gt;
-&lt;p&gt;A key guide for dating Britain&apos;s historic sites and monuments is Historic England&apos;s Archaeological and Cultural Periods List (see below). Other resources
-include the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW).&lt;/p&gt;
-&lt;p&gt;The full Historic England chronological guide for recording sites and monuments can be downloaded &lt;a href=&quot;/2023/04/NewHE_Periods3.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Archaeological Periods&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Palaeolithic -1,000 000 to -10,000 (BCE)
-&lt;ul&gt;
-&lt;li&gt;Lower Palaeolithic -1,000 000 to -150,000&lt;/li&gt;
-&lt;li&gt;Middle Palaeolithic -150,000 to -40,000&lt;/li&gt;
-&lt;li&gt;Upper Palaeolithic -40,000 to -10,000&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Mesolithic -10,000 to -4,000 (BCE)
-&lt;ul&gt;
-&lt;li&gt;Early Mesolithic -10,000 to -7,000&lt;/li&gt;
-&lt;li&gt;Late Mesolithic -7,000 to -4,000&lt;/li&gt;
-&lt;li&gt;Early Prehistoric -1,000 000 to -4,000&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Neolithic -4,000 to -2,200 (BCE)
-&lt;ul&gt;
-&lt;li&gt;Early Neolithic -4,000 to -3,300&lt;/li&gt;
-&lt;li&gt;Middle Neolithic -3,300 to -2,900&lt;/li&gt;
-&lt;li&gt;Late Neolithic -2,900 to -2,200&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Bronze Age -2,600 to -700 (BCE)
-&lt;ul&gt;
-&lt;li&gt;Early Bronze Age -2,600 to -1,600
-&lt;ul&gt;
-&lt;li&gt;Chalcolithic -2,500 to -2,200&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Middle Bronze Age -1,600 to -1,200&lt;/li&gt;
-&lt;li&gt;Late Bronze Age -1,200 to -700&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Iron Age -800 (BCE) to 43 (CE)
-&lt;ul&gt;
-&lt;li&gt;Early Iron Age-800 to -300&lt;/li&gt;
-&lt;li&gt;Middle Iron Age -300 to -100&lt;/li&gt;
-&lt;li&gt;Late Iron Age -100 (BCE) to 43 (CE)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Later Prehistoric -4,000 (BCE) to 43 (CE)
-&lt;ul&gt;
-&lt;li&gt;Prehistoric -1,000 000 (BCE) to 43 (CE)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cultural Periods&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Roman 43 (BCE) to 410 (CE)
-&lt;ul&gt;
-&lt;li&gt;Flavian 69 to 96&lt;/li&gt;
-&lt;li&gt;Hadrianic 117 to 138&lt;/li&gt;
-&lt;li&gt;Antonine 138 to 192&lt;/li&gt;
-&lt;li&gt;Severan 193 to 235&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Early Medieval 410 to 1066
-&lt;ul&gt;
-&lt;li&gt;Anglo-Saxon 410 to 1066
-&lt;ul&gt;
-&lt;li&gt;Early Anglo-Saxon 410 to 660&lt;/li&gt;
-&lt;li&gt;Mid Anglo-Saxon 660 to 899&lt;/li&gt;
-&lt;li&gt;Late Anglo-Saxon 899 to 1066&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Medieval 1066 to 1540&lt;/li&gt;
-&lt;li&gt;Post Medieval 1540 to 1901
-&lt;ul&gt;
-&lt;li&gt;Tudor 1485 to 1603
-&lt;ul&gt;
-&lt;li&gt;Elizabethan 1558 to 1603&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Stuart 1603 to 1714
-&lt;ul&gt;
-&lt;li&gt;Jacobean 1603 to 1625&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Hanoverian 1714 to 1837
-&lt;ul&gt;
-&lt;li&gt;Georgian 1714 to 1830&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Victorian 1837 to 1901&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Centuries&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;1st Century	1	to 100
-&lt;ul&gt;
-&lt;li&gt;Early 1st Century	1	to 32&lt;/li&gt;
-&lt;li&gt;Mid 1st Century	33 to 66&lt;/li&gt;
-&lt;li&gt;Late 1st Century 67	to 100&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;2nd Century	101	to 200
-&lt;ul&gt;
-&lt;li&gt;Early 2nd Century	101	to 132&lt;/li&gt;
-&lt;li&gt;Mid 2nd Century	133	to 166&lt;/li&gt;
-&lt;li&gt;Late 2nd Century 167 to 200&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;3rd Century	201	to 300
-&lt;ul&gt;
-&lt;li&gt;Early 3rd Century	201	to 232&lt;/li&gt;
-&lt;li&gt;Mid 3rd Century	233	to 266&lt;/li&gt;
-&lt;li&gt;Late 3rd Century 267 to 300&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;4th Century	301	to 400
-&lt;ul&gt;
-&lt;li&gt;Early 4th Century	301	to 332&lt;/li&gt;
-&lt;li&gt;Mid 4th Century	333	to 366&lt;/li&gt;
-&lt;li&gt;Late 4th Century 367 to 400&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;5th Century	401	to 500
-&lt;ul&gt;
-&lt;li&gt;Early 5th Century	401	to 432&lt;/li&gt;
-&lt;li&gt;Mid 5th Century	433	to 466&lt;/li&gt;
-&lt;li&gt;Late 5th Century 467	to 500&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;6th Century	501	to 600
-&lt;ul&gt;
-&lt;li&gt;Early 6th Century	501	to 532&lt;/li&gt;
-&lt;li&gt;Mid 6th Century	533	to 566&lt;/li&gt;
-&lt;li&gt;Late 6th Century 567 to 600&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;7th Century	601	to 700
-&lt;ul&gt;
-&lt;li&gt;Early 7th Century	601	to 632&lt;/li&gt;
-&lt;li&gt;Mid 7th Century	633	to 666&lt;/li&gt;
-&lt;li&gt;Late 7th Century 667 to 700&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;8th Century	701	to 800
-&lt;ul&gt;
-&lt;li&gt;Early 8th Century	701	to 732&lt;/li&gt;
-&lt;li&gt;Mid 8th Century	733	to 766&lt;/li&gt;
-&lt;li&gt;Late 8th Century 767 to 800&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;9th Century	801	to 900
-&lt;ul&gt;
-&lt;li&gt;Early 9th Century	801	to 832&lt;/li&gt;
-&lt;li&gt;Mid 9th Century	833 to 866&lt;/li&gt;
-&lt;li&gt;Late 9th Century 867 to 900&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;10th Century 901 to 1000
-&lt;ul&gt;
-&lt;li&gt;Early 10th Century 901	to 932&lt;/li&gt;
-&lt;li&gt;Mid 10th Century 933 to 966&lt;/li&gt;
-&lt;li&gt;Late 10th Century	967	to 1000&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;11th Century 1001	to 1100
-&lt;ul&gt;
-&lt;li&gt;Early 11th Century 1001	to 1032&lt;/li&gt;
-&lt;li&gt;Mid 11th Century 1033	to 1066&lt;/li&gt;
-&lt;li&gt;Late 11th Century	1067 to 1100&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;12th Century 1101	to 1200
-&lt;ul&gt;
-&lt;li&gt;Early 12th Century 1101	to 1132&lt;/li&gt;
-&lt;li&gt;Mid 12th Century 1133	to 1166&lt;/li&gt;
-&lt;li&gt;Late 12th Century 1167 to 1200&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;13th Century 1201 to 1300
-&lt;ul&gt;
-&lt;li&gt;Early 13th Century 1201	to 1232&lt;/li&gt;
-&lt;li&gt;Mid 13th Century 1233 to 1266&lt;/li&gt;
-&lt;li&gt;Late 13th Century	1267 to 1300&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;14th Century 1301 to 1400
-&lt;ul&gt;
-&lt;li&gt;Early 14th Century 1301	to 1332&lt;/li&gt;
-&lt;li&gt;Mid 14th Century 1333 to 1366&lt;/li&gt;
-&lt;li&gt;Late 14th Century	1367 to 1400&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;15th Century 1401	to 1500
-&lt;ul&gt;
-&lt;li&gt;Early 15th Century 1401	to 1432&lt;/li&gt;
-&lt;li&gt;Mid 15th Century 1433 to 1466&lt;/li&gt;
-&lt;li&gt;Late 15th Century 1467 to 1500&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;16th Century 1501	to 1600
-&lt;ul&gt;
-&lt;li&gt;Early 16th Century 1501	to 1532&lt;/li&gt;
-&lt;li&gt;Mid 16th Century 1533	to 1566&lt;/li&gt;
-&lt;li&gt;Late 16th Century	1567	to 1600&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;17th Century 1601	to 1700
-&lt;ul&gt;
-&lt;li&gt;Early 17th Century 1601	to 1632&lt;/li&gt;
-&lt;li&gt;Mid 17th Century 1633	to 1666&lt;/li&gt;
-&lt;li&gt;Late 17th Century	1667	to 1700&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;18th Century 1701 to 1800
-&lt;ul&gt;
-&lt;li&gt;Early 18th Century 1701	to 1732&lt;/li&gt;
-&lt;li&gt;Mid 18th Century 1733	to 1766&lt;/li&gt;
-&lt;li&gt;Late 18th Century	1767	to 1800&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;19th Century 1801 to 1900
-&lt;ul&gt;
-&lt;li&gt;Early 19th Century 1801	to 1832&lt;/li&gt;
-&lt;li&gt;Mid 19th Century 1833	to 1866&lt;/li&gt;
-&lt;li&gt;Late 19th Century	1867	to 1900&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;20th Century 1901 to 2000
-&lt;ul&gt;
-&lt;li&gt;Early 20th Century 1901 to 1932
-&lt;ul&gt;
-&lt;li&gt;Edwardian 1902 to 1910&lt;/li&gt;
-&lt;li&gt;First World War 1914 to 1918&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Mid 20th Century 1933 to 1966
-&lt;ul&gt;
-&lt;li&gt;Second World War 1939 to 1945&lt;/li&gt;
-&lt;li&gt;Cold War 1946 to 1991&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Late 20th Century 1967 to 2000
-&lt;ul&gt;
-&lt;li&gt;Cold War 1946 to 1991&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;21st Century 2001 to 2100
-&lt;ul&gt;
-&lt;li&gt;Early 21st Century 2001 to 2032&lt;/li&gt;
-&lt;li&gt;Mid 21st Century 2033 to 2066
-&lt;ul&gt;
-&lt;li&gt;Solar Federation 2062 to 2112&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Late 21st Century 2067 to 2100&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Uncertain&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[MIDAS Heritage and Qatar HER]]></title><description><![CDATA[The Qatar Museums Authority (QMA) and the VISTA Centre at University of Birmingham have recently developed
+&lt;p&gt;Please &lt;a href=&quot;mailto:terminologies@HistoricEngland.org.uk&quot;&gt;get in touch&lt;/a&gt; if you are interested in contributing to nany of the existing working groups. We also welcome suggestions for any other related topics you would like to see discussed, developed or promoted by the FISH community.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MIDAS Heritage and Qatar HER]]></title><description><![CDATA[The Qatar Museums Authority (QMA) and the VISTA Centre at University of Birmingham have recently developed
 a bespoke bilingual and fully…]]></description><link>https://heritage-standards.museologi.st/news/midas-heritage-and-qatar-her/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/news/midas-heritage-and-qatar-her/</guid><pubDate>Fri, 01 Nov 2013 00:00:02 GMT</pubDate><content:encoded>&lt;p&gt;The &lt;a href=&quot;http://www.qm.org.qa/en&quot;&gt;Qatar Museums Authority&lt;/a&gt; (QMA) and the VISTA Centre at &lt;a href=&quot;http://www.birmingham.ac.uk/index.aspx&quot;&gt;University of Birmingham&lt;/a&gt; have recently developed
 a bespoke bilingual and fully integrated Cultural Heritage Management Application in Access database and ArcGIS.&lt;/p&gt;
 &lt;p&gt;The new customized application uses Open Source code. The &lt;a href=&quot;http://en.wikipedia.org/wiki/MIDAS_Heritage&quot;&gt;MIDAS Heritage&lt;/a&gt; data standard - developed and expanded by
