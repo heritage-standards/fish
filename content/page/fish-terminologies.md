@@ -44,7 +44,7 @@ All the resources here are free to use and do not require FISH membership.
 All of the csv files, rdf/skos links below are current; however, due to an ongoing technical issue we have been unable to produce updated
 pdf versions of the thesauri for this release but they all remain current except for the following six affected thesauri:
 
-1. Archaeological Objects
+1. Archaeological bjects
 2. Components
 3. Historic Aircraft
 4. Monument Type
