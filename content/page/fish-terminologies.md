@@ -43,15 +43,14 @@ All the resources here are free to use and do not require FISH membership.
 
 All of the CSV files below are version 26; however, due to ongoing technical issues we have been unable to produce updated
 PDF versions of the thesauri for this release but they all remain current except for those that have been updated since
-February 2021; the seven affected thesauri are:
+February 2021; the six affected thesauri are:
 
 1. Archaeological Objects
 2. Components
-3. Event Type
-4. Historic Aircraft
-5. Monument Type
-6. Object Materials
-7. Resource Description (Thred).
+3. Historic Aircraft
+4. Monument Type
+5. Object Materials
+6. Resource Description (Thred).
 
 ### Archaeological Objects Thesaurus
 
