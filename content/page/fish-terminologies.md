@@ -63,7 +63,7 @@ Terminology used for recording the techniques, recovery methods and materials as
 
 [Alphabetical](/2024/pdf_files/FISH_Archaeological_Sciences_Alphabetical_20240607.pdf) [Hierarchical](/2024/pdf_files/FISH_Archaeological_Sciences_Hierarchical_20240607.pdf) [Linked Data](http://heritagedata.org/live/schemes/560.html) [Linked Data - rdf/skos](/2024/rdf_files/FISH_Archaeological_Sciences_20240607.rdf) [CSV](/2024/zip_files/FISH_Archaeological_Sciences.zip)
 
-### <a id="buidling-materials-thesaurus"></a>Building Materials Thesaurus
+### <a id="building-materials-thesaurus"></a>Building Materials Thesaurus
 
 Terminology used for recording the main construction materials of monuments, buildings and structures relating to the built and buried heritage of the British Isles. Includes natural/animal and man-made material (e.g. _cement mix, fossil, fibre-glass_). Maintained by FISH on behalf of the heritage sector.  
 
