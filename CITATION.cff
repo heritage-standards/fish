@@ -10,6 +10,13 @@ authors:
     email: dejp3@cam.ac.uk
     affiliation: 'St Edmund''s College, University of Cambridge'
     orcid: 'https://orcid.org/0000-0002-0246-2335'
+  - given-names: Phil
+    family-names: Carlisle
+    affiliation: Historic England
+    orcid: 0000-0002-7239-0672
+  - given-names: Paul
+    family-names: Adams
+    affiliation: Historic England
 identifiers:
   - type: doi
     value: 10.5281/zenodo.3660884
