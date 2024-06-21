@@ -6,7 +6,7 @@ permalink: /terminology/
 type: page
 author:
   - Digital Standards Unit
-last_modified_at: 2023-10-25T11:11:03
+last_modified_at: 2024-05-30T11:11:03
 ---
 ## An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms
 
