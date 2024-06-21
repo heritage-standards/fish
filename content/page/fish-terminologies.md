@@ -37,7 +37,7 @@ All the resources here are free to use and do not require FISH membership.
 - [Periods List- superseded](#periods-list)
 - [Historic England Periods List](#historic-england-periods-list)
 - [Resource Description Thesaurus](#resource-description-thesaurus)
-- [Threat Types](#threat-types)
+- [Threat Types List](#threat-types-list)
 
 > Thesauri last updated June 2024 (version 27)
 
@@ -196,7 +196,7 @@ Officially called _English Heritage and National Trust Resource Description_, al
 
 [Alphabetical](/2021/02/Thred_alpha.pdf) [Hierarchical](/2021/02/Thred_class.pdf) [CSV](2024/zip_files/FISH_Resource_Description.zip)
 
-### <a id="threat-types"></a> Threat Types
+### <a id="threat-types-list"></a> Threat Types List
 
 Wordlist for different types of threats to heritage assets (e.g. _coastal erosion, flooding, vandalism_).
 
