@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Jun 2024 19:36:32 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Jun 2024 19:43:43 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -421,7 +421,7 @@ London &lt;a href=&quot;/2015/08/FISH-spring-meeting-june-10th-2014-agenda.pdf&q
 &lt;p&gt;Thesauri last updated June 2024 (version 27)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;All of the csv files, rdf/skos links below are current; however, due to an ongoing technical issue we have been unable to produce updated
-pdf versions of the thesauri for this release but they all remain current except for the following six affected thesauri:&lt;/p&gt;
+pdf versions of some of our terminologies for this release; those affected are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Archaeological Objects&lt;/li&gt;
 &lt;li&gt;Components&lt;/li&gt;
