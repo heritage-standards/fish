@@ -55,7 +55,7 @@ pdf versions of the thesauri for this release but they all remain current except
 
 Originally developed by the Archaeological Objects Working Party and published by the [MDA](https://en.wikipedia.org/wiki/Collections_Trust). It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. _corn dolly, cremation, cross_). Now maintained by FISH on behalf of the heritage sector.
 
-[Alphabetical](/2021/02/ArchObj_alpha.pdf) [Hierarchical](/2021/02/ArchObj_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/mda_obj.html) [CSV](/2023/04/ArchObjs_v26.zip)
+[Alphabetical](/2021/02/ArchObj_alpha.pdf) [Hierarchical](/2021/02/ArchObj_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/mda_obj.html) [CSV](/2024/zip_files/FISH_Archaeological_Objects.zip)
 
 ### <a id="archaeological-sciences-thesaurus"></a>Archaeological Sciences Thesaurus
 
@@ -67,13 +67,13 @@ Terminology used for recording the techniques, recovery methods and materials as
 
 Terminology used for recording the main construction materials of monuments, buildings and structures relating to the built and buried heritage of the British Isles. Includes natural/animal and man-made material (e.g. _cement mix, fossil, fibre-glass_). Maintained by FISH on behalf of the heritage sector.  
 
-_[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html) [CSV](/2023/04/BuildingMats_v26.zip)_
+_[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html) [CSV](/2024/zip_files/FISH_Building_Materials.zip)_
 
 ### <a id="cargo-thesaurus"></a>Cargo Thesaurus
 
 Thesaurus for types of cargo carried by vessels and aircraft on their final voyage (e.g. _animal fodder, sugar, fuel_). Maintained by Historic England on behalf of the FISH Terminology Working Group.
 
-[Alphabetical](/2021/02/Cargo_alpha.pdf) [Hierarchical](/2021/02/Cargo_class.pdf) [CSV](/2023/04/Cargo_v26.zip)
+[Alphabetical](/2021/02/Cargo_alpha.pdf) [Hierarchical](/2021/02/Cargo_class.pdf) [CSV](/2024/zip_files/FISH_Cargo.zip)
 
 ### <a id="climate-hazards-thesaurus"></a>Climate Hazards Thesaurus
 
@@ -85,13 +85,13 @@ This vocabulary of climate change hazards, the potential negative climate events
 
 Terminology covering divisions and structural elements of a building or monument. Includes terms that describe areas and spaces, decorative features, fixtures and fittings, machinery and implied features (e.g. _post hole, cartouche, truss_).
 
-[Alphabetical](/2021/02/Components_alpha.pdf) [Hierarchical](/2021/02/Components_class.pdf) [Linked Data](https://purl.org/heritagedata/schemes/eh_com) [CSV](/2023/04/Components_v26.zip)
+[Alphabetical](/2021/02/Components_alpha.pdf) [Hierarchical](/2021/02/Components_class.pdf) [Linked Data](https://purl.org/heritagedata/schemes/eh_com) [CSV](/2024/zip_files/FISH_Components.zip)
 
 ### <a id="defence-of-britain-thesaurus"></a>Defence of Britain Thesaurus
 
 Terminology relating to the Second World War defence of Britain. This resource is no longer actively maintained, all content can now be found in the FISH Monument Type Thesaurus.
 
-[Alphabetical](/2021/02/DoB_alpha.pdf) [Hierarchical](/2021/02/DoB_class.pdf) [CSV](/2023/04/DoB_v26.zip)
+[Alphabetical](/2021/02/DoB_alpha.pdf) [Hierarchical](/2021/02/DoB_class.pdf) [CSV](/2024/zip_files/FISH_Defence_of_Britain.zip)
 
 ### <a id="event-thesaurus"></a>Event Thesaurus
 
@@ -103,67 +103,66 @@ Use for recording archaeological events, e.g. architectural investigative, data 
 
 Terminology covering the existing physical remains of a monument, or the means by which a monument has been identified where no physical remains exist (e.g. _placename evidence, soilmark, surface deposit_).
 
-[Alphabetical](/2023/04/Evidence_alpha.pdf) [Hierarchical](/2023/04/Evidence_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_evd.html) [CSV](/2023/04/Evidence_v26.zip)
+[Alphabetical](/2023/04/Evidence_alpha.pdf) [Hierarchical](/2023/04/Evidence_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_evd.html) [CSV](/2024/zip_files/FISH_Evidence.zip)
 
 ### <a id="farmstead-thesaurus"></a> Farmstead Thesaurus
 
 Thesaurus for indexing different types of farmsteads, related buildings, areas and layouts. This thesaurus does not contain any additional terminology than that held in Monument Type. Further information regarding national farm building types can be found [here](https://historicengland.org.uk/images-books/publications/national-farm-building-types/).
 
-[Alphabetical](/2021/02/Farmsteads_alpha.pdf) [Hierarchical](/2021/02/Farmsteads_class.pdf) [CSV](/2023/04/Farmsteads_v26.zip)
-
+[Alphabetical](/2021/02/Farmsteads_alpha.pdf) [Hierarchical](/2021/02/Farmsteads_class.pdf) [CSV](/2024/zip_files/FISH_Farmstead.zip)
 ### <a id="first-world-war-thesaurus"></a> First World War Thesaurus
 
 For the recording of monuments related to the First World War in the UK. This thesaurus was constructed for the _First World War Home Front Project_ and does not contain any additional terminology than that held in Monument Type.
 
-[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [CSV](/2023/04/FWW_v26.zip)
+[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [CSV](/2024/zip_files/FISH_First_World_War.zip)
 
 ### <a id="heritage-crime-thesaurus"></a> Heritage Crime Thesaurus
 
 Thesaurus for indexing types of crime and incidents against heritage assets (e.g. _graffiti, theft, unauthorized diving_).
 
-[Alphabetical](/2021/02/HeritageCrime_alpha.pdf) [Hierarchical](/2021/02/HeritageCrime_class.pdf) [CSV](/2023/04/HeritageCrime_v26.zip)
+[Alphabetical](/2021/02/HeritageCrime_alpha.pdf) [Hierarchical](/2021/02/HeritageCrime_class.pdf) [CSV](/2024/zip_files/FISH_Heritage_Crime.zip)
 
 ### <a id="historic-aircraft-thesaurus"></a> Historic Aircraft Thesaurus
 
 Indexing terminology for the recording of aircraft remains and crash sites, listing aircraft types by form, function and manufacturer (e.g. _Atlas, Target, Westland_).
 
-[Alphabetical](/2021/02/Aircraft_alpha.pdf) [Hierarchical](/2021/02/Aircraft_class.pdf) [CSV](/2023/04/HistoricAircraft_v26.zip)
+[Alphabetical](/2021/02/Aircraft_alpha.pdf) [Hierarchical](/2021/02/Aircraft_class.pdf) [CSV](/2024/zip_files/FISH_Historic_Aircraft.zip)
 
 ### <a id="historic-characterization-thesaurus"></a> Historic Characterization Thesaurus
 
 Thesaurus combining Historic Landscape and Historic Seascape Characterization terminology (e.g. _reclaimed land, vineyard, dunes_).
 
-[Alphabetical](/2021/02/HistoricCharacter_alpha.pdf) [Hierarchical](/2021/02/HistoricCharacter_class.pdf) [CSV](/2023/04/HistoricCharacter_v26.zip) [Full text](/2016/05/HistoricCharactFull_-Aug2015.pdf)
+[Alphabetical](/2021/02/HistoricCharacter_alpha.pdf) [Hierarchical](/2021/02/HistoricCharacter_class.pdf) [CSV](/2024/zip_files/FISH_Historic_Characterization.zip) [Full text](/2016/05/HistoricCharactFull_-Aug2015.pdf)
 
 ### <a id="manner-of-loss"></a> Manner of Loss
 
 A small authority file/ wordlist for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
 
-[XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html)[Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240520.rdf) [CSV](/2018/01/MannerOfLoss.zip)
+[XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html)[Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240520.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
 
 ### <a id="maritime-craft-thesaurus"></a> Maritime Craft Thesaurus
 
 Craft types which survive as wrecks for Historic England’s maritime record and can be used to describe types of ship (e.g. _block ship, rescue vessel, net layer_) .
 
-[Alphabetical](/2021/02/MaritimeCraft_alpha.pdf) [Hierarchical](/2021/02/MaritimeCraft_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmc.html) [CSV](/2023/04/MarCraft_v26.zip)
+[Alphabetical](/2021/02/MaritimeCraft_alpha.pdf) [Hierarchical](/2021/02/MaritimeCraft_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmc.html) [CSV](/2024/zip_files/FISH_Maritime_Craft.zip)
 
 ### <a id="maritime-fixtures-and-fittings-thesaurus"></a> Maritime Fixtures and Fittings Thesaurus
 
 Thesaurus of non-structural, movable items on vessels (e.g. _lifting gear, deadeye, clenched nail_).
 
-[Alphabetical](/2021/02/MaritimeFixFitts_alpha.pdf) [Hierarchical](/2021/02/MaritimeFixFitts_class.pdf) [CSV](/2023/04/MarFixFit_v26.zip)
+[Alphabetical](/2021/02/MaritimeFixFitts_alpha.pdf) [Hierarchical](/2021/02/MaritimeFixFitts_class.pdf) [CSV](/2024/zip_files/FISH_Maritime_Fixtures_and_Fittings.zip)
 
 ### <a id="maritime-place-names-thesaurus"></a> Maritime Place Names Thesaurus
 
 Thesaurus for indexing ports of destination and departure for maritime vessels, grouped by continent, island, water or unassigned (e.g. _Isle of Man, Scapa Flow, Gulf of Bothnia_).
 
-[Alphabetical](/2021/02/MarPlaceName_alpha.pdf) [Hierarchical](/2021/02/MarPlaceName_class.pdf) [CSV](/2023/04/MarPlace_v26.zip)
+[Alphabetical](/2021/02/MarPlaceName_alpha.pdf) [Hierarchical](/2021/02/MarPlaceName_class.pdf) [CSV](/2024/zip_files/FISH_Maritime_Place_Names.zip)
 
 ### <a id="monument-types-thesaurus"></a> Monument Types Thesaurus
 
 Terminology relating to the built and buried heritage of the British Isles and used for recording sites, monuments, buildings and structures (e.g. _beer cellar, macula, railway hotel_).
 
-[Alphabetical](/2021/02/Mon_alpha.pdf) [Hierarchical](/2021/02/Mon_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmt2.html) [CSV](/2023/04/MonType_v26.zip)
+[Alphabetical](/2021/02/Mon_alpha.pdf) [Hierarchical](/2021/02/Mon_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmt2.html) [CSV](/2024/zip_files/FISH_Monument_Type.zip)
 
 [Class definitions](/2016/05/Definitions-to-the-Classes-in-the-FISH-Thesaurus-of-Monument-Types.docx)
 
@@ -171,13 +170,13 @@ Terminology relating to the built and buried heritage of the British Isles and u
 
 List of nationalities for indexing vessels and aircraft.
 
-[Alphabetical](/2021/02/Nationality_alpha.pdf) [Hierarchical](/2021/02/Nationality_class.pdf) [CSV](/2023/04/Nationality_v26.zip)
+[Alphabetical](/2021/02/Nationality_alpha.pdf) [Hierarchical](/2021/02/Nationality_class.pdf) [CSV](/2024/zip_files/FISH_Nationality.zip)
 
 ### <a id="object-materials-thesaurus"></a> Object Materials Thesaurus
 
 A thesaurus, originally developed to assist with the recording of materials for maritime wrecks but now used more generally for objects found in findspots. Please use the British Museum Thesaurus for museum objects.
 
-[Alphabetical](/2021/02/ObjectMat_alpha.pdf) [Hierarchical](/2021/02/ObjectMat_class.pdf) [CSV](/2023/04/ObjMats_v26.zip)
+[Alphabetical](/2021/02/ObjectMat_alpha.pdf) [Hierarchical](/2021/02/ObjectMat_class.pdf) [CSV](/2024/zip_files/FISH_Object_Materials.zip)
 
 ### <a id="periods-list"></a> Periods List (superseded)
 
@@ -201,7 +200,7 @@ Officially called _English Heritage and National Trust Resource Description_, al
 
 Wordlist for different types of threats to heritage assets (e.g. _coastal erosion, flooding, vandalism_).
 
-[CSV](/2016/05/556_threats-2.csv)
+[CSV](/2024/zip_files/FISH_Threat.zip)
 
 ![ALGAO-logo.jpg](images/ALGAO-logo.jpg) ![MIDAS_Heritage_logo](images/MIDAS_Heritage_logo.png)   
 
