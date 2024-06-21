@@ -26,7 +26,7 @@ All the resources here are free to use and do not require FISH membership.
 - [First World War Thesaurus](#first-world-war-thesaurus)
 - [Heritage Crime Thesaurus](#heritage-crime-thesaurus)
 - [Historic Aircraft Thesaurus](#historic-aircraft-thesaurus)
-- [Historic Characterization Thesaurus](#historic-chararcterization-thesaurus)
+- [Historic Characterization Thesaurus](#historic-characterization-thesaurus)
 - [Manner of Loss](#manner-of-loss)
 - [Maritime Craft Thesaurus](#maritime-craft-thesaurus)
 - [Maritime Fixtures and Fittings Thesaurus](#maritime-fixtures-and-fittings-thesaurus)
