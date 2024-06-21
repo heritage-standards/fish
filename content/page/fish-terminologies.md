@@ -42,7 +42,7 @@ All the resources here are free to use and do not require FISH membership.
 > Thesauri last updated June 2024 (version 27)
 
 All of the csv files, rdf/skos links below are current; however, due to an ongoing technical issue we have been unable to produce updated
-pdf versions of some of our terminologies for this release; those affected are:
+pdf versions of some of our terminologies for this release; those affected by this are:
 
 1. Archaeological Objects
 2. Components
