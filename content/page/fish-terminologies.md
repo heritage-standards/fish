@@ -136,7 +136,7 @@ Thesaurus combining Historic Landscape and Historic Seascape Characterization te
 
 ### <a id="manner-of-loss"></a> Manner of Loss
 
-A small authority file/ wordlist for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
+A small authority file for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
 
 [XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html)[Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240520.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
 
