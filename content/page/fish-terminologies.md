@@ -5,7 +5,7 @@ permalink: /fish-vocabularies/
 status: publish
 author:
     - Data Standards Specialist
-last_modified_at: 2024-06-21T18:45:15
+last_modified_at: 2024-06-27T18:45:15
 ---
 
 **This page presents the most current version of the FISH vocabularies in a number of formats; on this page you can also download the thesaurus table structure along with a list of the latest candidate terms added to our terminologies.**
@@ -138,7 +138,7 @@ Thesaurus combining Historic Landscape and Historic Seascape Characterization te
 
 A small authority file for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
 
-[Alphabetical](/2024/pdf_files/Manner_of_loss.pdf) [XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html) [Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240618.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
+[Alphabetical](/2024/pdf_files/Manner_of_loss.pdf) [XLS](/2024/zip_files/FISH_Manner_of_Loss.zip) [Linked Data](https://heritagedata.org/live/schemes/78.html) [Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240618.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
 
 ### <a id="maritime-craft-thesaurus"></a> Maritime Craft Thesaurus
 
