@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:cc="http://creativecommons.org/ns#">
+
+  <skos:ConceptScheme rdf:about="http://purl.org/heritagedata/schemes/78">
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-18</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/78</dc:identifier>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:title xml:lang="en">Manner of Loss</dc:title>
+    <dc:description xml:lang="en">Authority list of primary causes of loss of vessel (Maritime).</dc:description>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/1422">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/1422</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Ditched</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An aircraft which has been forced to land on the sea in an emergency.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/1423">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/1423</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Crashed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An aircraft which has been damaged beyond repair due to a collision with the ground or sea.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/1424">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/1424</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Mechanical Failure</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">The loss of a craft due to structural or engine failure. In the case of loss resulting from the malfunction of navigational or operational apparatus, use INSTRUMENT FAILURE.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/1425">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/1425</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Shot Down</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An aircraft lost due to offensive action. Includes air-to-air and ground-to-air combat. For Vessels use GUN ACTION.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/552">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/552</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Abandoned</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Refers to the abandonment of a vessel at sea due to its becoming unseaworthy.  Do not use for vessels abandoned having run aground. For aircraft use DITCHED.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/555">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/555</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Bilged</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Stoving in or fracturing of lowest part of vessel's hull.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/557">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/557</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Burnt</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a vessel or aircraft primarily due to fire.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/561">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/561</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Explosion</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel or aircraft lost due to an accidental explosion.  Do not use for losses caused by deliberate action.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/567">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/567</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Lost</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel or aircraft lost at sea, cause unknown.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/572">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/572</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Stranded</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel which runs aground and does not get off.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/556">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/556</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Broken Up</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel which has been dismantled for the purpose of removal from the shore after stranding.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/558">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/558</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Capsized</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel lost having overturned due to severe weather or shifting cargo.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/559">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/559</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Collision</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a vessel or aircraft through accidental contact with another or a structure. Do not use when contact is with natural feature or rocky shore.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/560">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/560</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Depth Charged</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of vessel due to deployment of explosive charges set to detonate at a predetermined depth.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/562">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/562</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Foundered</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel that has sunk at sea: Double-index with background cause were known, e.g. LEAKED, COLLISION.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/563">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/563</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Grounded</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a vessel due to running aground and subsequently refloating before final loss.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/564">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/564</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Gun Action</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a vessel due to bombardment from ship, shore or submarine. For Aircraft use SHOT DOWN.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/565">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/565</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Laid Up</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel withdrawn from active use and awaiting disposal or reuse.  Vessel subsequently becomes derelict.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/566">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/566</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Leaked</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Ingress of water through damage or defects in the hull. Double-index with any cause, were known, e.g. COLLISION, and consequence, were known, e.g. BEACHED, FOUNDERED.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/553">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/553</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Beached</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel that is deliberately run or dragged up the beach to save cargo and or crew. Do not use if the vessel is refloated.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/554">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/554</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Bombed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel lost due to aerial bombardment.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/568">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/568</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Mined</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss due to action of free floating or tethered explosive device set to explode on contact with or in proximity to a vessel.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/569">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/569</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Ramming</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Deliberate collision with another vessel in order to inflict damage.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/571">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/571</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Scuttled</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Deliberate sinking of a vessel, e.g. to prevent capture or to act as a blockship.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/573">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/573</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Torpedoed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss due to action of self propelled submerged missile.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/574">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/574</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Wrecked</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel which comes ashore and breaks up immediately due to severe weather.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/837">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/837</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Distressed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Damaged, usually by weather or warfare, to such an extent that the vessel is in severe or imminent danger of being lost; i.e. a pre-existing condition of the vessel which contributes to the final wrecking event.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5238">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5238</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Washed Up</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use only for fragmentary wreckage washed up at the time of loss or subsequently: but not for complete hulls for which STRANDED or another appropriate manner of loss should be used.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5220">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5220</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Internal Explosion</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a vessel or aircraft due to an explosion caused by its own armament or cargo.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5065">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5065</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Recovered</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use where an entire, wrecked or incapacitated, craft has been recovered or salvaged, possibly leaving debris or other evidence of its presence at the wreck or crash site. If part of the wreck remains on the seabed use PARTIALLY RECOVERED.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5129">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5129</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Dispersed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">For use when a vessel, already lost through other causes, is dismantled or dispersed by means of explosives to render it harmless to other shipping.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5196">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5196</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Spontaneous Combustion</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Ignition from within rather than through external forces; frequently associated with cargoes of organic material such as manure, owing to an internal rise in temperature of the cargo itself.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5195">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5195</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Instrument Failure</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss of a craft, especially aircraft, resulting from the malfunction of registering or measuring apparatus vital to its navigation or operation. In the case of structural or engine failure use MECHANICAL FAILURE.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5197">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5197</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Enemy Action</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loss due to cumulative damage sustained during acts of warfare, capture, piracy, privateering etc. Use in instances where a more specific manner of loss (e.g. SCUTTLED, GUN ACTION) cannot be assigned.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5198">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5198</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Condemned</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Judged as irreparable or no longer seaworthy following a wrecking incident (from which the vessel may have been recovered) or a difficult voyage: a term with legal force indicating that the vessel is unfit for service.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5212">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5212</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Beyond Repair</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for 'constructive total loss' (CTL) or where a vessel is abandoned because she is beyond repair or has become so after abandonment, which may include acts of vandalism.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5213">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5213</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Partially Recovered</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use where a section of the vessel has been recovered from where she lies, either at the time or subsequently, leaving behind substantial remains (unlike RECOVERED, where the entire vessel has been removed from the site).</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5214">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5214</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Back Broken</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use when the vessel splits in two due to stresses on her frame where she lies unsupported either amidships or at the ends, typically after stranding, although this may also happen in similar conditions on the seabed after foundering.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5215">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5215</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Vandalism</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Acts of vandalism, or deliberate damage by owner or other parties, which result in the `Constructive Total Loss� (CTL) of vessel, or contributes to CTL of an abandoned vessel.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5216">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5216</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Scuttling Charges</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel which has been deliberately scuttled using explosive charges.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5217">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5217</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Lightning Strike</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A vessel which has damaged by a lightning strike and subsequently lost.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5240">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5240</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Used In Construction</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Reuse of timbers or hull of a vessel in construction. For example sinking of hulks as harbour foundations or recycling of timbers in domestic contexts.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5241">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5241</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Embayed</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Lee shore, i.e. the wind blowing onto the shore</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5242">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5242</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">High and Dry</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A specific form of stranding, above high water, i.e. cannot be refloated</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5243">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5243</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Off Course</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Vessel not on intended course e.g. along the Channel coast from French port to French port, or in the Bristol Channel rather than the English Channel; errors in longitude or mistaking a lighthouse.</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/78/concepts/5244">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/78/concepts/5244</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-18T11:27:59</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Overshooting</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Shooting past intended port, e.g. northbound to Tyne to end up on the Farne Islands</skos:scopeNote>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/78"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+  </skos:ConceptScheme>
+
+</rdf:RDF>
