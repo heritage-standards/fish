@@ -138,7 +138,7 @@ Thesaurus combining Historic Landscape and Historic Seascape Characterization te
 
 A small authority file for indexing types of loss of vessels or aircraft (e.g. _beached, lost, enemy action_).
 
-[Alphabetical](/2024/pdf_files/Manner_of_loss.pdf) [XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html)[Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240618.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
+[Alphabetical](/2024/pdf_files/Manner_of_loss.pdf) [XLS](/2023/04/mannerofloss-3.xls) [Linked Data](https://heritagedata.org/live/schemes/78.html) [Linked Data - rdf/skos](/2024/rdf_files/Manner_of_loss_20240618.rdf) [CSV](/2024/zip_files/FISH_Manner_of_Loss.zip)
 
 ### <a id="maritime-craft-thesaurus"></a> Maritime Craft Thesaurus
 
