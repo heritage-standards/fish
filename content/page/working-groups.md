@@ -12,7 +12,7 @@ _Terminology working group, member organizations & specialist meetings_
 
 A number of sub-groups have formed at different times to assist with the development of various FISH projects and products.  The _Terminology Working Group_ meet regularly, but otherwise the _FISH Mailing List_ is used for online discussions on general, technical or subject specific issues. E-conferences are sometimes organized to invite group discussion and consensus on changes or amendments to FISH standards or guidance.
 
-To join the mailing list, please go to [FISH JISCMail](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH). To join a working group, please contact [FISH](mailto:terminologies@HistoricEngland.org.uk).
+To join the mailing list, please go to [FISH JISCMail](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH). To join a working group, please contact [FISH](mailto:_terminologies@HistoricEngland.org.uk).
 
 ### Terminology Working Group
 
