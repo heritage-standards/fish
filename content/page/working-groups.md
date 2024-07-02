@@ -38,7 +38,7 @@ Download [FISH TWG Terms of Reference](/2015/09/FISHTWGTermsOfReference.doc)
 
 December 2017: Issues discussed at the latest meeting include a proposed funding bid for lithic terminology work, revision of the _Period_ list for the Palaeolithic and Mesolithic, the OASIS wordlists, and candidate terms for the FISH _Archaeological Object Type_ thesaurus.
 
-Download [Minutes 19 July 2018](/2024/pdf_files/Minutes_FISHTWG_ 20180719.pdf)
+Download [Minutes 19 July 2018](/2024/pdf_files/Minutes_FISHTWG_20180719.pdf)
 
 ### Specialist meetings
 
