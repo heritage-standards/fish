@@ -132,7 +132,7 @@ Indexing terminology for the recording of aircraft remains and crash sites, list
 
 Thesaurus combining Historic Landscape and Historic Seascape Characterization terminology (e.g. _reclaimed land, vineyard, dunes_).
 
-[Alphabetical](/2021/02/HistoricCharacter_alpha.pdf) [Hierarchical](/2021/02/HistoricCharacter_class.pdf) [CSV](/2024/zip_files/FISH_Historic_Characterization.zip) [Full text](/2016/05/HistoricCharactFull_-Aug2015.pdf) [Linked Data - rdf/skos](/2024/rdf_files/FISH_Historic_Characterization_20240701.rdf)
+[Alphabetical](/2024/pdf_files/FISH_Historic_Characterization_Alphabetical_20240702.pdf) [Hierarchical](/2024/pdf_files/FISH_Historic_Characterization_Hierarchical_20240702.pdf) [CSV](/2024/zip_files/FISH_Historic_Characterization.zip) [Full text](/2016/05/HistoricCharactFull_-Aug2015.pdf) [Linked Data - rdf/skos](/2024/rdf_files/FISH_Historic_Characterization_20240701.rdf)
 
 ### <a id="manner-of-loss"></a> Manner of Loss
 
