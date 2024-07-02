@@ -49,4 +49,4 @@ In addition to the general terminology meetings, members also meet to discuss am
 The FISH discussion list is available on [FISH JISCmail](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH). This is free but you need to sign up to JISCmail to be able to participate. Click [here](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SHOWTPL=HELP-SUBEDIT&L=FISH) to find out how to subscribe.
 
 
-Please [get in touch](mailto:terminologies@HistoricEngland.org.uk) if you are interested in contributing to nany of the existing working groups. We also welcome suggestions for any other related topics you would like to see discussed, developed or promoted by the FISH community.
+Please [get in touch](mailto:terminologies@HistoricEngland.org.uk) if you are interested in contributing to any of the existing working groups. We also welcome suggestions for any other related topics you would like to see discussed, developed or promoted by the FISH community.
