@@ -5,7 +5,7 @@ permalink: /fish-vocabularies/
 status: publish
 author:
     - Data Standards Specialist
-last_modified_at: 2024-06-27T18:45:15
+last_modified_at: 2024-07-02T18:45:15
 ---
 
 **This page presents the most current version of the FISH vocabularies in a number of formats; on this page you can also download the thesaurus table structure along with a list of the latest candidate terms added to our terminologies.**
@@ -254,4 +254,4 @@ The FISH thesaurus table structure is identical to Historic England's monuments 
 
 Every time we release a new version of the FISH thesauri, we also include a simple list of the new terms added. The document below contains terms added to Version 26, along with those considered for addition. - Version 27 additions to follow soon.
 
-<a href="/2023/04/Terms-added-rejected-March2022-March2023_Final.pdf" class="btn btn-success">New terms list</a>
+<a href="/2024/pdf_files/Terms added-rejected April2023-June2024.pdf" class="btn btn-success">New terms list</a>
