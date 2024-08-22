@@ -194,7 +194,7 @@ Periods and centuries used in Historic England datasets.
 
 Officially called _English Heritage and National Trust Resource Description_, also known as THRED. Terminology for the description of archive type and format, now updated by FISH (e.g. _excavation report, newspaper article, video clip_).
 
-[Alphabetical](/2021/02/Thred_alpha.pdf) [Hierarchical](/2021/02/Thred_class.pdf) [CSV](2024/zip_files/FISH_Resource_Description.zip)
+[Alphabetical](/2021/02/Thred_alpha.pdf) [Hierarchical](/2021/02/Thred_class.pdf) [CSV](/2024/zip_files/FISH_Resource_Description.zip)
 
 ### <a id="threat-types-list"></a> Threat Types List
 
