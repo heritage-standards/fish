@@ -33,7 +33,7 @@ MIDAS Heritage incorporates elements from several different standards, such as:
 *   [SPECTRUM](http://www.collectionstrust.org.uk/collections-link/collections-management/spectrum/the-spectrum-standard) (artefacts)
 *   [UK Gemini Discovery Metadata Standard](http://www.agi.org.uk/agi-groups/standards-committee/uk-gemini) (GIS / geographic information)
 *   [CIDOC Conceptual Reference Model](http://www.cidoc-crm.org/) (concepts and relationships)
-*   [UK HER Manual](https://khub.net/web/uk-her-manual)
+*   [UK HER Manual](https://khub.net/web/uk-her-manual) (how to manage a dynamic HER)
 
 MIDAS Heritage complies with the [UK e-Government Metadata Standard](https://en.wikipedia.org/wiki/E-GMS) (e-GMS), which is based on [Dublin Core](http://dublincore.org/documents/dces/).
 
