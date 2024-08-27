@@ -6,7 +6,7 @@ permalink: /midas-heritage/
 type: page
 author:
     - Digital Standards Unit
-last_modified_at: 2023-10-25T11:11:03
+last_modified_at: 2024-08-27T11:11:03
 ---
 ## Introduction, history, best practice, structure & dictionary
 
@@ -33,7 +33,7 @@ MIDAS Heritage incorporates elements from several different standards, such as:
 *   [SPECTRUM](http://www.collectionstrust.org.uk/collections-link/collections-management/spectrum/the-spectrum-standard) (artefacts)
 *   [UK Gemini Discovery Metadata Standard](http://www.agi.org.uk/agi-groups/standards-committee/uk-gemini) (GIS / geographic information)
 *   [CIDOC Conceptual Reference Model](http://www.cidoc-crm.org/) (concepts and relationships)
-*   [Informing the Future of the Past: Guidelines for Historic Environment Records](http://archaeologydataservice.ac.uk/ifp/)
+*   [UK HER Manual](https://khub.net/web/uk-her-manual)
 
 MIDAS Heritage complies with the [UK e-Government Metadata Standard](https://en.wikipedia.org/wiki/E-GMS) (e-GMS), which is based on [Dublin Core](http://dublincore.org/documents/dces/).
 
