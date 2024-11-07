@@ -280,7 +280,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `micropasts-blog`,
+                name: `FISH-Heritage`,
                 short_name: `fish`,
                 start_url: `/`,
                 background_color: `#663399`,
