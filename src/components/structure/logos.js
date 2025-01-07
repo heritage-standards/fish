@@ -27,8 +27,8 @@ class Logos extends React.Component {
     }
 }
 
-export default () => (
-    <StaticQuery
+const PartnerLogos = () => (
+  <StaticQuery
         query={graphql`
         query PartnerQuery {
           allPartnersJson {
@@ -58,4 +58,6 @@ export default () => (
             <Logos logos={data.allPartnersJson}/>
         )}
     />
-)
+);
+
+export default PartnerLogos;
