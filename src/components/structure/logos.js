@@ -9,7 +9,6 @@ class Logos extends React.Component {
 
         return (
             <Container fluid className={"bg-white my-3 py-3"}>
-                <Container><h3 className={"display-5 text-center fw-bold text-success"}>Current partners</h3></Container>
                 <Col md={10} className="mx-auto pt-2 my-4">
                     <Row className="justify-content-center mb-2">
                         {this.props.logos.nodes.map((item, i) => (
