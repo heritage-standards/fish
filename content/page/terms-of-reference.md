@@ -7,7 +7,7 @@ type: page
 author: 
     - Edmund Lee
     - Forum Members as at August 2001
-last_modified_at: 2023-10-20T09:50:57
+last_modified_at: 2025-03-05T11:59:57
 ---
 ## 1. Objectives
 
@@ -74,3 +74,4 @@ Core members will contribute to the work of the forum in the following ways.
 
 Drafted by Edmund Lee, Forum Co-ordinator
 Approved by the Forum attending membership August 1st 2001
+Updated by Nina Steele and Paul Adams, February 5th 2025
