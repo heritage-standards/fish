@@ -73,5 +73,5 @@ Core members will contribute to the work of the forum in the following ways.
 * Forum web site: A web site will also be maintained as the responsibility of one or more core members, to support the effective communication of standards and information about the work of the forum.
 
 Drafted by Edmund Lee, Forum Co-ordinator
-Approved by the Forum attending membership August 1st 2001
-Updated by Nina Steele and Paul Adams, February 5th 2025
+Approved by the Forum attending membership August 1st 2001.
+Updated by Nina Steele and Paul Adams, February 5th 2025.
