@@ -6,7 +6,7 @@ permalink: /chronology/
 type: page
 author: 
   - Paul Adams
-last_modified_at: 2024-05-29T20:26:56
+last_modified_at: 2025-04-02T20:26:56
 ---
 FISH member organizations have compiled chronological guides to assist with the identification of archaeological and cultural periods. 
 Time periods vary depending on geographical focus and archaeological science disciplines so dates should not be taken as definitive or 
