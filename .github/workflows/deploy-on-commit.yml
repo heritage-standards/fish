@@ -1,4 +1,4 @@
-name: Build and Deploy this site Site
+name: Build and Deploy this site
 
 on:
   push:
@@ -12,6 +12,11 @@ on:
         default: 'warning'
       tags:
         description: 'Run Gatsby deploy manually'
+
+permissions:
+  contents: read # Required for actions/checkout@v3 to clone the repository
+  pages: write   # Required for JamesIves/github-pages-deploy-action to push to gh-pages
+  id-token: write # Required if you are using OIDC for deployments, good practice for Pages deployments.
 
 jobs:
   build:
