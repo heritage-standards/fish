@@ -62,6 +62,13 @@
     "heritage",
     "data-standards"
   ],
+  "overrides": {
+    "gatsby-plugin-react-svg": {
+      "svg-react-loader": {
+        "loader-utils": "^1.4.2"
+      }
+    }
+  },
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
