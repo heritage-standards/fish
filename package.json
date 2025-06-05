@@ -37,6 +37,7 @@
     "graphql": "^16.11.0",
     "http-cache-semantics": "^4.2.0",
     "lodash": "^4.17.21",
+    "multer": "^2.0.1",
     "path": "^0.12.7",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
