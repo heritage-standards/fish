@@ -69,9 +69,7 @@
         "loader-utils": "^1.4.2"
       }
     },
-    "gatsby" : {
-      "multer": "^2.0.1"
-    }
+    "multer": "^2.0.1"
   },
   "license": "MIT",
   "scripts": {
