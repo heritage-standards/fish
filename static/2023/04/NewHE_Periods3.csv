@@ -75,9 +75,10 @@ Late 10th Century,,150,C10,967,1000,,,LC10,Tenth Century
 11th Century,27,151,,1001,1100,Use for phases and events dating to the 11th Century,Y,C11,Eleventh Century
 Early 11th Century,,152,C11,1001,1032,,,EC11,Eleventh Century
 Mid 11th Century,,153,C11,1033,1066,,,MC11,Eleventh Century
-Medieval,28,154,,1066,1540,The Medieval period or Middle Ages begins with the Norman invasion and ends with the dissolution of the monasteries.,Y,MD,
+Medieval,28,154,,1066,1540,The Medieval period or Middle Ages begins with the Norman invasion and ends with the dissolution of the monasteries.,Y,MD,Middle Ages
 Late 11th Century,,155,C11,1067,1100,,,LC11,Eleventh Century
 12th Century,12,156,,1101,1200,Use for phases and events dating to the 12th Century,Y,C12,Twelfth Century
+High Medieval,,154.5,MD,1066,1300,The period of European History that lasted from the 11th to the 14th Century.,Y,HMD,High Mediaeval
 Early 12th Century,,157,C12,1101,1132,,,EC12,Twelfth Century
 Mid 12th Century,,158,C12,1133,1166,,,MC12,Twelfth Century
 Late 12th Century,,159,C12,1167,1200,,,LC12,Twelfth Century
@@ -85,6 +86,7 @@ Late 12th Century,,159,C12,1167,1200,,,LC12,Twelfth Century
 Early 13th Century,,161,C13,1201,1232,,,EC13,Thirteenth Century
 Mid 13th Century,,162,C13,1233,1266,,,MC13,Thirteenth Century
 Late 13th Century,,163,C13,1267,1300,,,LC13,Thirteenth Century
+Late Medieval,,154.6,MD,1300,1540,The period of European history that lasted from the 14th to the Mid 16th Century.,Y,LMD,Late Mediaeval
 14th Century,14,164,,1301,1400,Use for phases and events dating to the 14th Century.,Y,C14,Fourteenth Century
 Early 14th Century,,165,C14,1301,1332,,,EC14,Fourteenth Century
 Mid 14th Century,,166,C14,1333,1366,,,MC14,Fourteenth Century
