@@ -58,6 +58,8 @@ The full Historic England chronological guide for recording sites and monuments 
      * Mid Anglo-Saxon 660 to 899
      * Late Anglo-Saxon 899 to 1066 
 * Medieval 1066 to 1540
+  *   High Medieval 1066 to 1300
+  *   Late Medieval 1300 to 1540
 * Post Medieval 1540 to 1901
   * Tudor 1485 to 1603
      * Elizabethan 1558 to 1603
