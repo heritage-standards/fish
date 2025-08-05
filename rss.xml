@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Aug 2025 10:42:12 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FISH RSS Feed]]></title><description><![CDATA[Forum on Information Standards in Heritage]]></description><link>https://heritage-standards.museologi.st</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Aug 2025 10:44:14 GMT</lastBuildDate><item><title><![CDATA[Development]]></title><description><![CDATA[Discussion and suggestions for new areas of development are welcome! Anyone interested in heritage data management is welcome to join FISH…]]></description><link>https://heritage-standards.museologi.st/development/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/development/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Discussion and suggestions for new areas of development are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Anyone interested in heritage data management is welcome to join FISH.&lt;/p&gt;
@@ -3792,106 +3792,6 @@ include the Royal Commission on the Ancient and Historical Monuments of Wales (R
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Uncertain&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Terminologies]]></title><description><![CDATA[An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms Controlled vocabularies enhances access to cultural heritage…]]></description><link>https://heritage-standards.museologi.st/terminology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/terminology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms&lt;/h2&gt;
-&lt;p&gt;Controlled vocabularies enhances access to cultural heritage information. They form bridges between concepts and ideas, material remains and people, and constitute a fundamental part of the documentation process.&lt;/p&gt;
-&lt;p&gt;Selecting the correct term may vary depending on interpretation or tradition. While our thesauri and authority files are not always right, they usually are a good start. Vocabularies evolve and change over time. With technical developments, such as persistent &lt;a href=&quot;https://en.wikipedia.org/wiki/Uniform_Resource_Identifier&quot;&gt;URIs&lt;/a&gt;, regional synonyms and alternative labels can be added as we agree more on the concept of what something is, rather than the specific terms describing it.&lt;/p&gt;
-&lt;div class=&quot;text-center&quot;&gt;
-&lt;a href=&quot;/fish-vocabularies/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;FISH vocabularies&lt;/a&gt;
-&lt;a href=&quot;/chronology/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Chronological periods&lt;/a&gt;
-&lt;a href=&quot;/other-terminology-resources/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Other terminologies&lt;/a&gt;
-&lt;/div&gt;
-&lt;h2&gt;The FISH Vocabularies&lt;/h2&gt;
-&lt;p&gt;The FISH vocabularies consist of a number of structured terminologies for recording heritage assets such as monuments, buildings, maritime craft, historic aeroplanes, archaeological objects, components and landscapes. They also cover professional management and archaeological event terms (interventions), types of evidence and archaeological sciences (samples, ecofacts).&lt;/p&gt;
-&lt;p&gt;The vocabularies have been developed over many years, in collaboration with organisations such as &lt;a href=&quot;https://historicengland.org.uk/&quot;&gt;Historic England&lt;/a&gt; (formerly English Heritage), &lt;a href=&quot;http://www.algao.org.uk/&quot;&gt;ALGAO&lt;/a&gt;, &lt;a href=&quot;http://www.collectionstrust.org.uk/&quot;&gt;Collections Trust&lt;/a&gt; and the &lt;a href=&quot;http://www.nationaltrust.org.uk/&quot;&gt;National Trust&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The core FISH vocabularies are downloadable from the &lt;a href=&quot;http://www.heritagedata.org&quot;&gt;Heritage Data&lt;/a&gt; website.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The thesauri can be downloaded in &lt;em&gt;PDF&lt;/em&gt; or &lt;em&gt;CSV&lt;/em&gt; formats. The majority are also available in  Linked Open Data &lt;em&gt;LOD&lt;/em&gt; and &lt;em&gt;SKOS&lt;/em&gt; formats. The thesauri are refreshed once a year. Open a thesaurus or authority file in CSV or PDF format. (PDF content is listed alphabetically and hierarchically).&lt;/p&gt;
-&lt;p&gt;All the resources are free to use and do not require FISH membership.&lt;/p&gt;
-&lt;h3&gt;Candidate Terms&lt;/h3&gt;
-&lt;p&gt;We welcome your feed-back and suggestions on additional terms to include so that the FISH vocabularies remain correct,
-relevant, and inclusive. Submit a Candidate Term to any of our terminology resources and include a description (scope note),
-example of usage and references. Contact &lt;a href=&quot;mailto:terminologies@HistoricEngland.org.uk&quot;&gt;Historic England Data Standards&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 74.84662576687117%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABtRDoOJjF/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAAxESMf/aAAgBAQABBQIaoHsWB5XwYCT/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREhP/2gAIAQIBAT8BvJoz/8QAGBAAAgMAAAAAAAAAAAAAAAAAEBEAIYH/2gAIAQEABj8CbZyWP//EABwQAQEBAAEFAAAAAAAAAAAAAAERAEEhMVFhcf/aAAgBAQABPyGsjXhwiReNA6g/TTR2GsAt8zD7u//aAAwDAQACAAMAAAAQ3O//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEDAQE/EAFhy//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QbMRyn//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQWGBof/aAAgBAQABPxC4QYND5iAIdNcxJe3g8wkBQS73iApCh2HnGn7SZ//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/98307/Corfe-1024x766.webp 163w,
-/static/4f079fe6bd400f44954a3196f9f42cee/92d89/Corfe-1024x766.webp 325w,
-/static/4f079fe6bd400f44954a3196f9f42cee/8ea29/Corfe-1024x766.webp 650w,
-/static/4f079fe6bd400f44954a3196f9f42cee/55e68/Corfe-1024x766.webp 975w,
-/static/4f079fe6bd400f44954a3196f9f42cee/44907/Corfe-1024x766.webp 1024w&quot;
-              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/710e7/Corfe-1024x766.jpg 163w,
-/static/4f079fe6bd400f44954a3196f9f42cee/b9e16/Corfe-1024x766.jpg 325w,
-/static/4f079fe6bd400f44954a3196f9f42cee/ced87/Corfe-1024x766.jpg 650w,
-/static/4f079fe6bd400f44954a3196f9f42cee/1e5ea/Corfe-1024x766.jpg 975w,
-/static/4f079fe6bd400f44954a3196f9f42cee/87945/Corfe-1024x766.jpg 1024w&quot;
-            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/ced87/Corfe-1024x766.jpg&quot;
-            alt=&quot;The ruins of Corfe Castle in Dorset. Copyright Paul Adams&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;The ruins of Corfe Castle in Dorset. Copyright Paul Adams&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-&lt;h2&gt;Coverage&lt;/h2&gt;
-&lt;p&gt;These terminologies cover a wide range of materials and objects.&lt;/p&gt;
-&lt;h3&gt;Archaeology&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;archaeological science thesaurus&lt;/li&gt;
-&lt;li&gt;archaeological events thesaurus&lt;/li&gt;
-&lt;li&gt;evidence thesaurus&lt;/li&gt;
-&lt;li&gt;manner of loss list&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Archive&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;resource description thesaurus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Artefact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;archaeological objects thesaurus&lt;/li&gt;
-&lt;li&gt;components thesaurus&lt;/li&gt;
-&lt;li&gt;maritime cargo thesaurus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Heritage&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;heritage crime thesaurus&lt;/li&gt;
-&lt;li&gt;historic characterisation thesaurus (land and sea)&lt;/li&gt;
-&lt;li&gt;nationality list&lt;/li&gt;
-&lt;li&gt;threat list&lt;/li&gt;
-&lt;li&gt;building materials thesaurus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Monument&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;components thesaurus&lt;/li&gt;
-&lt;li&gt;historic aircraft thesaurus&lt;/li&gt;
-&lt;li&gt;maritime craft thesaurus&lt;/li&gt;
-&lt;li&gt;monuments thesaurus
-&lt;ul&gt;
-&lt;li&gt;Defence of Britain &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Farmsteads &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;First World War &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Midas Heritage]]></title><description><![CDATA[Introduction, history, best practice, structure & dictionary In 1998, not long after ICOM produced an international data standard for…]]></description><link>https://heritage-standards.museologi.st/midas-heritage/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/midas-heritage/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction, history, best practice, structure &amp;#x26; dictionary&lt;/h2&gt;
 &lt;p&gt;In 1998, not long after ICOM produced an international data standard for archaeological sites and monument recording (1995), FISH produced a UK version called &lt;em&gt;MIDAS&lt;/em&gt;. In 2007 it was expanded to include related information such as GIS (spatial data) and maritime components.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://historicengland.org.uk/images-books/publications/midas-heritage/&quot;&gt;MIDAS Heritage&lt;/a&gt; is a British cultural heritage standard for recording information on buildings, monuments, archaeological sites, shipwrecks and submerged landscapes, parks and gardens, battlefields, artefacts and ecofacts.&lt;/p&gt;
@@ -4048,7 +3948,107 @@ example of usage and references. Contact &lt;a href=&quot;mailto:terminologies@H
 &lt;p&gt;There are some minor discrepancies with the Mandatory/ Optional status for a few individual information units which we are aware of and plan to address in the near future.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Each unit of information contains a brief description, guidance on usage, whether a field is free text or controlled and should be populated using a terminology list/ authority file, and one or more examples.&lt;/p&gt;
-&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Dictionary&lt;/a&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Working Groups]]></title><description><![CDATA[Terminology working group, member organizations & specialist meetings A number of sub-groups have formed at different times to assist with…]]></description><link>https://heritage-standards.museologi.st/working-groups/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/working-groups/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Terminology working group, member organizations &amp;#x26; specialist meetings&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;&lt;a href=&quot;/2015/10/MIDAS-Heritage-Dictionary-March-2016-PDF.pdf&quot; class=&quot;btn btn-success text-center&quot;&gt;Download the Dictionary&lt;/a&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Terminologies]]></title><description><![CDATA[An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms Controlled vocabularies enhances access to cultural heritage…]]></description><link>https://heritage-standards.museologi.st/terminology/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/terminology/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;h2&gt;An introduction to controlled vocabulary, the FISH thesauri and Candidate Terms&lt;/h2&gt;
+&lt;p&gt;Controlled vocabularies enhances access to cultural heritage information. They form bridges between concepts and ideas, material remains and people, and constitute a fundamental part of the documentation process.&lt;/p&gt;
+&lt;p&gt;Selecting the correct term may vary depending on interpretation or tradition. While our thesauri and authority files are not always right, they usually are a good start. Vocabularies evolve and change over time. With technical developments, such as persistent &lt;a href=&quot;https://en.wikipedia.org/wiki/Uniform_Resource_Identifier&quot;&gt;URIs&lt;/a&gt;, regional synonyms and alternative labels can be added as we agree more on the concept of what something is, rather than the specific terms describing it.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+&lt;a href=&quot;/fish-vocabularies/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;FISH vocabularies&lt;/a&gt;
+&lt;a href=&quot;/chronology/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Chronological periods&lt;/a&gt;
+&lt;a href=&quot;/other-terminology-resources/&quot; class=&quot;mx-2 my-2 btn btn-success&quot;&gt;Other terminologies&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;The FISH Vocabularies&lt;/h2&gt;
+&lt;p&gt;The FISH vocabularies consist of a number of structured terminologies for recording heritage assets such as monuments, buildings, maritime craft, historic aeroplanes, archaeological objects, components and landscapes. They also cover professional management and archaeological event terms (interventions), types of evidence and archaeological sciences (samples, ecofacts).&lt;/p&gt;
+&lt;p&gt;The vocabularies have been developed over many years, in collaboration with organisations such as &lt;a href=&quot;https://historicengland.org.uk/&quot;&gt;Historic England&lt;/a&gt; (formerly English Heritage), &lt;a href=&quot;http://www.algao.org.uk/&quot;&gt;ALGAO&lt;/a&gt;, &lt;a href=&quot;http://www.collectionstrust.org.uk/&quot;&gt;Collections Trust&lt;/a&gt; and the &lt;a href=&quot;http://www.nationaltrust.org.uk/&quot;&gt;National Trust&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The core FISH vocabularies are downloadable from the &lt;a href=&quot;http://www.heritagedata.org&quot;&gt;Heritage Data&lt;/a&gt; website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The thesauri can be downloaded in &lt;em&gt;PDF&lt;/em&gt; or &lt;em&gt;CSV&lt;/em&gt; formats. The majority are also available in  Linked Open Data &lt;em&gt;LOD&lt;/em&gt; and &lt;em&gt;SKOS&lt;/em&gt; formats. The thesauri are refreshed once a year. Open a thesaurus or authority file in CSV or PDF format. (PDF content is listed alphabetically and hierarchically).&lt;/p&gt;
+&lt;p&gt;All the resources are free to use and do not require FISH membership.&lt;/p&gt;
+&lt;h3&gt;Candidate Terms&lt;/h3&gt;
+&lt;p&gt;We welcome your feed-back and suggestions on additional terms to include so that the FISH vocabularies remain correct,
+relevant, and inclusive. Submit a Candidate Term to any of our terminology resources and include a description (scope note),
+example of usage and references. Contact &lt;a href=&quot;mailto:terminologies@HistoricEngland.org.uk&quot;&gt;Historic England Data Standards&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.84662576687117%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABtRDoOJjF/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAAxESMf/aAAgBAQABBQIaoHsWB5XwYCT/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREhP/2gAIAQIBAT8BvJoz/8QAGBAAAgMAAAAAAAAAAAAAAAAAEBEAIYH/2gAIAQEABj8CbZyWP//EABwQAQEBAAEFAAAAAAAAAAAAAAERAEEhMVFhcf/aAAgBAQABPyGsjXhwiReNA6g/TTR2GsAt8zD7u//aAAwDAQACAAMAAAAQ3O//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEDAQE/EAFhy//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QbMRyn//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQWGBof/aAAgBAQABPxC4QYND5iAIdNcxJe3g8wkBQS73iApCh2HnGn7SZ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/98307/Corfe-1024x766.webp 163w,
+/static/4f079fe6bd400f44954a3196f9f42cee/92d89/Corfe-1024x766.webp 325w,
+/static/4f079fe6bd400f44954a3196f9f42cee/8ea29/Corfe-1024x766.webp 650w,
+/static/4f079fe6bd400f44954a3196f9f42cee/55e68/Corfe-1024x766.webp 975w,
+/static/4f079fe6bd400f44954a3196f9f42cee/44907/Corfe-1024x766.webp 1024w&quot;
+              sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/710e7/Corfe-1024x766.jpg 163w,
+/static/4f079fe6bd400f44954a3196f9f42cee/b9e16/Corfe-1024x766.jpg 325w,
+/static/4f079fe6bd400f44954a3196f9f42cee/ced87/Corfe-1024x766.jpg 650w,
+/static/4f079fe6bd400f44954a3196f9f42cee/1e5ea/Corfe-1024x766.jpg 975w,
+/static/4f079fe6bd400f44954a3196f9f42cee/87945/Corfe-1024x766.jpg 1024w&quot;
+            sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4f079fe6bd400f44954a3196f9f42cee/ced87/Corfe-1024x766.jpg&quot;
+            alt=&quot;The ruins of Corfe Castle in Dorset. Copyright Paul Adams&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;The ruins of Corfe Castle in Dorset. Copyright Paul Adams&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;Coverage&lt;/h2&gt;
+&lt;p&gt;These terminologies cover a wide range of materials and objects.&lt;/p&gt;
+&lt;h3&gt;Archaeology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;archaeological science thesaurus&lt;/li&gt;
+&lt;li&gt;archaeological events thesaurus&lt;/li&gt;
+&lt;li&gt;evidence thesaurus&lt;/li&gt;
+&lt;li&gt;manner of loss list&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Archive&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;resource description thesaurus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Artefact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;archaeological objects thesaurus&lt;/li&gt;
+&lt;li&gt;components thesaurus&lt;/li&gt;
+&lt;li&gt;maritime cargo thesaurus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Heritage&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;heritage crime thesaurus&lt;/li&gt;
+&lt;li&gt;historic characterisation thesaurus (land and sea)&lt;/li&gt;
+&lt;li&gt;nationality list&lt;/li&gt;
+&lt;li&gt;threat list&lt;/li&gt;
+&lt;li&gt;building materials thesaurus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Monument&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;components thesaurus&lt;/li&gt;
+&lt;li&gt;historic aircraft thesaurus&lt;/li&gt;
+&lt;li&gt;maritime craft thesaurus&lt;/li&gt;
+&lt;li&gt;monuments thesaurus
+&lt;ul&gt;
+&lt;li&gt;Defence of Britain &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Farmsteads &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;First World War &lt;em&gt;(project)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Working Groups]]></title><description><![CDATA[Terminology working group, member organizations & specialist meetings A number of sub-groups have formed at different times to assist with…]]></description><link>https://heritage-standards.museologi.st/working-groups/</link><guid isPermaLink="false">https://heritage-standards.museologi.st/working-groups/</guid><pubDate>Tue, 08 Apr 2014 15:17:44 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Terminology working group, member organizations &amp;#x26; specialist meetings&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A number of sub-groups have formed at different times to assist with the development of various FISH projects and products.  The &lt;em&gt;Terminology Working Group&lt;/em&gt; meet regularly, but otherwise the &lt;em&gt;FISH Mailing List&lt;/em&gt; is used for online discussions on general, technical or subject specific issues. E-conferences are sometimes organized to invite group discussion and consensus on changes or amendments to FISH standards or guidance.&lt;/p&gt;
 &lt;p&gt;To join the mailing list, please go to &lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH&quot;&gt;FISH JISCMail&lt;/a&gt;. To join a working group, please contact &lt;a href=&quot;mailto:mailto:terminologies@HistoricEngland.org.uk&quot;&gt;FISH&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Terminology Working Group&lt;/h3&gt;
