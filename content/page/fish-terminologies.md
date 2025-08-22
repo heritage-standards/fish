@@ -41,7 +41,7 @@ All the resources here are free to use and do not require FISH membership.
 
 > Thesauri last updated August 2025 (version 28)
 
-All of the csv files, rdf/skos links below are current; however, due to an ongoing technical issue we have been unable to produce updated
+All of the csv files are current; however, due to an ongoing technical issue we have been unable to produce updated
 pdf versions of some of our terminologies for this release; those affected by this are:
 
 1. Archaeological Objects
