@@ -45,11 +45,15 @@ All of the csv files, rdf/skos links below are current; however, due to an ongoi
 pdf versions of some of our terminologies for this release; those affected by this are:
 
 1. Archaeological Objects
-2. Components
-3. Historic Aircraft
-4. Monument Type
-5. Object Materials
-6. Resource Description (Thred).
+2. Cargo
+3. Components
+4. Event
+5. Evidence
+6. Historic Aircraft
+7. Maritime Place Name
+8. Monument Type
+9. Object Materials
+10. Resource Description (Thred).
 
 ### <a id="archaeological-objects-thesaurus"></a> Archaeological Objects Thesaurus
 
