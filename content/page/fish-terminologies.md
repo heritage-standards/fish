@@ -118,7 +118,7 @@ Thesaurus for indexing different types of farmsteads, related buildings, areas a
 
 For the recording of monuments related to the First World War in the UK. This thesaurus was constructed for the _First World War Home Front Project_ and does not contain any additional terminology than that held in Monument Type.
 
-[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [CSV](/2025/zip_files/FirstWorldWar.zip.zip)
+[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [CSV](/2025/zip_files/FirstWorldWar.zip)
 
 ### <a id="heritage-crime-thesaurus"></a> Heritage Crime Thesaurus
 
