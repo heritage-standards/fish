@@ -5,7 +5,7 @@ permalink: /fish-vocabularies/
 status: publish
 author:
     - Data Standards Specialist
-last_modified_at: 2024-07-02T18:45:15
+last_modified_at: 2025-08-22T15:38:01
 ---
 
 **This page presents the most current version of the FISH vocabularies in a number of formats; on this page you can also download the thesaurus table structure along with a list of the latest candidate terms added to our terminologies.**
@@ -39,7 +39,7 @@ All the resources here are free to use and do not require FISH membership.
 - [Resource Description Thesaurus](#resource-description-thesaurus)
 - [Threat Types List](#threat-types-list)
 
-> Thesauri last updated June 2024 (version 27)
+> Thesauri last updated August 2025 (version 28)
 
 All of the csv files, rdf/skos links below are current; however, due to an ongoing technical issue we have been unable to produce updated
 pdf versions of some of our terminologies for this release; those affected by this are:
