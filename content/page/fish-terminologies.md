@@ -258,4 +258,4 @@ The FISH thesaurus table structure is identical to Historic England's monuments 
 
 Every time we release a new version of the FISH thesauri, we also include a simple list of the new terms added. The document below contains terms added to Version 28, along with those considered for addition.
 
-<a href="/2025/pdf_files/Terms added-rejected July2024-July2025_Final" class="btn btn-success">New terms list</a>
+<a href="/2025/pdf_files/Terms added-rejected July2024-July2025_Final.pdf" class="btn btn-success">New terms list</a>
