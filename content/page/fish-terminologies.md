@@ -10,6 +10,20 @@ last_modified_at: 2025-08-22T15:38:01
 
 **This page presents the most current version of the FISH vocabularies in a number of formats; on this page you can also download the thesaurus table structure along with a list of the latest candidate terms added to our terminologies.**
 
+**All of the csv files are current; however, due to an ongoing technical issue we have been unable to produce updated
+pdf versions of some of our terminologies for this release; those affected by this are:**
+
+1. Archaeological Objects
+2. Cargo
+3. Components
+4. Event
+5. Evidence
+6. Historic Aircraft
+7. Maritime Place Name
+8. Monument Type
+9. Object Materials
+10. Resource Description (Thred).
+
 All the resources here are free to use and do not require FISH membership.
 
 ### Thesauri
@@ -40,20 +54,6 @@ All the resources here are free to use and do not require FISH membership.
 - [Threat Types List](#threat-types-list)
 
 > Thesauri last updated August 2025 (version 28)
-
-All of the csv files are current; however, due to an ongoing technical issue we have been unable to produce updated
-pdf versions of some of our terminologies for this release; those affected by this are:
-
-1. Archaeological Objects
-2. Cargo
-3. Components
-4. Event
-5. Evidence
-6. Historic Aircraft
-7. Maritime Place Name
-8. Monument Type
-9. Object Materials
-10. Resource Description (Thred).
 
 ### <a id="archaeological-objects-thesaurus"></a> Archaeological Objects Thesaurus
 
