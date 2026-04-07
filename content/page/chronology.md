@@ -59,7 +59,8 @@ The full Historic England chronological guide for recording sites and monuments 
    * Anglo-Saxon 410 to 1066
      * Early Anglo-Saxon 410 to 660
      * Mid Anglo-Saxon 660 to 899
-     * Late Anglo-Saxon 899 to 1066 
+     * Late Anglo-Saxon 899 to 1066
+   * Viking 800 to 1050  
 * Medieval 1066 to 1540
   *   High Medieval 1066 to 1300
   *   Late Medieval 1300 to 1540
