@@ -160,6 +160,7 @@ The full Historic England chronological guide for recording sites and monuments 
   * Early 20th Century 1901 to 1932
     * Edwardian 1902 to 1910
     * First World War 1914 to 1918
+    * Interwar 1919 to 1939
   * Mid 20th Century 1933 to 1966
     * Second World War 1939 to 1945
     * Cold War 1946 to 1991
