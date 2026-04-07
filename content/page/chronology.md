@@ -42,7 +42,7 @@ The full Historic England chronological guide for recording sites and monuments 
     * Middle Iron Age -300 to -100
     * Late Iron Age -100 (BCE) to 43 (CE)
 * Later Prehistoric -4,000 (BCE) to 43 (CE)
-    * Prehistoric -1,000 000 (BCE) to 43 (CE)
+* Prehistoric -1,000 000 (BCE) to 43 (CE)
 
 ### Cultural Periods
 
