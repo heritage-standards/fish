@@ -75,6 +75,7 @@ The full Historic England chronological guide for recording sites and monuments 
   * Interregnum 1649 to 1660 
   * Hanoverian 1714 to 1837
     * Georgian 1714 to 1830
+      * Regency 1811 to 1820
   * Victorian 1837 to 1901
 
 ### Centuries
