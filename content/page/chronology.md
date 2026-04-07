@@ -70,6 +70,7 @@ The full Historic England chronological guide for recording sites and monuments 
   * Stuart 1603 to 1714
     * Jacobean 1603 to 1625
     * Caroline 1625 to 1649
+    * Restoration 1660 to 1685
   * English Civil War 1642 to 1651 
   * Interregnum 1649 to 1660 
   * Hanoverian 1714 to 1837
