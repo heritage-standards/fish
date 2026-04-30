@@ -57,7 +57,7 @@ All the resources here are free to use and do not require FISH membership.
 
 ### <a id="archaeological-objects-thesaurus"></a> Archaeological Objects Thesaurus
 
-Originally developed by the Archaeological Objects Working Party and published by the [MDA](https://en.wikipedia.org/wiki/Collections_Trust). It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. _corn dolly, cremation, cross_). Now maintained by FISH on behalf of the heritage sectr.
+Originally developed by the Archaeological Objects Working Party and published by the [MDA](https://en.wikipedia.org/wiki/Collections_Trust). It provides guidance for the recording of archaeological objects in Britain and Ireland covering all historical periods (e.g. _corn dolly, cremation, cross_). Now maintained by FISH on behalf of the heritage sector.
 
 [Alphabetical](/2021/02/ArchObj_alpha.pdf) [Hierarchical](/2021/02/ArchObj_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/mda_obj.html) [CSV](/2026/zip_files/ArchObjsV29.zip)
 
