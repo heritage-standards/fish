@@ -53,7 +53,7 @@ All the resources here are free to use and do not require FISH membership.
 - [Resource Description Thesaurus](#resource-description-thesaurus)
 - [Threat Types List](#threat-types-list)
 
-> Thesauri last updated August 2025 (version 28)
+> Thesauri last updated April 2026 (version 29)
 
 ### <a id="archaeological-objects-thesaurus"></a> Archaeological Objects Thesaurus
 
@@ -256,6 +256,6 @@ The FISH thesaurus table structure is identical to Historic England's monuments 
 
 ## Thesaurus Updates
 
-Every time we release a new version of the FISH thesauri, we also include a simple list of the new terms added. The document below contains terms added to Version 28, along with those considered for addition.
+Every time we release a new version of the FISH thesauri, we also include a simple list of the new terms added. The document below contains terms added to Version 29, along with those considered for addition.
 
-<a href="/2025/pdf_files/Terms added-rejected July2024-July2025_Final.pdf" class="btn btn-success">New terms list</a>
+<a href="/2026/pdf_files/Terms%20added-rejected_Aug2025-April2026.pdf" class="btn btn-success">New terms list</a>
