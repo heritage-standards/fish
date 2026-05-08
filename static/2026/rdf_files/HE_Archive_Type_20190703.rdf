@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:cc="http://creativecommons.org/ns#">
+
+  <skos:ConceptScheme rdf:about="http://purl.org/heritagedata/schemes/465">
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-26</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465</dc:identifier>
+    <dc:title xml:lang="en">Historic England Archive Type Thesaurus</dc:title>
+    <dc:description xml:lang="en">Used to record types of archive object associated with Monuments and Events.</dc:description>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+  </skos:ConceptScheme>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132936">
+    <skos:altLabel xml:lang="en">Photographic Print (Exterior)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Photographic Print (Interior)</skos:altLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133154">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133154</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Contact Print</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133001">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133001</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Halftone</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photomechanical or photolithographical reproduction process representing a photographic image as a series of dots or lines.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134931">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134931</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Salted Paper Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Early form of photographic print.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134932">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134932</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Carbon Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic print using carbon</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134933">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134933</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Albumen Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic print using albumen.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134934">
+        <skos:altLabel xml:lang="en">P.O.P.</skos:altLabel>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134934</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Printing Out Paper Print</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134936">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134936</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Cyanotype</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134937">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134937</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Platinum Print</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134938"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134939">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134939</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Colour Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Record colour in appropriate field.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134940">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134940</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Dye Transfer Print</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134941">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134941</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Polaroid Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic print on self-developing photographic paper in a format developed by Polaroid in the 1970's</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134946">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134946</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Cibachrome Print</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132936</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Print (Photographic)</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132937">
+    <skos:altLabel xml:lang="en">Photographic Slide (Exterior)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Photographic Slide (Interior)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Slide</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132937</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Slide (Photographic)</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Photographic transparency mounted for use in projection equipment.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134950">
+    <skos:altLabel xml:lang="en">Published Map</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134950</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Map</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for completed, accuarately surveyed maps</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134951">
+    <skos:altLabel xml:lang="en">National Mapping Programme Morph Number Sheet</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134951</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Nmp Morph Number Sheet</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134926">
+    <skos:altLabel xml:lang="en">Dufay Transparency</skos:altLabel>
+    <skos:altLabel xml:lang="en">Finlay Transparency</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kodachrome Transparency</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134945"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134926</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Acetate Transparency</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Photographic transparency on an acetate base material.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132939">
+    <skos:altLabel xml:lang="en">Field Drawing</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132939</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Archaeological Sketch Plan</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133012">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134923">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133012"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134923</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Autochrome (Wet)</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic colour print developed using wet process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134930">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133012"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134930</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Diapositive</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic format.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134945"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134955">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133012"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134955</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Autochrome (Dry)</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Colour positive print developed using a dry process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133012</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Positive</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Photographic image with normal polarity.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133017">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133012"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132915">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132915</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Microfiche</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A sheet of flat film, 105 x 148mm in size, carrying a matrix of micro images.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132934"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132937"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133005">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133005</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Microfilm</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use a term from the Archive Format list.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133017</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Photographic Material</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132960">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133021"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133022">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133022</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Print (Art)</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133023"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133025">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133025</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Rubbing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132878">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132878</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Art Material</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132879">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132879</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Art Pad</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132897"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132898">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132898</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Artefact Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132899">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132899</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Axonometric Drawing</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">NB currently Includes ISOMETRIC though this has a separate term.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132901">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132901</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Isometric Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132902"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132906">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132906</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Graph</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132942">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132942</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Computer Generated Plot</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132947">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132947</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Section</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132949">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132949</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Sketch</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132954">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132954</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Table</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">?what does this mean?</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132998">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132998</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Perspective Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132999">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132999</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Reconstruction Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133009">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133009</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Painting</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134942">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134942</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Ink-Jet Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic image produced using an ink-jet printer.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/139834"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170669">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170669</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Measured Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132960</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Graphic Material</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Pictorial, painted or drawn material such as slides, drawings, photos, plans excluding cartographic.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133018">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132940"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133018</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Measured Architectural Plan</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132940">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133018"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133019">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132940"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133019</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Sketch Architectural Plan</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132897"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132940</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Architectural Plan</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133020">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/139834"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133020</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Excavation Plan</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/139834">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133020"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/139834</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Excavation Drawing</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133021">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132896"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133021</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Postcard</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132896">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133021"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132896</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Correspondence</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133023">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133000">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133023"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133000</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Engraving</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133023</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Print (Mechanical)</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Reproductive process for non-photographic media in which the image is created by transferring ink from a plate, block etc.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133024">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134958"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133024</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Finds Record Sheet</skos:prefLabel>
+    <skos:related rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132945"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134958">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133024"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132996"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134958</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Site Recording Form</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Forms used in the recording of archaeological or other site investigations.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133026">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133026</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Sale Catalogue</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Particulars of a property for sale.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132975">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133026"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133027">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133027</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Scrap Book</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132873"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132896"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132909">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132909</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Manuscript</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132920">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132920</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Notebook</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Includes excavation, research and general notes.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132921">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132921</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Notes</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Loose notes</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132922">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132922</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Offprint</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An article, but published as a separate item.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132933">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132933</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Pamphlet</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132955">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132955</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Thesis</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Includes dissertations</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132956">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132956</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Typescript</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132957">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132957</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Unpublished Text</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132993">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132993</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Card</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132994">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132994</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Catalogue</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132997">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132997</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Diary</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Daily record of events or appointments.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133003">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133003</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Journal</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Record of events.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133010">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133010</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Photocopy</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Mechanical reproductive process using photographic, electrostatic and dry powder techniques.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170710"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132975</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Document</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Unpublished written work such as manuscripts, dissertations etc. not disseminated to the public.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133028">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132873"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133028</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Society Records</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132873">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133028"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133007">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132873"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133007</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Museum Records</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134962"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132873</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Administrative Records</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133029">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132944">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133029"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132944</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Published Material</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170717">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133029"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170717</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Miscellaneous Material</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133029</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Unspecified Archive</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134947">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133029"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132903">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132903</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Extract</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Cutting or copy from published work</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134947</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Genre</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133153">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134949"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132934"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133153</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Album</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134949">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133153"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132904">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134949"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132904</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">File</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132918">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134949"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132918</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Multimedia</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134949</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Compilation</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132874">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132953"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132874</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Antiquity Model</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132953">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132874"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132953</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Measured Survey</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132875">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132876"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132875</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Air Photograph Transcription</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132876">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132875"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132876</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Archaeological Survey</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Not subdivided</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132959">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132876"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132910">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132910</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Cadastral Map</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132911">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132911</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Distribution Map</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132913">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132913</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Annotated Map</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132914">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132914</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Sketch Map</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132923">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132923</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Overlay</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132939"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132941">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132941</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Location Plan</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132950">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132950</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Survey</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132951">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132951</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Contour Survey</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132952">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132952</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Geophysical Survey</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132953"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132995">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132995</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Chart</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134950"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134951"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132959</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Cartographic Material</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Maps or charts.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132877">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132897"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132877</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Architectural Survey</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Not subdivided</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132897">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132877"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132900">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132897"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132900</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Elevation Drawing</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132940"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132897</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Architectural Drawing</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132880">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132880</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Article</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A written work being one of several found in a monograph or serial</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134948">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132880"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132881">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132881</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Audio Cassette/Tape</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132895">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132895</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Computer Disk/Tape</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132907"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132917"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132948">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132948</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Serial</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A written work issued at regular intervals and numbered consecutively.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132958">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132958</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Projected And Video Material</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Moving images made available through projection, video or other methods.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132959"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132973"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132976">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132976</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Object</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">3-D physical entity conveying information, e.g. a model, artefact or architectural feature.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134949"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134948</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Physical Characteristics</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132893">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132917"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132893</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Book</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132917">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132893"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132917</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Monograph</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A complete written work including books and anthologies.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132894">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132907"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132894</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Card Index</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Includes individual index cards</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132907">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132894"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132907</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Index</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132902">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132960"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132943">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132902"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132943</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Profile</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132902</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Topographical Drawing</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132905">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132905</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Gazetteer</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132974">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132905"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132908">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132908</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">List</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132945"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133002">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133002</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Finds Index</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133004">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133004</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Matrices</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134958"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134947"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132974</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Data</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Measurements or factual information which may occur in a manual catalogue system or database.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132934">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133153"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132934</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Photograph Album</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132935">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133017"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134915">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134915</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Wet Plate Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic plate, on glass, developed using a wet process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134916">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134916</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Dry Plate Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative on glass developed using a dry process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134917">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134917</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Nitrate Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative using nitrate process on a film base material.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134918">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134918</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Acetate Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative on film. Use for all acetate material types.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134919">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134919</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Polyester Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative on polyester base material.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134920">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134920</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Paper Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative developed on paper.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134921">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134921</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Waxed Paper Negative</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic negative developed on waxed paper.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134922">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132935"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134922</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Carbon Print Interneg</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic print on glass, using a wet process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132935</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Negative</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132945">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132974"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132945</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Record Sheet</skos:prefLabel>
+    <skos:related rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133024"/>
+    <skos:related rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132996"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132946">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134959">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134959</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Specialist Report</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Report prepared by a specialist in a particular field, often as a contribution to a wider project.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170691">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170691</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Building Recording Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170692">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170692</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Deskbased Survey Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170693">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170693</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Evaluation Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170694">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170694</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Excavation Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170695">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170695</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Field Survey Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170696">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170696</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Fieldwalking Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170697">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170697</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Geophysical Survey Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170698">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170698</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Heritage Statement</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170699">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170699</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Historic Landscape Survey Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170700">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170700</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Interim Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170701">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170701</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Post Excavation Assessment Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170706"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170709">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170709</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Watching Brief Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132946</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Report</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Includes interim, research, specialist reports on a specific topic.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132973">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134948"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133008">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132973"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133008</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Music</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132973</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Sound Recording</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A recording of voice, music or other sounds.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/132996">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134958"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/132996</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Context Sheet</skos:prefLabel>
+    <skos:related rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132945"/>
+    <skos:scopeNote xml:lang="en">Record of an individual context (ie layer or feature) from an archaeological excavation.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/133011">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134945"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134956">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133011"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134956</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Lantern Slide (Wet)</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Lantern slide developed using a wet process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134957">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133011"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134957</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Lantern Slide (Dry)</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Lantern slide developed using a dry process.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/133011</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Lantern Slide</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134945">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133011"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134925">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134945"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134925</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Nitrate Transparency</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic transparency on nitrate base material.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134926"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/133012"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134945</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Transparency</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Photographic image produced on transparent medium suitable for use in projection equipment. Use specific term where known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134938">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132936"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134944">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134938"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134944</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Silver Gelatine Print</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Photographic print using silver gelatine.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134938</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Gelatine Print</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/134962">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132873"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170702">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134962"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170702</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Project Brief</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170703">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134962"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170703</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Project Design</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170704">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134962"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170704</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Project Outline</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170705">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/134962"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170705</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Project Specification</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/134962</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Project Documentation</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Documents relating to the planning, inception and management of a project.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170706">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132946"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170707">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170706"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170707</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Dendrochronology Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170708">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170706"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170708</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Radiocarbon Dating Report</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170706</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Scientific Dating Report</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170710">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/132975"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170711"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170712"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170710</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Official Designation Notification</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170711">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170710"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170713">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170711"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170713</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Battlefields Register</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170714">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170711"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170714</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Register Of Parks And Gardens</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170711</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Advisory Designation Notification</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170712">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170710"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170715">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170712"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170715</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Listed Building Notification</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/465/concepts/170716">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/465/concepts/170712"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170716</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Scheduled Monument Notification</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/465"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/465/concepts/170712</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-26T12:02:11</dc:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Statutory Designation Notification</skos:prefLabel>
+  </skos:Concept>
+
+</rdf:RDF>
