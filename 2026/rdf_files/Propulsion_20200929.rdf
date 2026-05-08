@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159222">
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159222</dcterms:identifier>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://purl.org/heritagedata/schemes/70">
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+        <dcterms:title xml:lang="en">Maritime Propulsion Type</dcterms:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <dcterms:description xml:lang="en">Thesaurus of vessel propulsion terms (Maritime).</dcterms:description>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70</dcterms:identifier>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-29</dcterms:issued>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">Diesel Engine</skos:prefLabel>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:scopeNote xml:lang="en">Internal combustion engine powered by diesel fuel.</skos:scopeNote>
+    <skos:broader>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/79237">
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/163261"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159226"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/79237</dcterms:identifier>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/163262"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139069"/>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:scopeNote xml:lang="en">A craft powered by an internal combustion engine. Use also for cases where the precise engine type is not known.</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">Engine</skos:prefLabel>
+        <skos:altLabel xml:lang="en">Internal Combustion Engine</skos:altLabel>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159222"/>
+      </skos:Concept>
+    </skos:broader>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/85723">
+    <skos:broader>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/139068">
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159223"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/99930"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/139068</dcterms:identifier>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159225"/>
+        <skos:prefLabel xml:lang="en">Craft Propulsion</skos:prefLabel>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79237"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/166982"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79239"/>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:scopeNote xml:lang="en">This is the top term for the class.</skos:scopeNote>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/85723"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/140062"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/141404"/>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+      </skos:Concept>
+    </skos:broader>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:scopeNote xml:lang="en">A watercraft built with no engines or masts and designed to be towed by another vessel.</skos:scopeNote>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:prefLabel xml:lang="en">Towed</skos:prefLabel>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/85723</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/82836">
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:broader>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159223">
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/82836"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:prefLabel xml:lang="en">External Combustion Engine</skos:prefLabel>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+        <skos:scopeNote xml:lang="en">A heat engine where an (internal) working fluid is heated by combustion of an external source, through the engine wall or a heat exchanger.</skos:scopeNote>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159223</dcterms:identifier>
+      </skos:Concept>
+    </skos:broader>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159228">
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159228</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/82836"/>
+        <skos:scopeNote xml:lang="en">A type of steam engine where the steam is first expanded in a high-pressure cylinder, then having given up heat and losing pressure, it exhausts directly into one or more larger volume low-pressure cylinders.</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">Compound Engine</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/82836</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159229">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:prefLabel xml:lang="en">Triple Expansion Engine</skos:prefLabel>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/82836"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:scopeNote xml:lang="en">A steam engine that uses three expansion stages of progressively lower pressure, to extract further energy from the steam.</skos:scopeNote>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159229</dcterms:identifier>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">Steam</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A watercraft powered by a marine steam engine. Use also for a vessel employing a steam engine as its principle source of motive power.</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/99930">
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:prefLabel xml:lang="en">Oar</skos:prefLabel>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/99930</dcterms:identifier>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:scopeNote xml:lang="en">A manpowered watercraft operated by wooden oars.</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159225">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159230">
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/163261"/>
+        <skos:prefLabel xml:lang="en">Steam Turbine Engine</skos:prefLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159230</dcterms:identifier>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159225"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:scopeNote xml:lang="en">An engine that extracts thermal energy from pressurized steam, and converts it into rotary motion.</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/139069">
+        <skos:scopeNote xml:lang="en">An aircraft propelled by jet engines, which provide forward thrust by pulling in air, heating and compressing it, then expelling it along with exhaust gasses.</skos:scopeNote>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79237"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:prefLabel xml:lang="en">Jet Engine</skos:prefLabel>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/139069</dcterms:identifier>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159225"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159225</dcterms:identifier>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:prefLabel xml:lang="en">Reaction Engine</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">An engine which provides propulsion by expelling reaction mass, such as jet and rocket engines.</skos:scopeNote>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/159226">
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/159226</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:prefLabel xml:lang="en">Petrol Engine</skos:prefLabel>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:scopeNote xml:lang="en">Internal combustion engine powered by petrol fuel.</skos:scopeNote>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:altLabel xml:lang="en">Gasoline Engine</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79237"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/79239">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <skos:scopeNote xml:lang="en">A watercraft powered by wind caught in an assemblage of cloth sails and masts.</skos:scopeNote>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/79239</dcterms:identifier>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Sail</skos:prefLabel>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/140062">
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:prefLabel xml:lang="en">Paddle</skos:prefLabel>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <skos:scopeNote xml:lang="en">A man-powered watercraft propelled by a paddle, such as logboats and canoes.</skos:scopeNote>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/140062</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/166982">
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Pole</skos:prefLabel>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:scopeNote xml:lang="en">Propulsion by pole, possible in inland waters by craft such as logboats and punts.</skos:scopeNote>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/166982</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/141404">
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/141404</dcterms:identifier>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139068"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <skos:prefLabel xml:lang="en">Motor</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for smaller forms of mechanical propulsion, such as diesel, electric and outboard motors.</skos:scopeNote>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/163262">
+    <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+    <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+    <skos:scopeNote xml:lang="en">An internal combustion turbine engine powered by diesel, in use during WWII, for example.</skos:scopeNote>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79237"/>
+    <skos:broader>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/70/concepts/163261">
+        <skos:scopeNote xml:lang="en">Use where the motive power behind the turbine is unknown.</skos:scopeNote>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/163262"/>
+        <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/163261</dcterms:identifier>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+        <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159230"/>
+        <cc:attributionURL rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79237"/>
+        <dcterms:publisher rdf:resource="http://www.historicengland.org.uk"/>
+        <skos:prefLabel xml:lang="en">Turbine Engine</skos:prefLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-29T09:37:25</dcterms:issued>
+      </skos:Concept>
+    </skos:broader>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <dcterms:identifier>http://purl.org/heritagedata/schemes/70/concepts/163262</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/70"/>
+    <skos:prefLabel xml:lang="en">Diesel Turbine Engine</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

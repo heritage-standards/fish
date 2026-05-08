@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:cc="http://creativecommons.org/ns#">
+
+  <skos:ConceptScheme rdf:about="http://purl.org/heritagedata/schemes/80">
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-06</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80</dc:identifier>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:title xml:lang="en">FISH Maritime Nationality Thesaurus</dc:title>
+    <dc:description xml:lang="en">Used to record the nationality, including flags of convenience, of a vessel or craft.</dc:description>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+  </skos:ConceptScheme>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/143578">
+    <skos:altLabel xml:lang="en">Faeroese</skos:altLabel>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/143578</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Faroese</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in the Faroe (also spelt Faeroe) Islands, e.g. at Torshavn</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/86253">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123813"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/86253</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">English</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in England</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123813">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/86253"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/86279">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123813"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/86279</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Welsh</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Wales.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123799">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123813"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123799</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Northern Irish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Northern Ireland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123806">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123813"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123806</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Scottish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Scotland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123813</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">British</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in the United Kingdom of Great Britain and Northern Ireland</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123753">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123753</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">German</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Germany or any of the states prior to unification.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123831">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123753"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123776">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123776</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Austrian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Austria.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123777">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123777</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Belgian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Belgium.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123779"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123782">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123782</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Czechoslovakian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the former Czechoslovakia between 1918 and 1992. See also CZECH and SLOVAK.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123783">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123783</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Czech</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the Czech Republic. See also Czechoslovakian (for vessels registered between 1918-1992)</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123784">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123784</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Slovak</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Slovakia. See also Czechoslovakian (for vessels registered between 1918-1992)</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123785">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123785</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Danish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Denmark</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123786">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123786</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Irish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the Republic of Ireland (Eire).</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123787">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123787</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Estonian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Estonia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123788">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123788</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Finnish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Finland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123789">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123789</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">French</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in France.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123791">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123791</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Greek</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Greece.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123792">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123792</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Hungarian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Hungary.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123794">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123794</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Manx</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the Isle of Man.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123795">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123795</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Italian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Italy.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123798">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123798</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Dutch</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the Netherlands.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123800">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123800</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Norwegian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Norway.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123803">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123803</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Polish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Poland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123804">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123804</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Portuguese</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Portugal.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123805"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123808">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123808</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Spanish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Spain.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123809">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123809</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Swedish</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Sweden.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123810">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123810</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Swiss</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Switzerland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123811"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123812">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123812</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Ukrainian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Ukraine</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123813"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123816">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123816</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Latvian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Latvia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123819">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123819</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Maltese</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Malta.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123821">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123821</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Icelandic</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Iceland.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123822">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123822</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Lithuanian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Lithuania.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123823">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123823</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Yugoslavian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Yugoslavia between 1918 and 1992.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/124493">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/124493</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Prussian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/133333">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/133333</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Croatian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Croatia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/139616">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/139616</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Romanian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Romania.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/139816">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/139816</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Slovene</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Slovenia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/142068">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/142068</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Flemish</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/142069"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/143578"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/151490"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171360">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171360</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Austro Hungarian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171362">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171362</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Breton</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171363">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171363</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Bremer</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171364">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171364</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">East Prussian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171365">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171365</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Genoese</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171366">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171366</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Hamburger</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171367">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171367</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Lubecker</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171368">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171368</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Neapolitan</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171370">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171370</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Tuscan</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171371">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171371</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Venetian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123831</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">European</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from Europe but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123773">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123830"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123773</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">New Zealander</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in New Zealand.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123830">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123773"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123775">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123830"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123775</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Australian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Australia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123830</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Australasian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from Australasia but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123774">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123774</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Argentinian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Argentina.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123826">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123774"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123815">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123815</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Venezuelan</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Venezuela.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123817">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123817</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Peruvian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Peru.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123820">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123820</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Brazilian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Brazil.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123825">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123825</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Uruguayan</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Uruguay.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123826</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">South American</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from South America but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123778">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123778</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Canadian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Canada.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123827">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123778"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123781">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123781</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Cuban</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Cuba.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123814">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123814</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">American</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the United States of America.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/141890">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/141890</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Antiguan</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Antigua.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/152441">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/152441</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Barbadian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/164376">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/164376</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Jamaican</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Used for the island of Jamaica which gained independence from Britain in 1958.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123827</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">North American</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from North America but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123779">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171372">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123779"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171372</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Guernsey</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171373">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123779"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171373</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Jersey</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123779</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Channel Islander</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Jersey, Guernsey or another of the other Channel Islands.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123780">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123780</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Chinese</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in China.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123829">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123780"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123790">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123790</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Georgian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Georgia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123793">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123793</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Indian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in India.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123796">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123796</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Japanese</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Japan.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123802">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123802</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Philippine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in the Philippines.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123805"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123811"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/142069"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/151490"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/151579">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/151579</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Malaysian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Used for vessels registered in Malaysia.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/151857">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/151857</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Pakistani</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Pakistan.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/152440">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/152440</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Lebanese</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/167564">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/167564</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Vietnamese</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Descriptive of inhabitants of, and cultural artefacts belonging to, Vietnam.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123829</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Asian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from Asia but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123797">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123797</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Liberian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Liberia. Often used as a flag of convenience.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123828">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123797"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123807">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123807</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">South African</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in South Africa.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123818">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123818</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Moroccan</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Morocco.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123824">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123824</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Algerian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Algeria.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/152293">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/152293</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Somali</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Of Somalia</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/152480">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/152480</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Egyptian</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use for vessels registered in Egypt.</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171361">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171361</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Barbary</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/171369">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/171369</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Sallee</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123828</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">African</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from Africa but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123801">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123833"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123801</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Panamanian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Panama. Often used as a flag of convenience.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123833">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123801"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/151821">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123833"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/151821</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+        <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+        <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+        <skos:prefLabel xml:lang="en">Hondurian</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/79275"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123833</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Central American</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels believed to come from Central America but where the precise nationality is not known.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123805">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123805</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Russian</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Russia.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/123811">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/123811</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Turkish</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessels registered in Turkey or the Ottoman Empire.</skos:scopeNote>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/79275">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123826"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123827"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123828"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123830"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123833"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/79275</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Maritime Nationality</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">The nationality of a vessel according to its registration.</skos:scopeNote>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/142069">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/142069</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Ottoman</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/80/concepts/151490">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123831"/>
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/80/concepts/123829"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/80"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/80/concepts/151490</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-06T11:31:47</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://historicengland.org.uk/"/>
+    <cc:attributionName xml:lang="en">Historic England</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:spatial rdf:resource="http://vocab.getty.edu/tgn/7002445"/>
+    <dc:spatial rdf:resource="http://dbpedia.org/resource/England"/>
+    <skos:prefLabel xml:lang="en">Cypriot</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for vessel registered in Cyprus whether Greek or Turkish.</skos:scopeNote>
+  </skos:Concept>
+
+</rdf:RDF>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:cc="http://creativecommons.org/ns#">
+
+  <skos:ConceptScheme rdf:about="http://purl.org/heritagedata/schemes/7145">
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-02</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145</dc:identifier>
+    <dc:title xml:lang="en">Unpath'd Waters Propulsion Types</dc:title>
+    <dc:description xml:lang="en">Terminology developed as part of the Unpath'd Waters project. Used for recording methods of propulsion of craft.</dc:description>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/11000"/>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/12000"/>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13000"/>
+    <skos:hasTopConcept rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/14000"/>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/15000">
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/15000</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Unknown</skos:prefLabel>
+        <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+
+  </skos:ConceptScheme>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/11100">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/11000"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/11100</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Pole</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A means of propelling a craft using a long pole, pushed against the bed of a watercourse or body of water.  Primarily used in inland waters by craft such as logboats and punts.</skos:scopeNote>
+    <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/166982"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/11000">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/11100"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/11200">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/11000"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/11200</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Paddle</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A means of propelling a craft, such as a logboat or  canoe, using a human-powered paddle.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/140062"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/11300">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/11000"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/11300</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Oar</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A manpowered watercraft operated by wooden oars.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/99930"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/11000</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Human</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/12100">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/12000"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/12100</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Sail</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A watercraft powered by wind caught in an assemblage of cloth sails and masts.</skos:scopeNote>
+    <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79239"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/12000">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/12100"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/12000</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Wind</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13100">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13000"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13101"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13102">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13100"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13102</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Paddle Steamer</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A paddle-wheel-driven craft using a steam engine as its primary source of motive power.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13100</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Steam Engine</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">a marine steam engine. Use also for a vessel employing a steam engine as its principle source of motive power.</skos:scopeNote>
+    <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/82836"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13000">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13100"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13300"/>
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13400"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13000</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Machine</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13101">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13100"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13110">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13101"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13110</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Compound Steam Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A type of steam engine where the steam is first expanded in a high-pressure cylinder, then having given up heat and losing pressure, it exhausts directly into one or more larger volume low-pressure cylinders.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159228"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13111">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13101"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13111</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Triple-Expansion Steam Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A steam engine that uses three expansion stages of progressively lower pressure, to extract further energy from the steam.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159229"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13101</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Screw Steamer</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">A screw-driven craft using a steam engine as its primary source of motive power.</skos:scopeNote>
+    <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13300">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13000"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13301">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13300"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13301</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Petrol Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An internal combustion engine powered by petrol fuel.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159226"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13302">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13300"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13302</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Jet Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An  engine, which provides forward thrust by pulling in air, heating and compressing it, then expelling it along with exhaust gasses.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/139069"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13303">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13300"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13303</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Turbine Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">Use where the motive power behind the turbine is unknown.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/163261"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13304">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13300"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13304</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Diesel Engine</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">An internal combustion engine powered by diesel fuel.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+        <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/159222"/>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13300</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Combustion Engine</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/79327"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13400">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13000"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13401">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13400"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13401</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Petrol Motor</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A motor powered by petrol.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13402">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13400"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13402</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Diesel Motor</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A motor powered by diesel.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/13403">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/13400"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13403</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Electric Motor</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">A motor powered by batteries or electrical cells.</skos:scopeNote>
+        <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/13400</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Motor</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Use for smaller forms of mechanical propulsion, such as diesel, electric and outboard motors, where the fuel type is unknown. Use more specific term where known.</skos:scopeNote>
+    <skos:notation xml:lang="en">Liquid error: Object reference not set to an instance of an object.</skos:notation>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/141404"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/14001">
+    <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/14000"/>
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/14001</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Towed (by Human)</skos:prefLabel>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/14000">
+    <skos:narrower rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/14001"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/14002">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/14000"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/14002</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Towed (by Animal)</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:narrower>
+      <skos:Concept rdf:about="http://purl.org/heritagedata/schemes/7145/concepts/14003">
+        <skos:broader rdf:resource="http://purl.org/heritagedata/schemes/7145/concepts/14000"/>
+        <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+        <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/14003</dc:identifier>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+        <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+        <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+        <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+        <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+        <skos:prefLabel xml:lang="en">Towed (by Craft)</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+
+    <skos:inScheme rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <dc:identifier>http://purl.org/heritagedata/schemes/7145/concepts/14000</dc:identifier>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-02T13:49:44</dc:issued>
+    <cc:license rdf:resource="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"/>
+    <cc:attributionURL rdf:resource="https://www.heritage-standards.org.uk/"/>
+    <cc:attributionName xml:lang="en">FISH/Unpath'd Waters</cc:attributionName>
+    <dc:publisher rdf:resource="https://historicengland.org.uk/"/>
+    <skos:prefLabel xml:lang="en">Towed</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://purl.org/heritagedata/schemes/7145"/>
+    <skos:exactMatch rdf:resource="http://purl.org/heritagedata/schemes/70/concepts/85723"/>
+  </skos:Concept>
+
+</rdf:RDF>
