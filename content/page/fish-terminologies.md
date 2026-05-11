@@ -71,13 +71,13 @@ Terminology used for recording the techniques, recovery methods and materials as
 
 Terminology used for recording the main construction materials of monuments, buildings and structures relating to the built and buried heritage of the British Isles. Includes natural/animal and man-made material (e.g. _cement mix, fossil, fibre-glass_). Maintained by FISH on behalf of the heritage sector.  
 
-_[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html) [CSV](/2026/zip_files/BuildingMatsV29.zip)_
+_[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html)[Linked Data - rdf/skos](/2026/rdf_files/Building_Materials_20260209.rdf)[CSV](/2026/zip_files/BuildingMatsV29.zip)_
 
 ### <a id="cargo-thesaurus"></a>Cargo Thesaurus
 
 Thesaurus for types of cargo carried by vessels and aircraft on their final voyage (e.g. _animal fodder, sugar, fuel_). Maintained by Historic England on behalf of the FISH Terminology Working Group.
 
-[Alphabetical](/2021/02/Cargo_alpha.pdf) [Hierarchical](/2021/02/Cargo_class.pdf) [CSV](/2026/zip_files/CargoV29.zip)
+[Alphabetical](/2021/02/Cargo_alpha.pdf) [Hierarchical](/2021/02/Cargo_class.pdf)[Linked Data - rdf/skos](/2026/rdf_files/FISH_MaritimeCargo_20190717.rdf)[CSV](/2026/zip_files/CargoV29.zip)
 
 ### <a id="climate-hazards-thesaurus"></a>Climate Hazards Thesaurus
 
@@ -89,7 +89,7 @@ This vocabulary of climate change hazards, the potential negative climate events
 
 Terminology covering divisions and structural elements of a building or monument. Includes terms that describe areas and spaces, decorative features, fixtures and fittings, machinery and implied features (e.g. _post hole, cartouche, truss_).
 
-[Alphabetical](/2021/02/Components_alpha.pdf) [Hierarchical](/2021/02/Components_class.pdf) [Linked Data](https://purl.org/heritagedata/schemes/eh_com) [CSV](/2026/zip_files/ComponentsV29.zip)
+[Alphabetical](/2021/02/Components_alpha.pdf) [Hierarchical](/2021/02/Components_class.pdf) [Linked Data](https://purl.org/heritagedata/schemes/eh_com)[Linked Data - rdf/skos](/2026/rdf_files/FISH_Components_20260206.rdf)[CSV](/2026/zip_files/ComponentsV29.zip)
 
 ### <a id="defence-of-britain-thesaurus"></a>Defence of Britain Thesaurus
 
@@ -101,19 +101,19 @@ Terminology relating to the Second World War defence of Britain. This resource i
 
 Use for recording archaeological events, e.g. architectural investigative, data collection exercises; from intrusive interventions into the resource to non-damaging survey events (e.g. _grab sampling, auger survey, remote sensing_).
 
-[Alphabetical](/2024/pdf_files/FISH_Event_Type_Alphabetical_20240528.pdf) [Hierarchical](/2024/pdf_files/FISH_Event_Type_Hierarchical_20240528.pdf) [Linked Data](https://heritagedata.org/live/schemes/agl_et.html)  [Linked Data - rdf/skos](/2024/rdf_files/FISH_Event_Type_20240528.rdf) [CSV](/2026/zip_files/EventV29.zip)
+[Alphabetical](/2024/pdf_files/FISH_Event_Type_Alphabetical_20240528.pdf) [Hierarchical](/2024/pdf_files/FISH_Event_Type_Hierarchical_20240528.pdf) [Linked Data](https://heritagedata.org/live/schemes/agl_et.html)  [Linked Data - rdf/skos](/2026/rdf_files/FISH_Event_Type_20260205.rdf) [CSV](/2026/zip_files/EventV29.zip)
 
 ### <a id="evidence-thesaurus"></a> Evidence Thesaurus
 
 Terminology covering the existing physical remains of a monument, or the means by which a monument has been identified where no physical remains exist (e.g. _placename evidence, soilmark, surface deposit_).
 
-[Alphabetical](/2023/04/Evidence_alpha.pdf) [Hierarchical](/2023/04/Evidence_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_evd.html) [CSV](/2026/zip_files/EvidenceV29.zip)
+[Alphabetical](/2023/04/Evidence_alpha.pdf) [Hierarchical](/2023/04/Evidence_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_evd.html)[Linked Data - rdf/skos](/2026/rdf_files/Evidence_20250417.rdf)[CSV](/2026/zip_files/EvidenceV29.zip)
 
 ### <a id="farmstead-thesaurus"></a> Farmstead Thesaurus
 
 Thesaurus for indexing different types of farmsteads, related buildings, areas and layouts. This thesaurus does not contain any additional terminology than that held in Monument Type. Further information regarding national farm building types can be found [here](https://historicengland.org.uk/images-books/publications/national-farm-building-types/).
 
-[Alphabetical](/2021/02/Farmsteads_alpha.pdf) [Hierarchical](/2021/02/Farmsteads_class.pdf) [CSV](/2026/zip_files/FarmsteadsV29.zip)
+[Alphabetical](/2021/02/Farmsteads_alpha.pdf) [Hierarchical](/2021/02/Farmsteads_class.pdf)[Linked Data - rdf/skos](/2026/rdf_files/Farmsteads_20190718.rdf)[CSV](/2026/zip_files/FarmsteadsV29.zip)
 ### <a id="first-world-war-thesaurus"></a> First World War Thesaurus
 
 For the recording of monuments related to the First World War in the UK. This thesaurus was constructed for the _First World War Home Front Project_ and does not contain any additional terminology than that held in Monument Type.
