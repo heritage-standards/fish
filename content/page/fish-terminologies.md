@@ -118,19 +118,19 @@ Thesaurus for indexing different types of farmsteads, related buildings, areas a
 
 For the recording of monuments related to the First World War in the UK. This thesaurus was constructed for the _First World War Home Front Project_ and does not contain any additional terminology than that held in Monument Type.
 
-[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [CSV](/2026/zip_files/FirstWorldWarV29.zip)
+[Alphabetical](/2021/02/FWW_alpha.pdf) [Hierarchical](/2021/02/FWW_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/FWW_20190718.rdf) [CSV](/2026/zip_files/FirstWorldWarV29.zip)
 
 ### <a id="heritage-crime-thesaurus"></a> Heritage Crime Thesaurus
 
 Thesaurus for indexing types of crime and incidents against heritage assets (e.g. _graffiti, theft, unauthorized diving_).
 
-[Alphabetical](/2021/02/HeritageCrime_alpha.pdf) [Hierarchical](/2021/02/HeritageCrime_class.pdf) [CSV](/2026/zip_files/HeritageCrimeV29.zip)
+[Alphabetical](/2021/02/HeritageCrime_alpha.pdf) [Hierarchical](/2021/02/HeritageCrime_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/FISH_Heritage_Crime_20190718.rdf) [CSV](/2026/zip_files/HeritageCrimeV29.zip)
 
 ### <a id="historic-aircraft-thesaurus"></a> Historic Aircraft Thesaurus
 
 Indexing terminology for the recording of aircraft remains and crash sites, listing aircraft types by form, function and manufacturer (e.g. _Atlas, Target, Westland_).
 
-[Alphabetical](/2021/02/Aircraft_alpha.pdf) [Hierarchical](/2021/02/Aircraft_class.pdf) [CSV](/2026/zip_files/HistoricAircraftV29.zip)
+[Alphabetical](/2021/02/Aircraft_alpha.pdf) [Hierarchical](/2021/02/Aircraft_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/Aircraft_type_20200807.rdf) [CSV](/2026/zip_files/HistoricAircraftV29.zip)
 
 ### <a id="historic-characterization-thesaurus"></a> Historic Characterization Thesaurus
 
@@ -148,19 +148,19 @@ A small authority file for indexing types of loss of vessels or aircraft (e.g. _
 
 Craft types which survive as wrecks for Historic England’s maritime record and can be used to describe types of ship (e.g. _block ship, rescue vessel, net layer_) .
 
-[Alphabetical](/2021/02/MaritimeCraft_alpha.pdf) [Hierarchical](/2021/02/MaritimeCraft_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmc.html) [CSV](/2026/zip_files/MarCraftV29.zip)
+[Alphabetical](/2021/02/MaritimeCraft_alpha.pdf) [Hierarchical](/2021/02/MaritimeCraft_class.pdf) [Linked Data](http://heritagedata.org/live/schemes/eh_tmc.html) [Linked Data - rdf/skos](/2026/rdf_files/FISH_Maritime_craft_20190718.rdf) [CSV](/2026/zip_files/MarCraftV29.zip)
 
 ### <a id="maritime-fixtures-and-fittings-thesaurus"></a> Maritime Fixtures and Fittings Thesaurus
 
 Thesaurus of non-structural, movable items on vessels (e.g. _lifting gear, deadeye, clenched nail_).
 
-[Alphabetical](/2021/02/MaritimeFixFitts_alpha.pdf) [Hierarchical](/2021/02/MaritimeFixFitts_class.pdf) [CSV](/2026/zip_files/MarFixturesFittingsV29.zip)
+[Alphabetical](/2021/02/MaritimeFixFitts_alpha.pdf) [Hierarchical](/2021/02/MaritimeFixFitts_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/Fixtures_Fittings_20220609.rdf) [CSV](/2026/zip_files/MarFixturesFittingsV29.zip)
 
 ### <a id="maritime-place-names-thesaurus"></a> Maritime Place Names Thesaurus
 
 Thesaurus for indexing ports of destination and departure for maritime vessels, grouped by continent, island, water or unassigned (e.g. _Isle of Man, Scapa Flow, Gulf of Bothnia_).
 
-[Alphabetical](/2021/02/MarPlaceName_alpha.pdf) [Hierarchical](/2021/02/MarPlaceName_class.pdf) [CSV](/2026/zip_files/MarPlaceNamesV29.zip)
+[Alphabetical](/2021/02/MarPlaceName_alpha.pdf) [Hierarchical](/2021/02/MarPlaceName_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/Maritime_placename_20220314.rdf) [CSV](/2026/zip_files/MarPlaceNamesV29.zip)
 
 ### <a id="monument-types-thesaurus"></a> Monument Types Thesaurus
 
@@ -174,13 +174,13 @@ Terminology relating to the built and buried heritage of the British Isles and u
 
 List of nationalities for indexing vessels and aircraft.
 
-[Alphabetical](/2021/02/Nationality_alpha.pdf) [Hierarchical](/2021/02/Nationality_class.pdf) [CSV](/2026/zip_files/NationalityV29.zip)
+[Alphabetical](/2021/02/Nationality_alpha.pdf) [Hierarchical](/2021/02/Nationality_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/Nationality_20260206.rdf) [CSV](/2026/zip_files/NationalityV29.zip)
 
 ### <a id="object-materials-thesaurus"></a> Object Materials Thesaurus
 
 A thesaurus, originally developed to assist with the recording of materials for maritime wrecks but now used more generally for objects found in findspots. Please use the British Museum Thesaurus for museum objects.
 
-[Alphabetical](/2021/02/ObjectMat_alpha.pdf) [Hierarchical](/2021/02/ObjectMat_class.pdf) [CSV](/2026/zip_files/ObjMatV29.zip)
+[Alphabetical](/2021/02/ObjectMat_alpha.pdf) [Hierarchical](/2021/02/ObjectMat_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/HE_MaritimeObjectMaterial_20250620.rdf) [CSV](/2026/zip_files/ObjMatV29.zip)
 
 ### <a id="periods-list"></a> Periods List (superseded)
 
@@ -198,7 +198,7 @@ Periods and centuries used in Historic England datasets.
 
 Officially called _English Heritage and National Trust Resource Description_, also known as THRED. Terminology for the description of archive type and format, now updated by FISH (e.g. _excavation report, newspaper article, video clip_).
 
-[Alphabetical](/2021/02/Thred_alpha.pdf) [Hierarchical](/2021/02/Thred_class.pdf) [CSV](/2026/zip_files/THREDV29.zip)
+[Alphabetical](/2021/02/Thred_alpha.pdf) [Hierarchical](/2021/02/Thred_class.pdf) [Linked Data - rdf/skos](/2026/rdf_files/FISH_Resource_Description_20240919.rdf) [CSV](/2026/zip_files/THREDV29.zip)
 
 ### <a id="threat-types-list"></a> Threat Types List
 
