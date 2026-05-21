@@ -64,6 +64,7 @@ These terminologies cover a wide range of materials and objects.
 
 ### Heritage
 
+*   climate hazards 
 *   heritage crime thesaurus
 *   historic characterisation thesaurus (land and sea)
 *   nationality list
