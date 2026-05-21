@@ -71,7 +71,7 @@ Terminology used for recording the techniques, recovery methods and materials as
 
 Terminology used for recording the main construction materials of monuments, buildings and structures relating to the built and buried heritage of the British Isles. Includes natural/animal and man-made material (e.g. _cement mix, fossil, fibre-glass_). Maintained by FISH on behalf of the heritage sector.  
 
-_[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html) [Linked Data - rdf/skos](/2026/rdf_files/Building_Materials_20260209.rdf) [CSV](/2026/zip_files/BuildingMatsV29.zip)_
+[Alphabetical](/2021/02/BuildingMats_alpha.pdf) [Hierarchical](/2021/02/BuildingMats_class.pdf) [Linked Data](https://heritagedata.org/live/schemes/eh_tbm.html) [Linked Data - rdf/skos](/2026/rdf_files/Building_Materials_20260209.rdf) [CSV](/2026/zip_files/BuildingMatsV29.zip)
 
 ### <a id="cargo-thesaurus"></a>Cargo Thesaurus
 
