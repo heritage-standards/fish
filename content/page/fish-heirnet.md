@@ -3,11 +3,11 @@ type: page
 title: FISH-HEIRNET
 status: publish
 permalink: /fish-heirnet/
-last_modified_at: 2024-09-26T09:50:56
+last_modified_at: 2026-05-21T09:50:56
 ---
 ## FISH contacts, meetings and events
 
-FISH-HEIRNET meetings are held twice a year with a technical meeting in Spring and a strategic meeting in Autumn. Venue varies.
+FISH strategic meetings are held online annually in Autumn.
 Below are _Agendas_ for up-coming meetings and the _Minutes_ from previous meetings. All archived meeting papers and presentations
 (where available) are stored on [FISH JISCMAIL](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=FISH).
 
@@ -15,7 +15,7 @@ The meetings are chaired by the _FISH Convener_, [Nina Steele](mailto:Nina.Steel
 on the Ancient and Historical Monuments of Wales (RCAHMW).
 
 FISH Co-ordinator is [Paul Adams](mailto:paul.adams@HistoricEngland.org.uk), Historic England. Please email Paul if you
-wish to attend any of the FISH-HEIRNET meetings.
+wish to attend FISH meetings.
 
 The FISH Terminology Working Group is chaired by [Phil Carlisle](mailto:philip.carlisle@HistoricEngland.org.uk), Historic England,
 and secretary is [Sally Carter](http://www.museumwales.ac.uk/), Amgueddfa Cymru - National Museum Wales.
